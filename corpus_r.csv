@@ -1,0 +1,307 @@
+,Area,Cancer Type,Year,Sex,Race,Age-Adjusted Rate,Case Count,Population,CancerType_val,Sex_val,Race_val
+0,Alaska,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,0.0,0,0,9,3,1
+1,Wyoming,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,0.0,0,0,9,3,1
+2,Montana,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,3.1,24,526813,9,3,1
+3,Alabama,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,3.5,127,2524361,9,3,1
+4,Arizona,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,3.7,180,3600640,9,3,1
+5,Nevada,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,3.7,71,1508820,9,3,1
+6,South Dakota,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,3.7,21,435205,9,3,1
+7,Connecticut,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.0,105,1829397,9,3,1
+8,Arkansas,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.1,87,1531624,9,3,1
+9,Utah,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.2,63,1565310,9,3,1
+10,North Dakota,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.3,21,370046,9,3,1
+11,Texas,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.3,685,14409351,9,3,1
+12,Idaho,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.4,49,873205,9,3,1
+13,New Mexico,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.4,67,1057201,9,3,1
+14,Washington,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.4,214,3758918,9,3,1
+15,Kentucky,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.5,141,2263603,9,3,1
+16,South Carolina,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.5,171,2620391,9,3,1
+17,Tennessee,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.6,208,3466921,9,3,1
+18,Wisconsin,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.6,192,2918181,9,3,1
+19,Minnesota,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.7,179,2813822,9,3,1
+20,Colorado,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.7,161,2825526,9,3,1
+21,Florida,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.7,802,10858944,9,3,1
+22,North Carolina,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.7,342,5331288,9,3,1
+23,Delaware,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.8,38,498641,9,3,1
+24,Hawaii,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.8,48,709302,9,3,1
+25,Iowa,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.8,106,1581655,9,3,1
+26,Oregon,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.8,140,2108799,9,3,1
+27,Georgia,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.9,328,5399300,9,3,1
+28,Maine,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.9,54,683374,9,3,1
+29,Mississippi,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.9,103,1535497,9,3,1
+30,Oklahoma,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,4.9,129,1987969,9,3,1
+31,Virginia,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.0,287,4318025,9,3,1
+32,Ohio,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.1,441,5953904,9,3,1
+33,West Virginia,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.1,70,910982,9,3,1
+34,Indiana,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.2,240,3394211,9,3,1
+35,Kansas,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.2,105,1460588,9,3,1
+36,Massachusetts,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.2,259,3542925,9,3,1
+37,Louisiana,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.3,166,2385448,9,3,1
+38,California,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.3,1290,19843136,9,3,1
+39,Missouri,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.4,236,3116702,9,3,1
+40,New Hampshire,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.5,56,682692,9,3,1
+41,Pennsylvania,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.6,561,6529381,9,3,1
+42,Nebraska,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.6,76,964240,9,3,1
+43,Illinois,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.6,490,6471727,9,3,1
+44,Rhode Island,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,5.6,47,543427,9,3,1
+45,New Jersey,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,6.0,387,4545338,9,3,1
+46,New York,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,6.0,849,10046133,9,3,1
+47,Michigan,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,6.1,447,5067862,9,3,1
+48,Maryland,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,6.7,278,3111203,9,3,1
+49,Vermont,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,6.8,32,316079,9,3,1
+50,District of Columbia,"Corpus and Uterus, NOS",2018,Female,All Races and Ethnicities,9.6,40,368643,9,3,1
+51,District of Columbia,"Corpus and Uterus, NOS",2018,Female,White,0.0,0,0,9,3,2
+52,Wyoming,"Corpus and Uterus, NOS",2018,Female,White,0.0,0,0,9,3,2
+53,Alaska,"Corpus and Uterus, NOS",2018,Female,White,0.0,0,0,9,3,2
+54,Alabama,"Corpus and Uterus, NOS",2018,Female,White,2.7,74,1746198,9,3,2
+55,Montana,"Corpus and Uterus, NOS",2018,Female,White,3.2,24,476562,9,3,2
+56,South Carolina,"Corpus and Uterus, NOS",2018,Female,White,3.2,90,1797753,9,3,2
+57,Mississippi,"Corpus and Uterus, NOS",2018,Female,White,3.5,49,900959,9,3,2
+58,Georgia,"Corpus and Uterus, NOS",2018,Female,White,3.6,163,3260375,9,3,2
+59,Arizona,"Corpus and Uterus, NOS",2018,Female,White,3.7,164,3032061,9,3,2
+60,Connecticut,"Corpus and Uterus, NOS",2018,Female,White,3.7,89,1482706,9,3,2
+61,Arkansas,"Corpus and Uterus, NOS",2018,Female,White,3.7,67,1225549,9,3,2
+62,North Carolina,"Corpus and Uterus, NOS",2018,Female,White,3.7,212,3787992,9,3,2
+63,Louisiana,"Corpus and Uterus, NOS",2018,Female,White,3.9,86,1500331,9,3,2
+64,South Dakota,"Corpus and Uterus, NOS",2018,Female,White,3.9,21,374017,9,3,2
+65,Nevada,"Corpus and Uterus, NOS",2018,Female,White,3.9,59,1137703,9,3,2
+66,Tennessee,"Corpus and Uterus, NOS",2018,Female,White,4.1,156,2742940,9,3,2
+67,Florida,"Corpus and Uterus, NOS",2018,Female,White,4.1,605,8494176,9,3,2
+68,Kentucky,"Corpus and Uterus, NOS",2018,Female,White,4.1,118,2012497,9,3,2
+69,Texas,"Corpus and Uterus, NOS",2018,Female,White,4.2,545,11481905,9,3,2
+70,New Mexico,"Corpus and Uterus, NOS",2018,Female,White,4.3,59,879276,9,3,2
+71,Washington,"Corpus and Uterus, NOS",2018,Female,White,4.3,182,3053227,9,3,2
+72,Utah,"Corpus and Uterus, NOS",2018,Female,White,4.3,61,1445810,9,3,2
+73,North Dakota,"Corpus and Uterus, NOS",2018,Female,White,4.5,21,327564,9,3,2
+74,Virginia,"Corpus and Uterus, NOS",2018,Female,White,4.5,194,3041404,9,3,2
+75,Wisconsin,"Corpus and Uterus, NOS",2018,Female,White,4.5,177,2568475,9,3,2
+76,Idaho,"Corpus and Uterus, NOS",2018,Female,White,4.5,48,826312,9,3,2
+77,Oklahoma,"Corpus and Uterus, NOS",2018,Female,White,4.5,104,1540466,9,3,2
+78,Minnesota,"Corpus and Uterus, NOS",2018,Female,White,4.6,165,2405405,9,3,2
+79,Colorado,"Corpus and Uterus, NOS",2018,Female,White,4.6,143,2506000,9,3,2
+80,Oregon,"Corpus and Uterus, NOS",2018,Female,White,4.7,127,1877920,9,3,2
+81,Iowa,"Corpus and Uterus, NOS",2018,Female,White,4.8,103,1457766,9,3,2
+82,Missouri,"Corpus and Uterus, NOS",2018,Female,White,4.9,189,2612757,9,3,2
+83,Maine,"Corpus and Uterus, NOS",2018,Female,White,4.9,53,654956,9,3,2
+84,Ohio,"Corpus and Uterus, NOS",2018,Female,White,4.9,368,4925060,9,3,2
+85,Indiana,"Corpus and Uterus, NOS",2018,Female,White,5.0,206,2917999,9,3,2
+86,Delaware,"Corpus and Uterus, NOS",2018,Female,White,5.0,30,350587,9,3,2
+87,Illinois,"Corpus and Uterus, NOS",2018,Female,White,5.0,350,4998606,9,3,2
+88,Kansas,"Corpus and Uterus, NOS",2018,Female,White,5.1,94,1287436,9,3,2
+89,Massachusetts,"Corpus and Uterus, NOS",2018,Female,White,5.2,233,2913106,9,3,2
+90,West Virginia,"Corpus and Uterus, NOS",2018,Female,White,5.2,69,865365,9,3,2
+91,California,"Corpus and Uterus, NOS",2018,Female,White,5.3,972,14588109,9,3,2
+92,Maryland,"Corpus and Uterus, NOS",2018,Female,White,5.3,146,1833886,9,3,2
+93,Pennsylvania,"Corpus and Uterus, NOS",2018,Female,White,5.4,477,5398388,9,3,2
+94,Rhode Island,"Corpus and Uterus, NOS",2018,Female,White,5.4,42,464188,9,3,2
+95,New York,"Corpus and Uterus, NOS",2018,Female,White,5.4,576,7051515,9,3,2
+96,New Hampshire,"Corpus and Uterus, NOS",2018,Female,White,5.6,55,645554,9,3,2
+97,New Jersey,"Corpus and Uterus, NOS",2018,Female,White,5.6,287,3311480,9,3,2
+98,Nebraska,"Corpus and Uterus, NOS",2018,Female,White,5.6,72,863741,9,3,2
+99,Michigan,"Corpus and Uterus, NOS",2018,Female,White,5.7,358,4055958,9,3,2
+100,Vermont,"Corpus and Uterus, NOS",2018,Female,White,6.9,32,302630,9,3,2
+101,Hawaii,"Corpus and Uterus, NOS",2018,Female,White,7.0,18,165981,9,3,2
+102,Arizona,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+103,Connecticut,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+104,Oregon,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+105,Hawaii,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+106,Delaware,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+107,South Dakota,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+108,Vermont,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+109,Alaska,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+110,Minnesota,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+111,North Dakota,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+112,Maine,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+113,Iowa,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+114,Colorado,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+115,Montana,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+116,Idaho,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+117,New Mexico,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+118,Kansas,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+119,Wyoming,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+120,Oklahoma,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+121,Nebraska,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+122,Rhode Island,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+123,Washington,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+124,Utah,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+125,West Virginia,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+126,Nevada,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+127,New Hampshire,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+128,Wisconsin,"Corpus and Uterus, NOS",2018,Female,Black,0.0,0,0,9,3,3
+129,Alabama,"Corpus and Uterus, NOS",2018,Female,Black,6.0,51,715353,9,3,3
+130,Texas,"Corpus and Uterus, NOS",2018,Female,Black,6.5,120,1954693,9,3,3
+131,Massachusetts,"Corpus and Uterus, NOS",2018,Female,Black,7.1,22,341914,9,3,3
+132,Virginia,"Corpus and Uterus, NOS",2018,Female,Black,7.4,81,918026,9,3,3
+133,Ohio,"Corpus and Uterus, NOS",2018,Female,Black,7.7,70,845793,9,3,3
+134,Arkansas,"Corpus and Uterus, NOS",2018,Female,Black,7.9,20,256169,9,3,3
+135,Mississippi,"Corpus and Uterus, NOS",2018,Female,Black,8.2,53,605342,9,3,3
+136,Tennessee,"Corpus and Uterus, NOS",2018,Female,Black,8.3,52,631125,9,3,3
+137,Georgia,"Corpus and Uterus, NOS",2018,Female,Black,8.4,157,1857964,9,3,3
+138,Louisiana,"Corpus and Uterus, NOS",2018,Female,Black,8.8,79,817853,9,3,3
+139,North Carolina,"Corpus and Uterus, NOS",2018,Female,Black,9.0,126,1270945,9,3,3
+140,Pennsylvania,"Corpus and Uterus, NOS",2018,Female,Black,9.1,82,842583,9,3,3
+141,South Carolina,"Corpus and Uterus, NOS",2018,Female,Black,9.2,81,753896,9,3,3
+142,Indiana,"Corpus and Uterus, NOS",2018,Female,Black,9.5,34,369099,9,3,3
+143,California,"Corpus and Uterus, NOS",2018,Female,Black,9.5,150,1428458,9,3,3
+144,Florida,"Corpus and Uterus, NOS",2018,Female,Black,9.5,187,1928202,9,3,3
+145,Michigan,"Corpus and Uterus, NOS",2018,Female,Black,9.6,84,783118,9,3,3
+146,Maryland,"Corpus and Uterus, NOS",2018,Female,Black,9.9,119,1028519,9,3,3
+147,Missouri,"Corpus and Uterus, NOS",2018,Female,Black,9.9,42,402799,9,3,3
+148,New Jersey,"Corpus and Uterus, NOS",2018,Female,Black,10.1,83,732277,9,3,3
+149,Illinois,"Corpus and Uterus, NOS",2018,Female,Black,10.5,127,1025025,9,3,3
+150,New York,"Corpus and Uterus, NOS",2018,Female,Black,10.7,248,1923612,9,3,3
+151,Kentucky,"Corpus and Uterus, NOS",2018,Female,Black,10.7,23,203019,9,3,3
+152,District of Columbia,"Corpus and Uterus, NOS",2018,Female,Black,11.3,30,183884,9,3,3
+153,Connecticut,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+154,Arizona,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+155,Georgia,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+156,Arkansas,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+157,Indiana,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+158,Louisiana,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+159,Michigan,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+160,Alabama,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+161,Delaware,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+162,Montana,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+163,California,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+164,Hawaii,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+165,North Dakota,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+166,Minnesota,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+167,Alaska,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+168,Maine,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+169,Iowa,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+170,New Jersey,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+171,Pennsylvania,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+172,Tennessee,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+173,Colorado,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+174,District of Columbia,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+175,Virginia,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+176,Maryland,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+177,Ohio,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+178,Mississippi,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+179,New Mexico,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+180,Idaho,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+181,Texas,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+182,Rhode Island,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+183,Wyoming,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+184,Kansas,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+185,Oklahoma,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+186,Nebraska,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+187,Florida,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+188,Washington,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+189,Massachusetts,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+190,Illinois,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+191,New York,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+192,Kentucky,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+193,Missouri,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+194,West Virginia,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+195,Utah,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+196,North Carolina,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+197,South Carolina,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+198,Vermont,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+199,Oregon,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+200,Nevada,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+201,South Dakota,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+202,New Hampshire,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+203,Wisconsin,"Corpus and Uterus, NOS",2018,Female,American Indian and Alaska Native,0.0,0,0,9,3,4
+204,Connecticut,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+205,Arizona,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+206,Arkansas,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+207,Georgia,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+208,Louisiana,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+209,Indiana,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+210,Michigan,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+211,Alabama,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+212,South Dakota,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+213,Delaware,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+214,Minnesota,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+215,Alaska,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+216,North Dakota,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+217,Iowa,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+218,Maine,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+219,Montana,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+220,Pennsylvania,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+221,Tennessee,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+222,District of Columbia,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+223,Colorado,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+224,Mississippi,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+225,Maryland,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+226,Ohio,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+227,Idaho,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+228,Virginia,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+229,New Mexico,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+230,Rhode Island,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+231,Kansas,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+232,Wyoming,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+233,Massachusetts,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+234,Oklahoma,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+235,Nebraska,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+236,Florida,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+237,Illinois,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+238,Missouri,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+239,Kentucky,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+240,Utah,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+241,West Virginia,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+242,North Carolina,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+243,South Carolina,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+244,Nevada,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+245,Oregon,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+246,New Hampshire,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+247,Vermont,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+248,Wisconsin,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,0.0,0,0,9,3,5
+249,Texas,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,2.3,20,816180,9,3,5
+250,New York,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,2.4,24,958629,9,3,5
+251,New Jersey,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,3.2,16,470303,9,3,5
+252,California,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,3.7,161,3443357,9,3,5
+253,Washington,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,4.0,17,431588,9,3,5
+254,Hawaii,"Corpus and Uterus, NOS",2018,Female,Asian and Pacific Islander,4.2,30,522397,9,3,5
+255,Connecticut,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+256,Arkansas,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+257,Georgia,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+258,Missouri,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+259,New Hampshire,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+260,North Carolina,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+261,Louisiana,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+262,Michigan,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+263,Indiana,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+264,Oregon,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+265,Delaware,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+266,South Dakota,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+267,Hawaii,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+268,Vermont,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+269,Minnesota,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+270,Maine,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+271,Alabama,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+272,North Dakota,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+273,Alaska,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+274,Iowa,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+275,Tennessee,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+276,Montana,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+277,Pennsylvania,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+278,Wisconsin,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+279,District of Columbia,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+280,Mississippi,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+281,Maryland,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+282,Ohio,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+283,Virginia,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+284,Kansas,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+285,Wyoming,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+286,Idaho,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+287,Massachusetts,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+288,Oklahoma,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+289,Nebraska,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+290,Washington,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+291,Rhode Island,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+292,Kentucky,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+293,West Virginia,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+294,South Carolina,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+295,Utah,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+296,Nevada,"Corpus and Uterus, NOS",2018,Female,Hispanic,0.0,0,0,9,3,6
+297,New Jersey,"Corpus and Uterus, NOS",2018,Female,Hispanic,3.1,22,913085,9,3,6
+298,New Mexico,"Corpus and Uterus, NOS",2018,Female,Hispanic,3.3,18,517500,9,3,6
+299,Arizona,"Corpus and Uterus, NOS",2018,Female,Hispanic,3.4,25,1123083,9,3,6
+300,Illinois,"Corpus and Uterus, NOS",2018,Female,Hispanic,3.4,25,1077645,9,3,6
+301,Colorado,"Corpus and Uterus, NOS",2018,Female,Hispanic,3.7,17,605233,9,3,6
+302,New York,"Corpus and Uterus, NOS",2018,Female,Hispanic,3.7,69,1898569,9,3,6
+303,Florida,"Corpus and Uterus, NOS",2018,Female,Hispanic,4.2,132,2802980,9,3,6
+304,Texas,"Corpus and Uterus, NOS",2018,Female,Hispanic,4.5,186,5625102,9,3,6
+305,California,"Corpus and Uterus, NOS",2018,Female,Hispanic,4.8,286,7690472,9,3,6

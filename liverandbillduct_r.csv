@@ -1,0 +1,919 @@
+,Area,Cancer Type,Year,Sex,Race,Age-Adjusted Rate,Case Count,Population,CancerType_val,Sex_val,Race_val
+0,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,3.9,90,1925614,6,1,1
+1,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,4.0,38,758080,6,1,1
+2,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,4.5,56,878698,6,1,1
+3,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.1,100,1353465,6,1,1
+4,Montana,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.2,82,1060665,6,1,1
+5,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.4,263,3571520,6,1,1
+6,Utah,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.4,153,3153550,6,1,1
+7,Iowa,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.5,224,3148618,6,1,1
+8,New York,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.6,1433,19530351,6,1,1
+9,Alaska,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.8,44,735139,6,1,1
+10,Idaho,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.8,122,1750536,6,1,1
+11,Kansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.8,217,2911359,6,1,1
+12,Vermont,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.9,54,624358,6,1,1
+13,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,5.9,458,5807406,6,1,1
+14,Arizona,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.0,562,7158024,6,1,1
+15,Michigan,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.0,814,9984072,6,1,1
+16,Colorado,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.0,392,5691287,6,1,1
+17,Delaware,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.1,83,965479,6,1,1
+18,Maine,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.1,126,1339057,6,1,1
+19,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.1,1116,12800922,6,1,1
+20,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.1,46,577601,6,1,1
+21,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.2,440,5606249,6,1,1
+22,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.2,720,8886025,6,1,1
+23,Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.2,658,8501286,6,1,1
+24,Ohio,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.2,975,11676341,6,1,1
+25,Florida,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.2,2018,21244317,6,1,1
+26,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.3,574,6882635,6,1,1
+27,Indiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.4,542,6695497,6,1,1
+28,Maryland,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.4,487,6035802,6,1,1
+29,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.4,174,1804291,6,1,1
+30,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.6,886,10381615,6,1,1
+31,Georgia,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.7,802,10511131,6,1,1
+32,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.7,595,6771631,6,1,1
+33,Illinois,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.7,1051,12723071,6,1,1
+34,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.8,272,3009733,6,1,1
+35,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.8,392,4461153,6,1,1
+36,Missouri,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.8,563,6121623,6,1,1
+37,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,6.8,469,5084156,6,1,1
+38,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,7.0,344,3940235,6,1,1
+39,Nevada,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,7.0,255,3027341,6,1,1
+40,Alabama,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,7.1,466,4887681,6,1,1
+41,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,7.1,137,1420593,6,1,1
+42,Washington,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,7.2,670,7523869,6,1,1
+43,Oregon,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,7.2,416,4181886,6,1,1
+44,California,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,7.7,3549,39461588,6,1,1
+45,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,7.7,112,1058287,6,1,1
+46,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,8.1,57,701547,6,1,1
+47,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,8.3,502,4659690,6,1,1
+48,Texas,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,8.4,2509,28628666,6,1,1
+49,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,8.5,243,2092741,6,1,1
+50,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male and Female,All Races and Ethnicities,8.8,334,2981020,6,1,1
+51,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,0.0,0,0,6,1,2
+52,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,3.8,83,1722396,6,1,2
+53,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,3.9,47,753781,6,1,2
+54,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,4.0,36,669755,6,1,2
+55,Montana,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,4.7,72,960941,6,1,2
+56,Alaska,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,4.8,30,506963,6,1,2
+57,Iowa,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.1,203,2890811,6,1,2
+58,Utah,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.1,136,2910385,6,1,2
+59,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.2,99,1277085,6,1,2
+60,New York,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.2,1020,13851993,6,1,2
+61,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.3,31,360769,6,1,2
+62,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.3,357,4786935,6,1,2
+63,Maryland,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.4,274,3625716,6,1,2
+64,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.4,398,5117885,6,1,2
+65,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.5,233,2903675,6,1,2
+66,Kansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.5,193,2559851,6,1,2
+67,Arizona,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.6,470,6029753,6,1,2
+68,Michigan,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.6,648,8037285,6,1,2
+69,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.7,927,10608820,6,1,2
+70,Ohio,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.7,793,9691566,6,1,2
+71,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.7,43,542445,6,1,2
+72,Idaho,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.7,118,1657508,6,1,2
+73,Maine,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.8,120,1281999,6,1,2
+74,Colorado,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.8,354,5047417,6,1,2
+75,Vermont,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,5.9,53,597319,6,1,2
+76,Florida,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.1,1718,16690253,6,1,2
+77,Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.1,489,6043768,6,1,2
+78,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.1,572,6507268,6,1,2
+79,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.1,258,3053465,6,1,2
+80,Indiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.2,476,5765583,6,1,2
+81,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.3,511,5662837,6,1,2
+82,Georgia,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.3,532,6468529,6,1,2
+83,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.3,661,7454379,6,1,2
+84,Missouri,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.3,466,5154374,6,1,2
+85,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.3,165,1707867,6,1,2
+86,Illinois,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.4,832,9912791,6,1,2
+87,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.5,345,3962465,6,1,2
+88,Delaware,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.5,70,683018,6,1,2
+89,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.5,491,5391666,6,1,2
+90,Washington,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.6,538,6122738,6,1,2
+91,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.7,349,3533462,6,1,2
+92,Oregon,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.8,371,3724600,6,1,2
+93,Nevada,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.8,201,2314725,6,1,2
+94,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,6.9,238,2421400,6,1,2
+95,Alabama,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,7.2,358,3428637,6,1,2
+96,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,7.3,99,902251,6,1,2
+97,California,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,7.5,2606,29265222,6,1,2
+98,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,7.6,320,2969067,6,1,2
+99,Texas,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,8.3,2058,22922308,6,1,2
+100,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,8.6,218,1741707,6,1,2
+101,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male and Female,White,9.0,236,1781300,6,1,2
+102,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+103,Delaware,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+104,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+105,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+106,Alaska,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+107,Vermont,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+108,Maine,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+109,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+110,Iowa,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+111,Colorado,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+112,Montana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+113,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+114,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+115,Idaho,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+116,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+117,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+118,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+119,Utah,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,0.0,0,0,6,1,3
+120,Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.2,127,1769094,6,1,3
+121,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.2,38,665317,6,1,3
+122,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.3,31,489481,6,1,3
+123,New York,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.5,254,3618873,6,1,3
+124,Nevada,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.5,18,341317,6,1,3
+125,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.6,27,458476,6,1,3
+126,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.7,113,1417646,6,1,3
+127,Florida,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.8,245,3726225,6,1,3
+128,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.9,101,1397403,6,1,3
+129,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,6.9,22,351903,6,1,3
+130,Georgia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,7.0,228,3493534,6,1,3
+131,Alabama,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,7.0,102,1337780,6,1,3
+132,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,7.6,197,2394511,6,1,3
+133,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,7.8,96,1199502,6,1,3
+134,Illinois,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,8.0,162,1938706,6,1,3
+135,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,8.3,92,1143420,6,1,3
+136,Arizona,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,8.5,26,413472,6,1,3
+137,Maryland,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,8.6,188,1932102,6,1,3
+138,Michigan,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,8.8,141,1495057,6,1,3
+139,Indiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,8.9,55,715146,6,1,3
+140,California,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,9.5,272,2841953,6,1,3
+141,Ohio,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,9.6,160,1628354,6,1,3
+142,Kansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,9.7,16,206723,6,1,3
+143,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,9.9,160,1631910,6,1,3
+144,Texas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,9.9,338,3794158,6,1,3
+145,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,10.2,40,404452,6,1,3
+146,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,10.4,174,1557088,6,1,3
+147,Missouri,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,10.8,83,770993,6,1,3
+148,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,10.9,44,337257,6,1,3
+149,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,13.2,43,427480,6,1,3
+150,Washington,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,14.0,40,402735,6,1,3
+151,Oregon,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,20.3,20,119642,6,1,3
+152,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Black,21.7,45,424948,6,1,3
+153,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+154,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+155,Georgia,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+156,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+157,Indiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+158,Delaware,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+159,Michigan,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+160,Alabama,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+161,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+162,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+163,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+164,Iowa,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+165,Alaska,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+166,Maine,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+167,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+168,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+169,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+170,Montana,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+171,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+172,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+173,Colorado,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+174,Ohio,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+175,Maryland,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+176,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+177,Idaho,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+178,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+179,Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+180,Texas,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+181,Kansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+182,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+183,Florida,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+184,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+185,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+186,New York,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+187,Illinois,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+188,Missouri,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+189,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+190,Utah,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+191,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+192,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+193,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+194,Vermont,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+195,Nevada,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+196,Oregon,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+197,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+198,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,6,1,4
+199,California,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,6.0,38,773103,6,1,4
+200,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,9.6,20,241507,6,1,4
+201,Arizona,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,12.2,37,408333,6,1,4
+202,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,13.3,48,425510,6,1,4
+203,Washington,Liver and Intrahepatic Bile Duct,2018,Male and Female,American Indian and Alaska Native,14.0,20,174111,6,1,4
+204,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+205,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+206,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+207,Indiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+208,Delaware,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+209,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+210,Vermont,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+211,Alaska,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+212,Alabama,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+213,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+214,Iowa,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+215,Maine,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+216,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+217,Montana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+218,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+219,Idaho,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+220,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+221,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+222,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+223,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+224,Kansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+225,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+226,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+227,Utah,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+228,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+229,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+230,Missouri,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+231,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+232,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,6,1,5
+233,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,5.5,46,917565,6,1,5
+234,Michigan,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,5.7,17,359987,6,1,5
+235,Maryland,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,5.9,25,435655,6,1,5
+236,Florida,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,6.4,50,708713,6,1,5
+237,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,6.6,27,501608,6,1,5
+238,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,6.7,25,513904,6,1,5
+239,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,7.2,16,357594,6,1,5
+240,Illinois,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,7.3,55,783468,6,1,5
+241,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,7.9,105,1009897,6,1,5
+242,Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,7.9,41,636755,6,1,5
+243,New York,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,8.3,156,1835707,6,1,5
+244,California,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,8.4,633,6581310,6,1,5
+245,Texas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,8.5,106,1591190,6,1,5
+246,Nevada,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,8.6,32,311865,6,1,5
+247,Colorado,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,8.9,17,231983,6,1,5
+248,Ohio,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,9.0,21,312401,6,1,5
+249,Oregon,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,9.5,19,244306,6,1,5
+250,Washington,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,10.1,72,824285,6,1,5
+251,Arizona,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,11.5,29,306466,6,1,5
+252,Georgia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,12.8,42,487832,6,1,5
+253,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,15.2,29,305980,6,1,5
+254,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male and Female,Asian and Pacific Islander,20.2,16,109357,6,1,5
+255,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+256,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+257,Indiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+258,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+259,Missouri,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+260,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+261,Delaware,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+262,Vermont,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+263,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+264,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+265,Alaska,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+266,Maine,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+267,Alabama,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+268,Iowa,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+269,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+270,Montana,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+271,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+272,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+273,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+274,Kansas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+275,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+276,Idaho,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+277,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+278,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+279,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+280,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+281,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+282,Utah,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,0.0,0,0,6,1,6
+283,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,5.0,24,994606,6,1,6
+284,Virginia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,5.9,19,816546,6,1,6
+285,Florida,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,6.6,365,5537857,6,1,6
+286,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,6.9,37,838281,6,1,6
+287,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,7.1,94,1828769,6,1,6
+288,Georgia,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,7.4,25,1022370,6,1,6
+289,New York,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,7.5,237,3743541,6,1,6
+290,Michigan,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,8.1,25,518477,6,1,6
+291,Nevada,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,8.1,39,877290,6,1,6
+292,Ohio,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,8.3,22,459088,6,1,6
+293,Arizona,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,8.7,124,2258856,6,1,6
+294,Maryland,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,9.2,28,626378,6,1,6
+295,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,9.3,48,973661,6,1,6
+296,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,9.9,18,428453,6,1,6
+297,Illinois,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,10.1,127,2204614,6,1,6
+298,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,10.5,43,589825,6,1,6
+299,Washington,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,10.6,44,966855,6,1,6
+300,California,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,10.7,1110,15472859,6,1,6
+301,Colorado,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,11.1,84,1233748,6,1,6
+302,Texas,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,12.3,914,11323903,6,1,6
+303,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,12.8,129,1027108,6,1,6
+304,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,14.8,17,308256,6,1,6
+305,Oregon,Liver and Intrahepatic Bile Duct,2018,Male and Female,Hispanic,15.3,39,553064,6,1,6
+306,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,0.0,0,0,6,3,1
+307,Wyoming,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,0.0,0,0,6,3,1
+308,South Dakota,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,0.0,0,0,6,3,1
+309,Nebraska,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,2.5,30,964240,6,3,1
+310,Delaware,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,2.7,17,498641,6,3,1
+311,Connecticut,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,2.9,74,1829397,6,3,1
+312,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.1,30,682692,6,3,1
+313,Montana,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.2,24,526813,6,3,1
+314,Vermont,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.3,16,316079,6,3,1
+315,Idaho,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.4,36,873205,6,3,1
+316,Florida,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.4,604,10858944,6,3,1
+317,New York,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.4,485,10046133,6,3,1
+318,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.4,171,3542925,6,3,1
+319,Utah,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.4,48,1565310,6,3,1
+320,Iowa,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.5,78,1581655,6,3,1
+321,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.5,147,2918181,6,3,1
+322,Hawaii,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.6,41,709302,6,3,1
+323,Virginia,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.6,200,4318025,6,3,1
+324,South Carolina,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.6,134,2620391,6,3,1
+325,Michigan,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.7,265,5067862,6,3,1
+326,North Dakota,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.7,18,370046,6,3,1
+327,Colorado,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.7,127,2825526,6,3,1
+328,Arizona,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.7,183,3600640,6,3,1
+329,Kansas,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.7,72,1460588,6,3,1
+330,Indiana,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.8,172,3394211,6,3,1
+331,New Jersey,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.8,246,4545338,6,3,1
+332,Missouri,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.8,171,3116702,6,3,1
+333,Maine,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.9,41,683374,6,3,1
+334,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.9,388,6529381,6,3,1
+335,Maryland,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.9,165,3111203,6,3,1
+336,North Carolina,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,3.9,282,5331288,6,3,1
+337,Georgia,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.0,260,5399300,6,3,1
+338,Tennessee,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.0,194,3466921,6,3,1
+339,Ohio,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.0,334,5953904,6,3,1
+340,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.1,107,1987969,6,3,1
+341,West Virginia,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.2,61,910982,6,3,1
+342,Arkansas,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.3,93,1531624,6,3,1
+343,Kentucky,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.3,131,2263603,6,3,1
+344,Oregon,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.3,125,2108799,6,3,1
+345,Minnesota,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.4,165,2813822,6,3,1
+346,New Mexico,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.5,69,1057201,6,3,1
+347,Alabama,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.6,155,2524361,6,3,1
+348,Louisiana,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.6,148,2385448,6,3,1
+349,Alaska,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.6,16,351692,6,3,1
+350,Washington,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.7,221,3758918,6,3,1
+351,Illinois,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,4.9,423,6471727,6,3,1
+352,Texas,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,5.0,774,14409351,6,3,1
+353,California,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,5.1,1257,19843136,6,3,1
+354,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,5.3,43,543427,6,3,1
+355,Nevada,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,5.3,95,1508820,6,3,1
+356,Mississippi,Liver and Intrahepatic Bile Duct,2018,Female,All Races and Ethnicities,5.6,116,1535497,6,3,1
+357,Hawaii,Liver and Intrahepatic Bile Duct,2018,Female,White,0.0,0,0,6,3,2
+358,Delaware,Liver and Intrahepatic Bile Duct,2018,Female,White,0.0,0,0,6,3,2
+359,Vermont,Liver and Intrahepatic Bile Duct,2018,Female,White,0.0,0,0,6,3,2
+360,South Dakota,Liver and Intrahepatic Bile Duct,2018,Female,White,0.0,0,0,6,3,2
+361,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Female,White,0.0,0,0,6,3,2
+362,Wyoming,Liver and Intrahepatic Bile Duct,2018,Female,White,0.0,0,0,6,3,2
+363,Alaska,Liver and Intrahepatic Bile Duct,2018,Female,White,0.0,0,0,6,3,2
+364,Nebraska,Liver and Intrahepatic Bile Duct,2018,Female,White,2.5,28,863741,6,3,2
+365,Montana,Liver and Intrahepatic Bile Duct,2018,Female,White,2.7,20,476562,6,3,2
+366,Utah,Liver and Intrahepatic Bile Duct,2018,Female,White,3.0,40,1445810,6,3,2
+367,New York,Liver and Intrahepatic Bile Duct,2018,Female,White,3.1,334,7051515,6,3,2
+368,Arizona,Liver and Intrahepatic Bile Duct,2018,Female,White,3.2,140,3032061,6,3,2
+369,Connecticut,Liver and Intrahepatic Bile Duct,2018,Female,White,3.2,68,1482706,6,3,2
+370,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Female,White,3.2,30,645554,6,3,2
+371,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Female,White,3.3,132,2568475,6,3,2
+372,Florida,Liver and Intrahepatic Bile Duct,2018,Female,White,3.3,503,8494176,6,3,2
+373,North Dakota,Liver and Intrahepatic Bile Duct,2018,Female,White,3.4,16,327564,6,3,2
+374,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Female,White,3.5,156,2913106,6,3,2
+375,Michigan,Liver and Intrahepatic Bile Duct,2018,Female,White,3.5,214,4055958,6,3,2
+376,Idaho,Liver and Intrahepatic Bile Duct,2018,Female,White,3.5,36,826312,6,3,2
+377,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Female,White,3.5,80,1540466,6,3,2
+378,North Carolina,Liver and Intrahepatic Bile Duct,2018,Female,White,3.6,200,3787992,6,3,2
+379,Missouri,Liver and Intrahepatic Bile Duct,2018,Female,White,3.6,144,2612757,6,3,2
+380,Maine,Liver and Intrahepatic Bile Duct,2018,Female,White,3.6,38,654956,6,3,2
+381,Iowa,Liver and Intrahepatic Bile Duct,2018,Female,White,3.6,76,1457766,6,3,2
+382,Colorado,Liver and Intrahepatic Bile Duct,2018,Female,White,3.6,112,2506000,6,3,2
+383,Maryland,Liver and Intrahepatic Bile Duct,2018,Female,White,3.6,100,1833886,6,3,2
+384,Virginia,Liver and Intrahepatic Bile Duct,2018,Female,White,3.6,154,3041404,6,3,2
+385,Kansas,Liver and Intrahepatic Bile Duct,2018,Female,White,3.6,66,1287436,6,3,2
+386,Indiana,Liver and Intrahepatic Bile Duct,2018,Female,White,3.7,151,2917999,6,3,2
+387,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Female,White,3.7,328,5398388,6,3,2
+388,New Jersey,Liver and Intrahepatic Bile Duct,2018,Female,White,3.8,199,3311480,6,3,2
+389,Minnesota,Liver and Intrahepatic Bile Duct,2018,Female,White,3.8,136,2405405,6,3,2
+390,Ohio,Liver and Intrahepatic Bile Duct,2018,Female,White,3.8,283,4925060,6,3,2
+391,South Carolina,Liver and Intrahepatic Bile Duct,2018,Female,White,3.8,105,1797753,6,3,2
+392,Georgia,Liver and Intrahepatic Bile Duct,2018,Female,White,3.9,175,3260375,6,3,2
+393,Tennessee,Liver and Intrahepatic Bile Duct,2018,Female,White,4.1,164,2742940,6,3,2
+394,Kentucky,Liver and Intrahepatic Bile Duct,2018,Female,White,4.2,117,2012497,6,3,2
+395,Arkansas,Liver and Intrahepatic Bile Duct,2018,Female,White,4.2,79,1225549,6,3,2
+396,Oregon,Liver and Intrahepatic Bile Duct,2018,Female,White,4.2,113,1877920,6,3,2
+397,West Virginia,Liver and Intrahepatic Bile Duct,2018,Female,White,4.2,59,865365,6,3,2
+398,Louisiana,Liver and Intrahepatic Bile Duct,2018,Female,White,4.3,96,1500331,6,3,2
+399,Alabama,Liver and Intrahepatic Bile Duct,2018,Female,White,4.3,111,1746198,6,3,2
+400,Washington,Liver and Intrahepatic Bile Duct,2018,Female,White,4.3,180,3053227,6,3,2
+401,New Mexico,Liver and Intrahepatic Bile Duct,2018,Female,White,4.4,60,879276,6,3,2
+402,Illinois,Liver and Intrahepatic Bile Duct,2018,Female,White,4.6,326,4998606,6,3,2
+403,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Female,White,4.7,36,464188,6,3,2
+404,Texas,Liver and Intrahepatic Bile Duct,2018,Female,White,4.9,634,11481905,6,3,2
+405,California,Liver and Intrahepatic Bile Duct,2018,Female,White,5.1,941,14588109,6,3,2
+406,Nevada,Liver and Intrahepatic Bile Duct,2018,Female,White,5.1,73,1137703,6,3,2
+407,Mississippi,Liver and Intrahepatic Bile Duct,2018,Female,White,5.6,80,900959,6,3,2
+408,Connecticut,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+409,Arizona,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+410,Arkansas,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+411,Oregon,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+412,Delaware,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+413,Hawaii,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+414,South Dakota,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+415,Vermont,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+416,Alaska,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+417,North Dakota,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+418,Maine,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+419,Iowa,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+420,Colorado,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+421,Montana,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+422,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+423,Idaho,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+424,New Mexico,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+425,Kansas,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+426,Wyoming,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+427,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+428,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+429,Nebraska,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+430,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+431,Washington,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+432,Kentucky,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+433,Utah,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+434,West Virginia,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+435,Nevada,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+436,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+437,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Female,Black,0.0,0,0,6,3,3
+438,South Carolina,Liver and Intrahepatic Bile Duct,2018,Female,Black,3.0,27,753896,6,3,3
+439,Virginia,Liver and Intrahepatic Bile Duct,2018,Female,Black,3.2,35,918026,6,3,3
+440,Georgia,Liver and Intrahepatic Bile Duct,2018,Female,Black,3.9,72,1857964,6,3,3
+441,New Jersey,Liver and Intrahepatic Bile Duct,2018,Female,Black,3.9,31,732277,6,3,3
+442,Tennessee,Liver and Intrahepatic Bile Duct,2018,Female,Black,3.9,28,631125,6,3,3
+443,New York,Liver and Intrahepatic Bile Duct,2018,Female,Black,4.0,93,1923612,6,3,3
+444,Florida,Liver and Intrahepatic Bile Duct,2018,Female,Black,4.2,82,1928202,6,3,3
+445,Maryland,Liver and Intrahepatic Bile Duct,2018,Female,Black,4.8,59,1028519,6,3,3
+446,Michigan,Liver and Intrahepatic Bile Duct,2018,Female,Black,4.9,45,783118,6,3,3
+447,Ohio,Liver and Intrahepatic Bile Duct,2018,Female,Black,4.9,43,845793,6,3,3
+448,Indiana,Liver and Intrahepatic Bile Duct,2018,Female,Black,5.0,17,369099,6,3,3
+449,California,Liver and Intrahepatic Bile Duct,2018,Female,Black,5.1,80,1428458,6,3,3
+450,North Carolina,Liver and Intrahepatic Bile Duct,2018,Female,Black,5.2,76,1270945,6,3,3
+451,Alabama,Liver and Intrahepatic Bile Duct,2018,Female,Black,5.5,44,715353,6,3,3
+452,Texas,Liver and Intrahepatic Bile Duct,2018,Female,Black,5.5,98,1954693,6,3,3
+453,Mississippi,Liver and Intrahepatic Bile Duct,2018,Female,Black,5.6,34,605342,6,3,3
+454,Louisiana,Liver and Intrahepatic Bile Duct,2018,Female,Black,5.8,51,817853,6,3,3
+455,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Female,Black,5.9,51,842583,6,3,3
+456,Missouri,Liver and Intrahepatic Bile Duct,2018,Female,Black,6.0,26,402799,6,3,3
+457,Illinois,Liver and Intrahepatic Bile Duct,2018,Female,Black,6.2,73,1025025,6,3,3
+458,Minnesota,Liver and Intrahepatic Bile Duct,2018,Female,Black,15.7,17,208058,6,3,3
+459,Connecticut,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+460,Georgia,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+461,Arkansas,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+462,Indiana,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+463,Louisiana,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+464,Alabama,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+465,Delaware,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+466,Montana,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+467,Michigan,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+468,California,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+469,Hawaii,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+470,North Dakota,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+471,Minnesota,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+472,Iowa,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+473,Alaska,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+474,New Jersey,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+475,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+476,Maine,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+477,Tennessee,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+478,Colorado,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+479,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+480,Virginia,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+481,Ohio,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+482,Mississippi,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+483,Maryland,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+484,Idaho,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+485,New Mexico,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+486,Texas,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+487,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+488,Wyoming,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+489,Kansas,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+490,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+491,Nebraska,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+492,Florida,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+493,Washington,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+494,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+495,Illinois,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+496,New York,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+497,Kentucky,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+498,Missouri,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+499,West Virginia,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+500,Utah,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+501,North Carolina,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+502,South Carolina,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+503,Vermont,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+504,Oregon,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+505,Nevada,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+506,South Dakota,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+507,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+508,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,0.0,0,0,6,3,4
+509,Arizona,Liver and Intrahepatic Bile Duct,2018,Female,American Indian and Alaska Native,11.4,19,207160,6,3,4
+510,Connecticut,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+511,Arizona,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+512,Arkansas,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+513,Georgia,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+514,Louisiana,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+515,Indiana,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+516,Michigan,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+517,Alabama,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+518,South Dakota,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+519,Delaware,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+520,Minnesota,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+521,Alaska,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+522,North Dakota,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+523,Iowa,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+524,Maine,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+525,Montana,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+526,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+527,Tennessee,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+528,Colorado,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+529,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+530,Ohio,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+531,Idaho,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+532,Mississippi,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+533,Maryland,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+534,Virginia,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+535,New Mexico,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+536,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+537,Wyoming,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+538,Kansas,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+539,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+540,Nebraska,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+541,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+542,Missouri,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+543,Kentucky,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+544,Utah,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+545,West Virginia,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+546,North Carolina,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+547,South Carolina,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+548,Oregon,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+549,Nevada,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+550,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+551,Vermont,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+552,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,0.0,0,0,6,3,5
+553,Hawaii,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,3.4,31,522397,6,3,5
+554,New Jersey,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,3.6,16,470303,6,3,5
+555,Florida,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,4.2,18,379145,6,3,5
+556,California,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,5.2,226,3443357,6,3,5
+557,Illinois,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,5.4,23,405132,6,3,5
+558,Washington,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,5.6,22,431588,6,3,5
+559,New York,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,5.9,58,958629,6,3,5
+560,Texas,Liver and Intrahepatic Bile Duct,2018,Female,Asian and Pacific Islander,6.3,40,816180,6,3,5
+561,Connecticut,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+562,Arkansas,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+563,Georgia,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+564,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+565,North Carolina,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+566,Missouri,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+567,Louisiana,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+568,Michigan,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+569,Indiana,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+570,Oregon,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+571,Delaware,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+572,South Dakota,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+573,Hawaii,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+574,Vermont,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+575,Minnesota,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+576,Maine,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+577,Alabama,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+578,North Dakota,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+579,Alaska,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+580,Iowa,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+581,Tennessee,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+582,Montana,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+583,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+584,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+585,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+586,Mississippi,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+587,Maryland,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+588,Ohio,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+589,Virginia,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+590,Kansas,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+591,Wyoming,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+592,Idaho,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+593,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+594,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+595,Nebraska,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+596,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+597,Kentucky,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+598,West Virginia,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+599,South Carolina,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+600,Utah,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+601,Nevada,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,0.0,0,0,6,3,6
+602,Florida,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,3.8,118,2802980,6,3,6
+603,New York,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,4.0,72,1898569,6,3,6
+604,New Jersey,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,5.0,36,913085,6,3,6
+605,Arizona,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,5.8,42,1123083,6,3,6
+606,New Mexico,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,6.9,38,517500,6,3,6
+607,California,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,7.7,419,7690472,6,3,6
+608,Texas,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,7.7,291,5625102,6,3,6
+609,Illinois,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,8.0,50,1077645,6,3,6
+610,Colorado,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,8.4,33,605233,6,3,6
+611,Washington,Liver and Intrahepatic Bile Duct,2018,Female,Hispanic,8.5,16,467708,6,3,6
+612,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,4.3,20,388034,6,2,1
+613,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,5.4,60,961374,6,2,1
+614,Alaska,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,6.7,28,383447,6,2,1
+615,Montana,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,7.3,58,533852,6,2,1
+616,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,7.3,70,670773,6,2,1
+617,Iowa,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,7.6,146,1566963,6,2,1
+618,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,7.6,43,443493,6,2,1
+619,Utah,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,7.7,105,1588240,6,2,1
+620,Kansas,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.1,145,1450771,6,2,1
+621,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.3,275,2792427,6,2,1
+622,New York,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.3,948,9484218,6,2,1
+623,Idaho,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.4,86,877331,6,2,1
+624,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.5,189,1742123,6,2,1
+625,Colorado,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.5,265,2865761,6,2,1
+626,Maine,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.6,85,655683,6,2,1
+627,Arizona,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.6,379,3557384,6,2,1
+628,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.6,311,2889225,6,2,1
+629,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.7,728,6271541,6,2,1
+630,Illinois,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.7,628,6251344,6,2,1
+631,Vermont,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.7,38,308279,6,2,1
+632,Michigan,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.8,549,4916210,6,2,1
+633,Nevada,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.8,160,1518521,6,2,1
+634,Ohio,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.9,641,5722437,6,2,1
+635,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,8.9,113,893309,6,2,1
+636,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.2,474,4340687,6,2,1
+637,Maryland,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.3,322,2924599,6,2,1
+638,Indiana,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.4,370,3301286,6,2,1
+639,Virginia,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.4,458,4183261,6,2,1
+640,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.4,34,294276,6,2,1
+641,Florida,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.4,1414,10385373,6,2,1
+642,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.7,261,2197550,6,2,1
+643,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.8,179,1478109,6,2,1
+644,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.8,401,3304710,6,2,1
+645,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.8,604,5050327,6,2,1
+646,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,9.9,403,3339710,6,2,1
+647,Georgia,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.0,542,5111831,6,2,1
+648,Washington,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.1,449,3764951,6,2,1
+649,Delaware,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.2,66,466838,6,2,1
+650,Alabama,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.3,311,2363320,6,2,1
+651,Missouri,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.4,392,3004921,6,2,1
+652,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.5,69,514860,6,2,1
+653,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.5,237,1952266,6,2,1
+654,Oregon,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.5,291,2073087,6,2,1
+655,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.6,335,2463765,6,2,1
+656,California,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.8,2292,19618452,6,2,1
+657,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,10.9,96,711291,6,2,1
+658,Texas,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,12.4,1735,14219315,6,2,1
+659,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,12.7,218,1445523,6,2,1
+660,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,12.8,354,2274242,6,2,1
+661,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,13.1,174,1035540,6,2,1
+662,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male,All Races and Ethnicities,14.1,42,332904,6,2,1
+663,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male,White,0.0,0,0,6,2,2
+664,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male,White,4.5,20,342191,6,2,2
+665,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male,White,5.2,55,858655,6,2,2
+666,Alaska,Liver and Intrahepatic Bile Duct,2018,Male,White,5.9,21,267908,6,2,2
+667,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male,White,6.5,21,194788,6,2,2
+668,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male,White,6.5,36,379764,6,2,2
+669,Montana,Liver and Intrahepatic Bile Duct,2018,Male,White,6.7,52,484379,6,2,2
+670,Iowa,Liver and Intrahepatic Bile Duct,2018,Male,White,6.8,127,1433045,6,2,2
+671,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male,White,7.0,221,2381530,6,2,2
+672,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male,White,7.4,69,631531,6,2,2
+673,Utah,Liver and Intrahepatic Bile Duct,2018,Male,White,7.4,96,1464575,6,2,2
+674,Maryland,Liver and Intrahepatic Bile Duct,2018,Male,White,7.5,174,1791830,6,2,2
+675,Kansas,Liver and Intrahepatic Bile Duct,2018,Male,White,7.6,127,1272415,6,2,2
+676,New York,Liver and Intrahepatic Bile Duct,2018,Male,White,7.8,686,6800478,6,2,2
+677,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male,White,7.9,266,2549410,6,2,2
+678,Ohio,Liver and Intrahepatic Bile Duct,2018,Male,White,8.0,510,4766506,6,2,2
+679,Michigan,Liver and Intrahepatic Bile Duct,2018,Male,White,8.1,434,3981327,6,2,2
+680,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male,White,8.1,599,5210432,6,2,2
+681,Idaho,Liver and Intrahepatic Bile Duct,2018,Male,White,8.1,82,831196,6,2,2
+682,Arizona,Liver and Intrahepatic Bile Duct,2018,Male,White,8.2,330,2997692,6,2,2
+683,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male,White,8.4,165,1420969,6,2,2
+684,Maine,Liver and Intrahepatic Bile Duct,2018,Male,White,8.4,82,627043,6,2,2
+685,Colorado,Liver and Intrahepatic Bile Duct,2018,Male,White,8.4,242,2541417,6,2,2
+686,Illinois,Liver and Intrahepatic Bile Duct,2018,Male,White,8.5,506,4914185,6,2,2
+687,Nevada,Liver and Intrahepatic Bile Duct,2018,Male,White,8.6,128,1177022,6,2,2
+688,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male,White,8.7,106,842502,6,2,2
+689,Vermont,Liver and Intrahepatic Bile Duct,2018,Male,White,8.8,38,294689,6,2,2
+690,Virginia,Liver and Intrahepatic Bile Duct,2018,Male,White,8.9,335,3002364,6,2,2
+691,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male,White,8.9,32,276183,6,2,2
+692,Indiana,Liver and Intrahepatic Bile Duct,2018,Male,White,9.0,325,2847584,6,2,2
+693,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male,White,9.0,373,3195788,6,2,2
+694,Georgia,Liver and Intrahepatic Bile Duct,2018,Male,White,9.1,357,3208154,6,2,2
+695,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male,White,9.1,178,1512999,6,2,2
+696,Washington,Liver and Intrahepatic Bile Duct,2018,Male,White,9.1,358,3069511,6,2,2
+697,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male,White,9.2,228,1949968,6,2,2
+698,Florida,Liver and Intrahepatic Bile Duct,2018,Male,White,9.3,1215,8196077,6,2,2
+699,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male,White,9.3,327,2648726,6,2,2
+700,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male,White,9.5,461,3666387,6,2,2
+701,Missouri,Liver and Intrahepatic Bile Duct,2018,Male,White,9.5,322,2541617,6,2,2
+702,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male,White,9.8,355,2749731,6,2,2
+703,Oregon,Liver and Intrahepatic Bile Duct,2018,Male,White,9.9,258,1846680,6,2,2
+704,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male,White,10.1,159,1195851,6,2,2
+705,California,Liver and Intrahepatic Bile Duct,2018,Male,White,10.2,1665,14677113,6,2,2
+706,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male,White,10.2,244,1735709,6,2,2
+707,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male,White,10.3,63,438063,6,2,2
+708,Alabama,Liver and Intrahepatic Bile Duct,2018,Male,White,10.5,247,1682439,6,2,2
+709,Delaware,Liver and Intrahepatic Bile Duct,2018,Male,White,10.8,56,332431,6,2,2
+710,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male,White,11.5,224,1468736,6,2,2
+711,Texas,Liver and Intrahepatic Bile Duct,2018,Male,White,12.1,1424,11440403,6,2,2
+712,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male,White,13.0,156,880341,6,2,2
+713,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male,White,13.3,158,862431,6,2,2
+714,Arizona,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+715,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+716,Oregon,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+717,Delaware,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+718,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+719,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+720,Vermont,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+721,Alaska,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+722,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+723,Maine,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+724,Iowa,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+725,Colorado,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+726,Montana,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+727,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+728,Kansas,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+729,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+730,Idaho,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+731,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+732,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+733,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+734,Utah,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+735,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+736,Nevada,Liver and Intrahepatic Bile Duct,2018,Male,Black,0.0,0,0,6,2,3
+737,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male,Black,7.5,17,233312,6,2,3
+738,Alabama,Liver and Intrahepatic Bile Duct,2018,Male,Black,9.3,58,622427,6,2,3
+739,New York,Liver and Intrahepatic Bile Duct,2018,Male,Black,10.0,161,1695261,6,2,3
+740,Virginia,Liver and Intrahepatic Bile Duct,2018,Male,Black,10.1,92,851068,6,2,3
+741,Florida,Liver and Intrahepatic Bile Duct,2018,Male,Black,10.2,163,1798023,6,2,3
+742,Illinois,Liver and Intrahepatic Bile Duct,2018,Male,Black,10.3,89,913681,6,2,3
+743,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male,Black,10.4,121,1123566,6,2,3
+744,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male,Black,10.4,30,323403,6,2,3
+745,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male,Black,11.1,70,665126,6,2,3
+746,Georgia,Liver and Intrahepatic Bile Duct,2018,Male,Black,11.2,156,1635570,6,2,3
+747,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male,Black,11.6,86,663750,6,2,3
+748,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male,Black,11.7,58,538078,6,2,3
+749,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male,Black,12.3,21,218842,6,2,3
+750,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male,Black,13.1,68,568377,6,2,3
+751,Maryland,Liver and Intrahepatic Bile Duct,2018,Male,Black,13.8,129,903583,6,2,3
+752,Michigan,Liver and Intrahepatic Bile Duct,2018,Male,Black,14.3,96,711939,6,2,3
+753,Indiana,Liver and Intrahepatic Bile Duct,2018,Male,Black,14.5,38,346047,6,2,3
+754,California,Liver and Intrahepatic Bile Duct,2018,Male,Black,15.0,192,1413495,6,2,3
+755,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male,Black,15.1,109,789327,6,2,3
+756,Texas,Liver and Intrahepatic Bile Duct,2018,Male,Black,15.6,240,1839465,6,2,3
+757,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male,Black,15.8,27,201433,6,2,3
+758,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male,Black,16.0,123,739235,6,2,3
+759,Ohio,Liver and Intrahepatic Bile Duct,2018,Male,Black,16.1,117,782561,6,2,3
+760,Missouri,Liver and Intrahepatic Bile Duct,2018,Male,Black,17.8,57,368194,6,2,3
+761,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male,Black,20.4,33,153373,6,2,3
+762,Washington,Liver and Intrahepatic Bile Duct,2018,Male,Black,20.6,30,215217,6,2,3
+763,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male,Black,25.2,35,211021,6,2,3
+764,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male,Black,29.2,28,216890,6,2,3
+765,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+766,Georgia,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+767,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+768,Indiana,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+769,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+770,Alabama,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+771,Delaware,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+772,Montana,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+773,Michigan,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+774,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+775,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+776,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+777,Alaska,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+778,Iowa,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+779,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+780,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+781,Maine,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+782,Colorado,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+783,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+784,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+785,Virginia,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+786,Ohio,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+787,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+788,Maryland,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+789,Idaho,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+790,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+791,Texas,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+792,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+793,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+794,Kansas,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+795,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+796,Washington,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+797,Florida,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+798,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+799,Illinois,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+800,New York,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+801,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+802,Missouri,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+803,Utah,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+804,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+805,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+806,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+807,Vermont,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+808,Nevada,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+809,Oregon,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+810,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+811,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+812,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,0.0,0,0,6,2,4
+813,California,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,10.3,28,389891,6,2,4
+814,Arizona,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,13.0,18,201173,6,2,4
+815,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male,American Indian and Alaska Native,22.3,36,210289,6,2,4
+816,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+817,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+818,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+819,Indiana,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+820,Oregon,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+821,Michigan,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+822,Alabama,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+823,Delaware,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+824,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+825,Alaska,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+826,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+827,Iowa,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+828,Maine,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+829,Montana,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+830,Colorado,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+831,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+832,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+833,Ohio,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+834,Idaho,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+835,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+836,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+837,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+838,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+839,Kansas,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+840,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+841,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+842,Missouri,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+843,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+844,Utah,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+845,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+846,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+847,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+848,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+849,Vermont,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+850,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,0.0,0,0,6,2,5
+851,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,7.7,30,447262,6,2,5
+852,Florida,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,9.8,32,329568,6,2,5
+853,Illinois,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,10.0,32,378336,6,2,5
+854,Maryland,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,10.2,19,207717,6,2,5
+855,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,10.3,20,242496,6,2,5
+856,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,10.5,18,246062,6,2,5
+857,Texas,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,11.0,66,775010,6,2,5
+858,New York,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,11.3,98,877078,6,2,5
+859,California,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,12.4,407,3137953,6,2,5
+860,Nevada,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,12.7,20,142816,6,2,5
+861,Virginia,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,13.0,30,303076,6,2,5
+862,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,13.2,74,487500,6,2,5
+863,Washington,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,16.4,50,392697,6,2,5
+864,Arizona,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,17.6,19,146018,6,2,5
+865,Georgia,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,20.1,29,236367,6,2,5
+866,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male,Asian and Pacific Islander,24.0,20,149842,6,2,5
+867,Georgia,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+868,Arkansas,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+869,New Hampshire,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+870,Missouri,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+871,Indiana,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+872,Louisiana,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+873,South Dakota,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+874,Delaware,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+875,Hawaii,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+876,Vermont,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+877,Alabama,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+878,Minnesota,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+879,North Dakota,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+880,Maine,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+881,Alaska,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+882,Iowa,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+883,Tennessee,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+884,Montana,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+885,District of Columbia,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+886,Mississippi,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+887,Virginia,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+888,Wyoming,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+889,Idaho,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+890,Wisconsin,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+891,Kansas,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+892,Nebraska,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+893,Rhode Island,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+894,Kentucky,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+895,Oklahoma,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+896,West Virginia,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+897,South Carolina,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+898,Utah,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,0.0,0,0,6,2,6
+899,North Carolina,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,7.0,17,513806,6,2,6
+900,New Jersey,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,9.5,58,915684,6,2,6
+901,Nevada,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,9.9,25,444734,6,2,6
+902,Florida,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,10.3,247,2734877,6,2,6
+903,Massachusetts,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,10.8,27,416225,6,2,6
+904,Maryland,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,11.0,16,324145,6,2,6
+905,Arizona,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,12.1,82,1135773,6,2,6
+906,New York,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,12.1,165,1844972,6,2,6
+907,Michigan,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,12.2,18,263455,6,2,6
+908,Washington,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,12.4,28,499147,6,2,6
+909,Illinois,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,12.4,77,1126969,6,2,6
+910,Ohio,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,13.8,17,235274,6,2,6
+911,Colorado,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,14.1,51,628515,6,2,6
+912,California,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,14.4,691,7782387,6,2,6
+913,Pennsylvania,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,14.5,34,495374,6,2,6
+914,Texas,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,17.6,623,5698801,6,2,6
+915,Connecticut,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,18.8,33,293030,6,2,6
+916,New Mexico,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,19.7,91,509608,6,2,6
+917,Oregon,Liver and Intrahepatic Bile Duct,2018,Male,Hispanic,21.9,27,286098,6,2,6

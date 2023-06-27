@@ -1,0 +1,919 @@
+,Area,Cancer Type,Year,Sex,Race,Age-Adjusted Rate,Case Count,Population,CancerType_val,Sex_val,Race_val
+0,District of Columbia,Leukemias,2018,Male and Female,All Races and Ethnicities,4.4,31,701547,8,1,1
+1,Hawaii,Leukemias,2018,Male and Female,All Races and Ethnicities,4.5,80,1420593,8,1,1
+2,New Mexico,Leukemias,2018,Male and Female,All Races and Ethnicities,5.0,128,2092741,8,1,1
+3,New Hampshire,Leukemias,2018,Male and Female,All Races and Ethnicities,5.0,90,1353465,8,1,1
+4,South Dakota,Leukemias,2018,Male and Female,All Races and Ethnicities,5.1,58,878698,8,1,1
+5,Arizona,Leukemias,2018,Male and Female,All Races and Ethnicities,5.4,484,7158024,8,1,1
+6,New Jersey,Leukemias,2018,Male and Female,All Races and Ethnicities,5.4,599,8886025,8,1,1
+7,Colorado,Leukemias,2018,Male and Female,All Races and Ethnicities,5.4,310,5691287,8,1,1
+8,Maine,Leukemias,2018,Male and Female,All Races and Ethnicities,5.5,108,1339057,8,1,1
+9,Nevada,Leukemias,2018,Male and Female,All Races and Ethnicities,5.5,184,3027341,8,1,1
+10,California,Leukemias,2018,Male and Female,All Races and Ethnicities,5.6,2426,39461588,8,1,1
+11,Alaska,Leukemias,2018,Male and Female,All Races and Ethnicities,5.6,36,735139,8,1,1
+12,Utah,Leukemias,2018,Male and Female,All Races and Ethnicities,5.6,148,3153550,8,1,1
+13,Georgia,Leukemias,2018,Male and Female,All Races and Ethnicities,5.7,612,10511131,8,1,1
+14,Montana,Leukemias,2018,Male and Female,All Races and Ethnicities,5.7,82,1060665,8,1,1
+15,Maryland,Leukemias,2018,Male and Female,All Races and Ethnicities,5.8,415,6035802,8,1,1
+16,New York,Leukemias,2018,Male and Female,All Races and Ethnicities,5.8,1417,19530351,8,1,1
+17,Ohio,Leukemias,2018,Male and Female,All Races and Ethnicities,5.9,892,11676341,8,1,1
+18,Texas,Leukemias,2018,Male and Female,All Races and Ethnicities,5.9,1614,28628666,8,1,1
+19,Massachusetts,Leukemias,2018,Male and Female,All Races and Ethnicities,5.9,504,6882635,8,1,1
+20,Florida,Leukemias,2018,Male and Female,All Races and Ethnicities,5.9,1861,21244317,8,1,1
+21,Washington,Leukemias,2018,Male and Female,All Races and Ethnicities,5.9,503,7523869,8,1,1
+22,Connecticut,Leukemias,2018,Male and Female,All Races and Ethnicities,6.0,284,3571520,8,1,1
+23,South Carolina,Leukemias,2018,Male and Female,All Races and Ethnicities,6.0,374,5084156,8,1,1
+24,Illinois,Leukemias,2018,Male and Female,All Races and Ethnicities,6.1,917,12723071,8,1,1
+25,North Carolina,Leukemias,2018,Male and Female,All Races and Ethnicities,6.1,748,10381615,8,1,1
+26,Oregon,Leukemias,2018,Male and Female,All Races and Ethnicities,6.1,319,4181886,8,1,1
+27,Louisiana,Leukemias,2018,Male and Female,All Races and Ethnicities,6.2,326,4659690,8,1,1
+28,Iowa,Leukemias,2018,Male and Female,All Races and Ethnicities,6.2,264,3148618,8,1,1
+29,Virginia,Leukemias,2018,Male and Female,All Races and Ethnicities,6.2,603,8501286,8,1,1
+30,Vermont,Leukemias,2018,Male and Female,All Races and Ethnicities,6.2,53,624358,8,1,1
+31,North Dakota,Leukemias,2018,Male and Female,All Races and Ethnicities,6.3,60,758080,8,1,1
+32,Tennessee,Leukemias,2018,Male and Female,All Races and Ethnicities,6.3,512,6771631,8,1,1
+33,Idaho,Leukemias,2018,Male and Female,All Races and Ethnicities,6.3,120,1750536,8,1,1
+34,Mississippi,Leukemias,2018,Male and Female,All Races and Ethnicities,6.3,221,2981020,8,1,1
+35,Pennsylvania,Leukemias,2018,Male and Female,All Races and Ethnicities,6.4,1129,12800922,8,1,1
+36,Arkansas,Leukemias,2018,Male and Female,All Races and Ethnicities,6.5,241,3009733,8,1,1
+37,Alabama,Leukemias,2018,Male and Female,All Races and Ethnicities,6.6,395,4887681,8,1,1
+38,Kentucky,Leukemias,2018,Male and Female,All Races and Ethnicities,6.6,352,4461153,8,1,1
+39,Indiana,Leukemias,2018,Male and Female,All Races and Ethnicities,6.7,517,6695497,8,1,1
+40,Michigan,Leukemias,2018,Male and Female,All Races and Ethnicities,6.7,837,9984072,8,1,1
+41,Delaware,Leukemias,2018,Male and Female,All Races and Ethnicities,6.7,85,965479,8,1,1
+42,Wyoming,Leukemias,2018,Male and Female,All Races and Ethnicities,6.7,45,577601,8,1,1
+43,Missouri,Leukemias,2018,Male and Female,All Races and Ethnicities,6.7,513,6121623,8,1,1
+44,Wisconsin,Leukemias,2018,Male and Female,All Races and Ethnicities,6.7,496,5807406,8,1,1
+45,Kansas,Leukemias,2018,Male and Female,All Races and Ethnicities,6.9,243,2911359,8,1,1
+46,West Virginia,Leukemias,2018,Male and Female,All Races and Ethnicities,6.9,173,1804291,8,1,1
+47,Rhode Island,Leukemias,2018,Male and Female,All Races and Ethnicities,7.1,95,1058287,8,1,1
+48,Nebraska,Leukemias,2018,Male and Female,All Races and Ethnicities,7.1,159,1925614,8,1,1
+49,Minnesota,Leukemias,2018,Male and Female,All Races and Ethnicities,7.3,495,5606249,8,1,1
+50,Oklahoma,Leukemias,2018,Male and Female,All Races and Ethnicities,7.6,345,3940235,8,1,1
+51,District of Columbia,Leukemias,2018,Male and Female,White,0.0,0,0,8,1,2
+52,Hawaii,Leukemias,2018,Male and Female,White,4.7,25,360769,8,1,2
+53,New Hampshire,Leukemias,2018,Male and Female,White,5.0,89,1277085,8,1,2
+54,South Dakota,Leukemias,2018,Male and Female,White,5.0,54,753781,8,1,2
+55,New Mexico,Leukemias,2018,Male and Female,White,5.2,119,1741707,8,1,2
+56,Arizona,Leukemias,2018,Male and Female,White,5.5,448,6029753,8,1,2
+57,Colorado,Leukemias,2018,Male and Female,White,5.6,300,5047417,8,1,2
+58,Utah,Leukemias,2018,Male and Female,White,5.6,143,2910385,8,1,2
+59,Maine,Leukemias,2018,Male and Female,White,5.7,108,1281999,8,1,2
+60,New Jersey,Leukemias,2018,Male and Female,White,5.7,507,6507268,8,1,2
+61,Georgia,Leukemias,2018,Male and Female,White,5.8,451,6468529,8,1,2
+62,Alaska,Leukemias,2018,Male and Female,White,5.8,28,506963,8,1,2
+63,Montana,Leukemias,2018,Male and Female,White,5.9,81,960941,8,1,2
+64,Florida,Leukemias,2018,Male and Female,White,6.0,1646,16690253,8,1,2
+65,Ohio,Leukemias,2018,Male and Female,White,6.0,803,9691566,8,1,2
+66,Massachusetts,Leukemias,2018,Male and Female,White,6.1,476,5662837,8,1,2
+67,Oregon,Leukemias,2018,Male and Female,White,6.1,301,3724600,8,1,2
+68,California,Leukemias,2018,Male and Female,White,6.1,2008,29265222,8,1,2
+69,Maryland,Leukemias,2018,Male and Female,White,6.1,296,3625716,8,1,2
+70,Nevada,Leukemias,2018,Male and Female,White,6.1,166,2314725,8,1,2
+71,Washington,Leukemias,2018,Male and Female,White,6.1,461,6122738,8,1,2
+72,Texas,Leukemias,2018,Male and Female,White,6.1,1420,22922308,8,1,2
+73,Mississippi,Leukemias,2018,Male and Female,White,6.2,153,1781300,8,1,2
+74,New York,Leukemias,2018,Male and Female,White,6.2,1180,13851993,8,1,2
+75,Connecticut,Leukemias,2018,Male and Female,White,6.3,267,2903675,8,1,2
+76,Illinois,Leukemias,2018,Male and Female,White,6.3,794,9912791,8,1,2
+77,Iowa,Leukemias,2018,Male and Female,White,6.3,257,2890811,8,1,2
+78,Idaho,Leukemias,2018,Male and Female,White,6.3,117,1657508,8,1,2
+79,Wyoming,Leukemias,2018,Male and Female,White,6.3,42,542445,8,1,2
+80,Louisiana,Leukemias,2018,Male and Female,White,6.4,249,2969067,8,1,2
+81,Vermont,Leukemias,2018,Male and Female,White,6.4,53,597319,8,1,2
+82,Virginia,Leukemias,2018,Male and Female,White,6.4,488,6043768,8,1,2
+83,North Dakota,Leukemias,2018,Male and Female,White,6.4,59,669755,8,1,2
+84,South Carolina,Leukemias,2018,Male and Female,White,6.4,308,3533462,8,1,2
+85,Pennsylvania,Leukemias,2018,Male and Female,White,6.5,1036,10608820,8,1,2
+86,North Carolina,Leukemias,2018,Male and Female,White,6.6,641,7454379,8,1,2
+87,Tennessee,Leukemias,2018,Male and Female,White,6.6,463,5391666,8,1,2
+88,Kentucky,Leukemias,2018,Male and Female,White,6.7,333,3962465,8,1,2
+89,Missouri,Leukemias,2018,Male and Female,White,6.7,467,5154374,8,1,2
+90,Arkansas,Leukemias,2018,Male and Female,White,6.8,219,2421400,8,1,2
+91,Indiana,Leukemias,2018,Male and Female,White,6.8,481,5765583,8,1,2
+92,Wisconsin,Leukemias,2018,Male and Female,White,6.8,476,5117885,8,1,2
+93,Kansas,Leukemias,2018,Male and Female,White,6.8,225,2559851,8,1,2
+94,West Virginia,Leukemias,2018,Male and Female,White,6.9,165,1707867,8,1,2
+95,Michigan,Leukemias,2018,Male and Female,White,7.0,758,8037285,8,1,2
+96,Alabama,Leukemias,2018,Male and Female,White,7.0,326,3428637,8,1,2
+97,Delaware,Leukemias,2018,Male and Female,White,7.1,72,683018,8,1,2
+98,Nebraska,Leukemias,2018,Male and Female,White,7.1,153,1722396,8,1,2
+99,Rhode Island,Leukemias,2018,Male and Female,White,7.4,91,902251,8,1,2
+100,Minnesota,Leukemias,2018,Male and Female,White,7.4,473,4786935,8,1,2
+101,Oklahoma,Leukemias,2018,Male and Female,White,7.7,302,3053465,8,1,2
+102,New Hampshire,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+103,Hawaii,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+104,Oregon,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+105,South Dakota,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+106,Delaware,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+107,Vermont,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+108,Minnesota,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+109,North Dakota,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+110,Alaska,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+111,Maine,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+112,Iowa,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+113,Montana,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+114,Colorado,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+115,New Mexico,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+116,Kansas,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+117,Wyoming,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+118,Idaho,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+119,Washington,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+120,Nebraska,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+121,Rhode Island,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+122,Utah,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+123,West Virginia,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+124,Nevada,Leukemias,2018,Male and Female,Black,0.0,0,0,8,1,3
+125,Massachusetts,Leukemias,2018,Male and Female,Black,3.8,18,665317,8,1,3
+126,Connecticut,Leukemias,2018,Male and Female,Black,4.0,16,458476,8,1,3
+127,Kentucky,Leukemias,2018,Male and Female,Black,4.2,16,404452,8,1,3
+128,North Carolina,Leukemias,2018,Male and Female,Black,4.3,99,2394511,8,1,3
+129,Arkansas,Leukemias,2018,Male and Female,Black,4.5,20,489481,8,1,3
+130,New York,Leukemias,2018,Male and Female,Black,4.5,163,3618873,8,1,3
+131,Tennessee,Leukemias,2018,Male and Female,Black,4.6,45,1199502,8,1,3
+132,South Carolina,Leukemias,2018,Male and Female,Black,4.6,63,1417646,8,1,3
+133,Michigan,Leukemias,2018,Male and Female,Black,4.7,67,1495057,8,1,3
+134,New Jersey,Leukemias,2018,Male and Female,Black,4.8,64,1397403,8,1,3
+135,Texas,Leukemias,2018,Male and Female,Black,4.9,149,3794158,8,1,3
+136,Alabama,Leukemias,2018,Male and Female,Black,5.1,66,1337780,8,1,3
+137,California,Leukemias,2018,Male and Female,Black,5.2,137,2841953,8,1,3
+138,Maryland,Leukemias,2018,Male and Female,Black,5.2,99,1932102,8,1,3
+139,Arizona,Leukemias,2018,Male and Female,Black,5.3,16,413472,8,1,3
+140,Georgia,Leukemias,2018,Male and Female,Black,5.3,150,3493534,8,1,3
+141,District of Columbia,Leukemias,2018,Male and Female,Black,5.3,21,337257,8,1,3
+142,Louisiana,Leukemias,2018,Male and Female,Black,5.5,73,1557088,8,1,3
+143,Illinois,Leukemias,2018,Male and Female,Black,5.5,103,1938706,8,1,3
+144,Pennsylvania,Leukemias,2018,Male and Female,Black,5.6,82,1631910,8,1,3
+145,Indiana,Leukemias,2018,Male and Female,Black,5.7,32,715146,8,1,3
+146,Virginia,Leukemias,2018,Male and Female,Black,5.8,99,1769094,8,1,3
+147,Florida,Leukemias,2018,Male and Female,Black,5.8,193,3726225,8,1,3
+148,Missouri,Leukemias,2018,Male and Female,Black,5.8,41,770993,8,1,3
+149,Ohio,Leukemias,2018,Male and Female,Black,5.9,87,1628354,8,1,3
+150,Mississippi,Leukemias,2018,Male and Female,Black,6.7,67,1143420,8,1,3
+151,Wisconsin,Leukemias,2018,Male and Female,Black,6.9,17,427480,8,1,3
+152,Oklahoma,Leukemias,2018,Male and Female,Black,7.2,19,351903,8,1,3
+153,Connecticut,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+154,Arizona,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+155,Georgia,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+156,Arkansas,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+157,Louisiana,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+158,Michigan,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+159,California,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+160,Indiana,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+161,Delaware,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+162,Hawaii,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+163,South Dakota,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+164,Minnesota,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+165,North Dakota,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+166,Alabama,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+167,Maine,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+168,Iowa,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+169,New Jersey,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+170,District of Columbia,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+171,Alaska,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+172,Tennessee,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+173,Pennsylvania,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+174,Colorado,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+175,Montana,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+176,Idaho,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+177,New Mexico,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+178,Virginia,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+179,Mississippi,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+180,Maryland,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+181,Ohio,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+182,Texas,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+183,Kansas,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+184,Wyoming,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+185,Rhode Island,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+186,Washington,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+187,Massachusetts,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+188,Nebraska,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+189,Kentucky,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+190,New York,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+191,Florida,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+192,West Virginia,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+193,Illinois,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+194,North Carolina,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+195,South Carolina,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+196,Utah,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+197,Nevada,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+198,Vermont,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+199,Oregon,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+200,New Hampshire,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+201,Missouri,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+202,Wisconsin,Leukemias,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,8,1,4
+203,Oklahoma,Leukemias,2018,Male and Female,American Indian and Alaska Native,6.3,21,425510,8,1,4
+204,Arizona,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+205,Connecticut,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+206,Georgia,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+207,Arkansas,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+208,North Carolina,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+209,Michigan,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+210,Louisiana,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+211,Indiana,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+212,Oregon,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+213,Delaware,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+214,South Dakota,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+215,Minnesota,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+216,Vermont,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+217,Alabama,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+218,Maine,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+219,North Dakota,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+220,Alaska,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+221,Pennsylvania,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+222,Iowa,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+223,Colorado,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+224,Tennessee,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+225,Montana,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+226,Idaho,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+227,District of Columbia,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+228,Mississippi,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+229,Virginia,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+230,Ohio,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+231,New Mexico,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+232,Wyoming,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+233,Kansas,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+234,Massachusetts,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+235,Oklahoma,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+236,Nebraska,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+237,Rhode Island,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+238,Kentucky,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+239,South Carolina,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+240,Utah,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+241,West Virginia,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+242,Nevada,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+243,Missouri,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+244,New Hampshire,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+245,Wisconsin,Leukemias,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,8,1,5
+246,Illinois,Leukemias,2018,Male and Female,Asian and Pacific Islander,2.5,20,783468,8,1,5
+247,New Jersey,Leukemias,2018,Male and Female,Asian and Pacific Islander,3.1,27,917565,8,1,5
+248,Texas,Leukemias,2018,Male and Female,Asian and Pacific Islander,3.3,44,1591190,8,1,5
+249,Washington,Leukemias,2018,Male and Female,Asian and Pacific Islander,3.4,21,824285,8,1,5
+250,Florida,Leukemias,2018,Male and Female,Asian and Pacific Islander,3.4,22,708713,8,1,5
+251,California,Leukemias,2018,Male and Female,Asian and Pacific Islander,3.7,269,6581310,8,1,5
+252,New York,Leukemias,2018,Male and Female,Asian and Pacific Islander,3.9,72,1835707,8,1,5
+253,Hawaii,Leukemias,2018,Male and Female,Asian and Pacific Islander,4.6,55,1009897,8,1,5
+254,Maryland,Leukemias,2018,Male and Female,Asian and Pacific Islander,4.7,20,435655,8,1,5
+255,Massachusetts,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+256,Missouri,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+257,Arkansas,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+258,Louisiana,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+259,Hawaii,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+260,North Carolina,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+261,Indiana,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+262,New Hampshire,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+263,Oregon,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+264,Alabama,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+265,Vermont,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+266,Maine,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+267,South Dakota,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+268,Iowa,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+269,Montana,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+270,Wisconsin,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+271,Tennessee,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+272,Ohio,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+273,Delaware,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+274,Maryland,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+275,Wyoming,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+276,Idaho,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+277,Mississippi,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+278,Alaska,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+279,Rhode Island,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+280,Oklahoma,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+281,Kansas,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+282,North Dakota,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+283,Nebraska,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+284,Kentucky,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+285,Utah,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+286,District of Columbia,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+287,Minnesota,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+288,South Carolina,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+289,West Virginia,Leukemias,2018,Male and Female,Hispanic,0.0,0,0,8,1,6
+290,Georgia,Leukemias,2018,Male and Female,Hispanic,3.0,16,1022370,8,1,6
+291,Nevada,Leukemias,2018,Male and Female,Hispanic,3.2,20,877290,8,1,6
+292,Washington,Leukemias,2018,Male and Female,Hispanic,3.3,18,966855,8,1,6
+293,Illinois,Leukemias,2018,Male and Female,Hispanic,3.5,47,2204614,8,1,6
+294,New Mexico,Leukemias,2018,Male and Female,Hispanic,3.8,35,1027108,8,1,6
+295,Colorado,Leukemias,2018,Male and Female,Hispanic,4.2,29,1233748,8,1,6
+296,Virginia,Leukemias,2018,Male and Female,Hispanic,4.3,17,816546,8,1,6
+297,Texas,Leukemias,2018,Male and Female,Hispanic,4.3,340,11323903,8,1,6
+298,California,Leukemias,2018,Male and Female,Hispanic,4.4,466,15472859,8,1,6
+299,New Jersey,Leukemias,2018,Male and Female,Hispanic,4.4,59,1828769,8,1,6
+300,Pennsylvania,Leukemias,2018,Male and Female,Hispanic,4.4,21,973661,8,1,6
+301,New York,Leukemias,2018,Male and Female,Hispanic,4.6,145,3743541,8,1,6
+302,Arizona,Leukemias,2018,Male and Female,Hispanic,4.7,65,2258856,8,1,6
+303,Connecticut,Leukemias,2018,Male and Female,Hispanic,4.7,16,589825,8,1,6
+304,Florida,Leukemias,2018,Male and Female,Hispanic,5.3,281,5537857,8,1,6
+305,Michigan,Leukemias,2018,Male and Female,Hispanic,5.4,17,518477,8,1,6
+306,District of Columbia,Leukemias,2018,Female,All Races and Ethnicities,0.0,0,0,8,3,1
+307,Hawaii,Leukemias,2018,Female,All Races and Ethnicities,2.3,21,709302,8,3,1
+308,South Dakota,Leukemias,2018,Female,All Races and Ethnicities,3.3,21,435205,8,3,1
+309,New Mexico,Leukemias,2018,Female,All Races and Ethnicities,3.6,49,1057201,8,3,1
+310,Maine,Leukemias,2018,Female,All Races and Ethnicities,3.7,40,683374,8,3,1
+311,Rhode Island,Leukemias,2018,Female,All Races and Ethnicities,3.7,29,543427,8,3,1
+312,Nevada,Leukemias,2018,Female,All Races and Ethnicities,3.7,65,1508820,8,3,1
+313,New Hampshire,Leukemias,2018,Female,All Races and Ethnicities,3.9,38,682692,8,3,1
+314,Delaware,Leukemias,2018,Female,All Races and Ethnicities,4.0,27,498641,8,3,1
+315,New Jersey,Leukemias,2018,Female,All Races and Ethnicities,4.0,250,4545338,8,3,1
+316,Maryland,Leukemias,2018,Female,All Races and Ethnicities,4.0,165,3111203,8,3,1
+317,Colorado,Leukemias,2018,Female,All Races and Ethnicities,4.1,130,2825526,8,3,1
+318,Arizona,Leukemias,2018,Female,All Races and Ethnicities,4.1,194,3600640,8,3,1
+319,Georgia,Leukemias,2018,Female,All Races and Ethnicities,4.2,254,5399300,8,3,1
+320,California,Leukemias,2018,Female,All Races and Ethnicities,4.2,1017,19843136,8,3,1
+321,Ohio,Leukemias,2018,Female,All Races and Ethnicities,4.2,357,5953904,8,3,1
+322,South Carolina,Leukemias,2018,Female,All Races and Ethnicities,4.2,150,2620391,8,3,1
+323,Washington,Leukemias,2018,Female,All Races and Ethnicities,4.3,205,3758918,8,3,1
+324,Florida,Leukemias,2018,Female,All Races and Ethnicities,4.4,754,10858944,8,3,1
+325,Illinois,Leukemias,2018,Female,All Races and Ethnicities,4.4,382,6471727,8,3,1
+326,Massachusetts,Leukemias,2018,Female,All Races and Ethnicities,4.4,222,3542925,8,3,1
+327,New York,Leukemias,2018,Female,All Races and Ethnicities,4.4,613,10046133,8,3,1
+328,Alaska,Leukemias,2018,Female,All Races and Ethnicities,4.5,16,351692,8,3,1
+329,Pennsylvania,Leukemias,2018,Female,All Races and Ethnicities,4.5,456,6529381,8,3,1
+330,Texas,Leukemias,2018,Female,All Races and Ethnicities,4.5,672,14409351,8,3,1
+331,North Carolina,Leukemias,2018,Female,All Races and Ethnicities,4.5,315,5331288,8,3,1
+332,Oregon,Leukemias,2018,Female,All Races and Ethnicities,4.5,128,2108799,8,3,1
+333,Michigan,Leukemias,2018,Female,All Races and Ethnicities,4.7,336,5067862,8,3,1
+334,Montana,Leukemias,2018,Female,All Races and Ethnicities,4.7,36,526813,8,3,1
+335,North Dakota,Leukemias,2018,Female,All Races and Ethnicities,4.7,25,370046,8,3,1
+336,Iowa,Leukemias,2018,Female,All Races and Ethnicities,4.7,114,1581655,8,3,1
+337,Utah,Leukemias,2018,Female,All Races and Ethnicities,4.7,65,1565310,8,3,1
+338,Louisiana,Leukemias,2018,Female,All Races and Ethnicities,4.8,145,2385448,8,3,1
+339,Tennessee,Leukemias,2018,Female,All Races and Ethnicities,4.8,220,3466921,8,3,1
+340,Virginia,Leukemias,2018,Female,All Races and Ethnicities,4.9,267,4318025,8,3,1
+341,Oklahoma,Leukemias,2018,Female,All Races and Ethnicities,4.9,121,1987969,8,3,1
+342,Kentucky,Leukemias,2018,Female,All Races and Ethnicities,4.9,144,2263603,8,3,1
+343,Wisconsin,Leukemias,2018,Female,All Races and Ethnicities,4.9,203,2918181,8,3,1
+344,Indiana,Leukemias,2018,Female,All Races and Ethnicities,5.0,218,3394211,8,3,1
+345,Alabama,Leukemias,2018,Female,All Races and Ethnicities,5.1,174,2524361,8,3,1
+346,Kansas,Leukemias,2018,Female,All Races and Ethnicities,5.1,100,1460588,8,3,1
+347,Connecticut,Leukemias,2018,Female,All Races and Ethnicities,5.1,139,1829397,8,3,1
+348,Nebraska,Leukemias,2018,Female,All Races and Ethnicities,5.1,64,964240,8,3,1
+349,Missouri,Leukemias,2018,Female,All Races and Ethnicities,5.1,220,3116702,8,3,1
+350,Arkansas,Leukemias,2018,Female,All Races and Ethnicities,5.2,107,1531624,8,3,1
+351,Minnesota,Leukemias,2018,Female,All Races and Ethnicities,5.3,200,2813822,8,3,1
+352,Mississippi,Leukemias,2018,Female,All Races and Ethnicities,5.3,104,1535497,8,3,1
+353,Wyoming,Leukemias,2018,Female,All Races and Ethnicities,5.4,20,283325,8,3,1
+354,Vermont,Leukemias,2018,Female,All Races and Ethnicities,5.6,26,316079,8,3,1
+355,West Virginia,Leukemias,2018,Female,All Races and Ethnicities,5.8,80,910982,8,3,1
+356,Idaho,Leukemias,2018,Female,All Races and Ethnicities,6.0,60,873205,8,3,1
+357,Hawaii,Leukemias,2018,Female,White,0.0,0,0,8,3,2
+358,Alaska,Leukemias,2018,Female,White,0.0,0,0,8,3,2
+359,District of Columbia,Leukemias,2018,Female,White,0.0,0,0,8,3,2
+360,South Dakota,Leukemias,2018,Female,White,3.3,19,374017,8,3,2
+361,New Hampshire,Leukemias,2018,Female,White,3.8,37,645554,8,3,2
+362,Maine,Leukemias,2018,Female,White,3.8,40,654956,8,3,2
+363,Maryland,Leukemias,2018,Female,White,3.9,110,1833886,8,3,2
+364,Georgia,Leukemias,2018,Female,White,4.0,170,3260375,8,3,2
+365,New Jersey,Leukemias,2018,Female,White,4.0,203,3311480,8,3,2
+366,Rhode Island,Leukemias,2018,Female,White,4.0,28,464188,8,3,2
+367,New Mexico,Leukemias,2018,Female,White,4.0,48,879276,8,3,2
+368,Nevada,Leukemias,2018,Female,White,4.0,55,1137703,8,3,2
+369,Arizona,Leukemias,2018,Female,White,4.1,176,3032061,8,3,2
+370,Colorado,Leukemias,2018,Female,White,4.3,127,2506000,8,3,2
+371,Ohio,Leukemias,2018,Female,White,4.3,321,4925060,8,3,2
+372,Delaware,Leukemias,2018,Female,White,4.3,23,350587,8,3,2
+373,Wyoming,Leukemias,2018,Female,White,4.4,17,266262,8,3,2
+374,Florida,Leukemias,2018,Female,White,4.4,657,8494176,8,3,2
+375,Massachusetts,Leukemias,2018,Female,White,4.5,207,2913106,8,3,2
+376,Oregon,Leukemias,2018,Female,White,4.5,120,1877920,8,3,2
+377,Illinois,Leukemias,2018,Female,White,4.5,319,4998606,8,3,2
+378,California,Leukemias,2018,Female,White,4.6,824,14588109,8,3,2
+379,South Carolina,Leukemias,2018,Female,White,4.6,123,1797753,8,3,2
+380,Washington,Leukemias,2018,Female,White,4.6,191,3053227,8,3,2
+381,Texas,Leukemias,2018,Female,White,4.6,587,11481905,8,3,2
+382,Iowa,Leukemias,2018,Female,White,4.7,111,1457766,8,3,2
+383,Pennsylvania,Leukemias,2018,Female,White,4.7,422,5398388,8,3,2
+384,North Dakota,Leukemias,2018,Female,White,4.7,24,327564,8,3,2
+385,Utah,Leukemias,2018,Female,White,4.7,62,1445810,8,3,2
+386,New York,Leukemias,2018,Female,White,4.7,507,7051515,8,3,2
+387,Kentucky,Leukemias,2018,Female,White,4.9,134,2012497,8,3,2
+388,Michigan,Leukemias,2018,Female,White,4.9,303,4055958,8,3,2
+389,North Carolina,Leukemias,2018,Female,White,4.9,269,3787992,8,3,2
+390,Mississippi,Leukemias,2018,Female,White,4.9,67,900959,8,3,2
+391,Montana,Leukemias,2018,Female,White,4.9,36,476562,8,3,2
+392,Missouri,Leukemias,2018,Female,White,5.0,191,2612757,8,3,2
+393,Tennessee,Leukemias,2018,Female,White,5.0,197,2742940,8,3,2
+394,Wisconsin,Leukemias,2018,Female,White,5.0,193,2568475,8,3,2
+395,Kansas,Leukemias,2018,Female,White,5.0,91,1287436,8,3,2
+396,Oklahoma,Leukemias,2018,Female,White,5.0,108,1540466,8,3,2
+397,Indiana,Leukemias,2018,Female,White,5.1,202,2917999,8,3,2
+398,Nebraska,Leukemias,2018,Female,White,5.1,61,863741,8,3,2
+399,Connecticut,Leukemias,2018,Female,White,5.2,130,1482706,8,3,2
+400,Virginia,Leukemias,2018,Female,White,5.2,213,3041404,8,3,2
+401,Louisiana,Leukemias,2018,Female,White,5.3,115,1500331,8,3,2
+402,Alabama,Leukemias,2018,Female,White,5.3,141,1746198,8,3,2
+403,Minnesota,Leukemias,2018,Female,White,5.5,193,2405405,8,3,2
+404,Arkansas,Leukemias,2018,Female,White,5.7,99,1225549,8,3,2
+405,Vermont,Leukemias,2018,Female,White,5.7,26,302630,8,3,2
+406,West Virginia,Leukemias,2018,Female,White,5.7,74,865365,8,3,2
+407,Idaho,Leukemias,2018,Female,White,6.2,60,826312,8,3,2
+408,Arizona,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+409,Connecticut,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+410,Arkansas,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+411,Indiana,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+412,Hawaii,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+413,Oregon,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+414,Delaware,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+415,South Dakota,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+416,Minnesota,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+417,Vermont,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+418,Maine,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+419,North Dakota,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+420,Alaska,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+421,Iowa,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+422,Colorado,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+423,Montana,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+424,Idaho,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+425,District of Columbia,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+426,New Mexico,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+427,Wyoming,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+428,Kansas,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+429,Massachusetts,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+430,Washington,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+431,Oklahoma,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+432,Nebraska,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+433,Rhode Island,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+434,Kentucky,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+435,Utah,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+436,West Virginia,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+437,Nevada,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+438,New Hampshire,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+439,Wisconsin,Leukemias,2018,Female,Black,0.0,0,0,8,3,3
+440,Pennsylvania,Leukemias,2018,Female,Black,3.1,28,842583,8,3,3
+441,North Carolina,Leukemias,2018,Female,Black,3.2,43,1270945,8,3,3
+442,South Carolina,Leukemias,2018,Female,Black,3.2,25,753896,8,3,3
+443,Michigan,Leukemias,2018,Female,Black,3.5,28,783118,8,3,3
+444,Tennessee,Leukemias,2018,Female,Black,3.6,22,631125,8,3,3
+445,Louisiana,Leukemias,2018,Female,Black,3.7,29,817853,8,3,3
+446,Texas,Leukemias,2018,Female,Black,3.7,62,1954693,8,3,3
+447,New York,Leukemias,2018,Female,Black,3.8,81,1923612,8,3,3
+448,California,Leukemias,2018,Female,Black,4.1,61,1428458,8,3,3
+449,Maryland,Leukemias,2018,Female,Black,4.1,48,1028519,8,3,3
+450,Ohio,Leukemias,2018,Female,Black,4.1,35,845793,8,3,3
+451,Alabama,Leukemias,2018,Female,Black,4.3,33,715353,8,3,3
+452,New Jersey,Leukemias,2018,Female,Black,4.4,35,732277,8,3,3
+453,Illinois,Leukemias,2018,Female,Black,4.7,52,1025025,8,3,3
+454,Florida,Leukemias,2018,Female,Black,4.7,89,1928202,8,3,3
+455,Georgia,Leukemias,2018,Female,Black,4.9,80,1857964,8,3,3
+456,Virginia,Leukemias,2018,Female,Black,4.9,49,918026,8,3,3
+457,Mississippi,Leukemias,2018,Female,Black,6.2,36,605342,8,3,3
+458,Missouri,Leukemias,2018,Female,Black,6.2,26,402799,8,3,3
+459,Connecticut,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+460,Arizona,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+461,Georgia,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+462,Indiana,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+463,Arkansas,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+464,Alabama,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+465,Louisiana,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+466,Michigan,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+467,California,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+468,Delaware,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+469,Hawaii,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+470,Alaska,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+471,Minnesota,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+472,Maine,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+473,North Dakota,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+474,Iowa,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+475,New Jersey,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+476,District of Columbia,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+477,Pennsylvania,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+478,Tennessee,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+479,Ohio,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+480,Colorado,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+481,Virginia,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+482,New Mexico,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+483,Montana,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+484,Idaho,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+485,Mississippi,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+486,Maryland,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+487,Rhode Island,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+488,Wyoming,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+489,Texas,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+490,Kansas,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+491,Illinois,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+492,Massachusetts,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+493,Florida,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+494,Washington,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+495,Oklahoma,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+496,Nebraska,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+497,New York,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+498,Kentucky,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+499,West Virginia,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+500,North Carolina,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+501,Oregon,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+502,South Carolina,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+503,Utah,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+504,Nevada,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+505,Vermont,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+506,South Dakota,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+507,New Hampshire,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+508,Missouri,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+509,Wisconsin,Leukemias,2018,Female,American Indian and Alaska Native,0.0,0,0,8,3,4
+510,Arizona,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+511,Connecticut,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+512,Georgia,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+513,Arkansas,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+514,Louisiana,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+515,Michigan,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+516,Indiana,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+517,Delaware,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+518,South Dakota,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+519,Minnesota,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+520,North Dakota,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+521,Alabama,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+522,Maine,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+523,Iowa,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+524,New Jersey,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+525,Alaska,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+526,Tennessee,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+527,Pennsylvania,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+528,Colorado,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+529,Montana,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+530,Idaho,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+531,District of Columbia,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+532,New Mexico,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+533,Virginia,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+534,Mississippi,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+535,Maryland,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+536,Ohio,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+537,Kansas,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+538,Wyoming,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+539,Rhode Island,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+540,Washington,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+541,Massachusetts,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+542,Nebraska,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+543,Oklahoma,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+544,Florida,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+545,West Virginia,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+546,Kentucky,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+547,Illinois,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+548,North Carolina,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+549,South Carolina,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+550,Utah,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+551,Nevada,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+552,Vermont,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+553,Oregon,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+554,Missouri,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+555,New Hampshire,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+556,Wisconsin,Leukemias,2018,Female,Asian and Pacific Islander,0.0,0,0,8,3,5
+557,Hawaii,Leukemias,2018,Female,Asian and Pacific Islander,2.4,16,522397,8,3,5
+558,New York,Leukemias,2018,Female,Asian and Pacific Islander,2.4,25,958629,8,3,5
+559,Texas,Leukemias,2018,Female,Asian and Pacific Islander,3.1,23,816180,8,3,5
+560,California,Leukemias,2018,Female,Asian and Pacific Islander,3.2,127,3443357,8,3,5
+561,Connecticut,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+562,Georgia,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+563,Arkansas,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+564,Missouri,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+565,Michigan,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+566,Louisiana,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+567,North Carolina,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+568,Hawaii,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+569,Indiana,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+570,New Hampshire,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+571,Oregon,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+572,Vermont,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+573,Minnesota,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+574,South Dakota,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+575,Alabama,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+576,North Dakota,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+577,Maine,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+578,Iowa,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+579,Tennessee,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+580,Montana,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+581,Wisconsin,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+582,Ohio,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+583,Mississippi,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+584,New Mexico,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+585,Delaware,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+586,Pennsylvania,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+587,Virginia,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+588,Kansas,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+589,Maryland,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+590,Wyoming,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+591,Idaho,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+592,Massachusetts,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+593,Washington,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+594,Alaska,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+595,Nebraska,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+596,Kentucky,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+597,Rhode Island,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+598,Illinois,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+599,Oklahoma,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+600,South Carolina,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+601,Utah,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+602,West Virginia,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+603,District of Columbia,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+604,Nevada,Leukemias,2018,Female,Hispanic,0.0,0,0,8,3,6
+605,New York,Leukemias,2018,Female,Hispanic,3.2,57,1898569,8,3,6
+606,Texas,Leukemias,2018,Female,Hispanic,3.5,149,5625102,8,3,6
+607,California,Leukemias,2018,Female,Hispanic,3.6,219,7690472,8,3,6
+608,New Jersey,Leukemias,2018,Female,Hispanic,3.7,28,913085,8,3,6
+609,Arizona,Leukemias,2018,Female,Hispanic,3.8,29,1123083,8,3,6
+610,Florida,Leukemias,2018,Female,Hispanic,4.0,124,2802980,8,3,6
+611,Colorado,Leukemias,2018,Female,Hispanic,4.1,16,605233,8,3,6
+612,District of Columbia,Leukemias,2018,Male,All Races and Ethnicities,6.0,18,332904,8,2,1
+613,New Hampshire,Leukemias,2018,Male,All Races and Ethnicities,6.4,52,670773,8,2,1
+614,Utah,Leukemias,2018,Male,All Races and Ethnicities,6.6,83,1588240,8,2,1
+615,New Mexico,Leukemias,2018,Male,All Races and Ethnicities,6.7,79,1035540,8,2,1
+616,Idaho,Leukemias,2018,Male,All Races and Ethnicities,6.7,60,877331,8,2,1
+617,Montana,Leukemias,2018,Male,All Races and Ethnicities,6.9,46,533852,8,2,1
+618,Alaska,Leukemias,2018,Male,All Races and Ethnicities,6.9,20,383447,8,2,1
+619,Hawaii,Leukemias,2018,Male,All Races and Ethnicities,7.0,59,711291,8,2,1
+620,Colorado,Leukemias,2018,Male,All Races and Ethnicities,7.0,180,2865761,8,2,1
+621,Arizona,Leukemias,2018,Male,All Races and Ethnicities,7.0,290,3557384,8,2,1
+622,Connecticut,Leukemias,2018,Male,All Races and Ethnicities,7.3,145,1742123,8,2,1
+623,California,Leukemias,2018,Male,All Races and Ethnicities,7.4,1409,19618452,8,2,1
+624,Vermont,Leukemias,2018,Male,All Races and Ethnicities,7.4,27,308279,8,2,1
+625,New Jersey,Leukemias,2018,Male,All Races and Ethnicities,7.5,349,4340687,8,2,1
+626,Nevada,Leukemias,2018,Male,All Races and Ethnicities,7.5,119,1518521,8,2,1
+627,South Dakota,Leukemias,2018,Male,All Races and Ethnicities,7.5,37,443493,8,2,1
+628,Georgia,Leukemias,2018,Male,All Races and Ethnicities,7.7,358,5111831,8,2,1
+629,Mississippi,Leukemias,2018,Male,All Races and Ethnicities,7.7,117,1445523,8,2,1
+630,Texas,Leukemias,2018,Male,All Races and Ethnicities,7.8,942,14219315,8,2,1
+631,Florida,Leukemias,2018,Male,All Races and Ethnicities,7.8,1107,10385373,8,2,1
+632,New York,Leukemias,2018,Male,All Races and Ethnicities,7.8,804,9484218,8,2,1
+633,Maine,Leukemias,2018,Male,All Races and Ethnicities,7.9,68,655683,8,2,1
+634,Wyoming,Leukemias,2018,Male,All Races and Ethnicities,7.9,25,294276,8,2,1
+635,Massachusetts,Leukemias,2018,Male,All Races and Ethnicities,7.9,282,3339710,8,2,1
+636,Louisiana,Leukemias,2018,Male,All Races and Ethnicities,8.0,181,2274242,8,2,1
+637,Virginia,Leukemias,2018,Male,All Races and Ethnicities,8.0,336,4183261,8,2,1
+638,Washington,Leukemias,2018,Male,All Races and Ethnicities,8.0,298,3764951,8,2,1
+639,Arkansas,Leukemias,2018,Male,All Races and Ethnicities,8.1,134,1478109,8,2,1
+640,West Virginia,Leukemias,2018,Male,All Races and Ethnicities,8.1,93,893309,8,2,1
+641,Oregon,Leukemias,2018,Male,All Races and Ethnicities,8.1,191,2073087,8,2,1
+642,Iowa,Leukemias,2018,Male,All Races and Ethnicities,8.2,150,1566963,8,2,1
+643,Tennessee,Leukemias,2018,Male,All Races and Ethnicities,8.2,292,3304710,8,2,1
+644,Illinois,Leukemias,2018,Male,All Races and Ethnicities,8.2,535,6251344,8,2,1
+645,South Carolina,Leukemias,2018,Male,All Races and Ethnicities,8.2,224,2463765,8,2,1
+646,Ohio,Leukemias,2018,Male,All Races and Ethnicities,8.3,535,5722437,8,2,1
+647,Maryland,Leukemias,2018,Male,All Races and Ethnicities,8.3,250,2924599,8,2,1
+648,North Carolina,Leukemias,2018,Male,All Races and Ethnicities,8.3,433,5050327,8,2,1
+649,Alabama,Leukemias,2018,Male,All Races and Ethnicities,8.7,221,2363320,8,2,1
+650,North Dakota,Leukemias,2018,Male,All Races and Ethnicities,8.7,35,388034,8,2,1
+651,Missouri,Leukemias,2018,Male,All Races and Ethnicities,8.8,293,3004921,8,2,1
+652,Pennsylvania,Leukemias,2018,Male,All Races and Ethnicities,8.9,673,6271541,8,2,1
+653,Kentucky,Leukemias,2018,Male,All Races and Ethnicities,8.9,208,2197550,8,2,1
+654,Indiana,Leukemias,2018,Male,All Races and Ethnicities,9.0,299,3301286,8,2,1
+655,Wisconsin,Leukemias,2018,Male,All Races and Ethnicities,9.1,293,2889225,8,2,1
+656,Michigan,Leukemias,2018,Male,All Races and Ethnicities,9.2,501,4916210,8,2,1
+657,Kansas,Leukemias,2018,Male,All Races and Ethnicities,9.3,143,1450771,8,2,1
+658,Nebraska,Leukemias,2018,Male,All Races and Ethnicities,9.5,95,961374,8,2,1
+659,Minnesota,Leukemias,2018,Male,All Races and Ethnicities,9.9,295,2792427,8,2,1
+660,Delaware,Leukemias,2018,Male,All Races and Ethnicities,10.2,58,466838,8,2,1
+661,Oklahoma,Leukemias,2018,Male,All Races and Ethnicities,11.0,224,1952266,8,2,1
+662,Rhode Island,Leukemias,2018,Male,All Races and Ethnicities,12.0,66,514860,8,2,1
+663,Alaska,Leukemias,2018,Male,White,0.0,0,0,8,2,2
+664,District of Columbia,Leukemias,2018,Male,White,0.0,0,0,8,2,2
+665,New Hampshire,Leukemias,2018,Male,White,6.6,52,631531,8,2,2
+666,Idaho,Leukemias,2018,Male,White,6.6,57,831196,8,2,2
+667,Hawaii,Leukemias,2018,Male,White,6.8,20,194788,8,2,2
+668,New Mexico,Leukemias,2018,Male,White,6.8,71,862431,8,2,2
+669,Utah,Leukemias,2018,Male,White,6.8,81,1464575,8,2,2
+670,Montana,Leukemias,2018,Male,White,7.0,45,484379,8,2,2
+671,Arizona,Leukemias,2018,Male,White,7.2,272,2997692,8,2,2
+672,Colorado,Leukemias,2018,Male,White,7.2,173,2541417,8,2,2
+673,South Dakota,Leukemias,2018,Male,White,7.3,35,379764,8,2,2
+674,Vermont,Leukemias,2018,Male,White,7.5,27,294689,8,2,2
+675,Connecticut,Leukemias,2018,Male,White,7.7,137,1420969,8,2,2
+676,Mississippi,Leukemias,2018,Male,White,7.7,86,880341,8,2,2
+677,Florida,Leukemias,2018,Male,White,7.8,989,8196077,8,2,2
+678,Louisiana,Leukemias,2018,Male,White,7.9,134,1468736,8,2,2
+679,Oregon,Leukemias,2018,Male,White,8.1,181,1846680,8,2,2
+680,California,Leukemias,2018,Male,White,8.1,1184,14677113,8,2,2
+681,Maine,Leukemias,2018,Male,White,8.1,68,627043,8,2,2
+682,Wyoming,Leukemias,2018,Male,White,8.1,25,276183,8,2,2
+683,New Jersey,Leukemias,2018,Male,White,8.1,304,3195788,8,2,2
+684,Washington,Leukemias,2018,Male,White,8.1,270,3069511,8,2,2
+685,Texas,Leukemias,2018,Male,White,8.1,833,11440403,8,2,2
+686,Iowa,Leukemias,2018,Male,White,8.2,146,1433045,8,2,2
+687,Virginia,Leukemias,2018,Male,White,8.2,275,3002364,8,2,2
+688,Massachusetts,Leukemias,2018,Male,White,8.3,269,2749731,8,2,2
+689,Georgia,Leukemias,2018,Male,White,8.3,281,3208154,8,2,2
+690,Arkansas,Leukemias,2018,Male,White,8.3,120,1195851,8,2,2
+691,West Virginia,Leukemias,2018,Male,White,8.3,91,842502,8,2,2
+692,Ohio,Leukemias,2018,Male,White,8.4,482,4766506,8,2,2
+693,Nevada,Leukemias,2018,Male,White,8.4,111,1177022,8,2,2
+694,New York,Leukemias,2018,Male,White,8.4,673,6800478,8,2,2
+695,Tennessee,Leukemias,2018,Male,White,8.5,266,2648726,8,2,2
+696,South Carolina,Leukemias,2018,Male,White,8.6,185,1735709,8,2,2
+697,North Carolina,Leukemias,2018,Male,White,8.8,372,3666387,8,2,2
+698,Illinois,Leukemias,2018,Male,White,8.8,475,4914185,8,2,2
+699,Maryland,Leukemias,2018,Male,White,8.9,186,1791830,8,2,2
+700,Pennsylvania,Leukemias,2018,Male,White,9.0,614,5210432,8,2,2
+701,North Dakota,Leukemias,2018,Male,White,9.0,35,342191,8,2,2
+702,Kentucky,Leukemias,2018,Male,White,9.1,199,1949968,8,2,2
+703,Indiana,Leukemias,2018,Male,White,9.1,279,2847584,8,2,2
+704,Missouri,Leukemias,2018,Male,White,9.1,276,2541617,8,2,2
+705,Alabama,Leukemias,2018,Male,White,9.2,185,1682439,8,2,2
+706,Wisconsin,Leukemias,2018,Male,White,9.3,283,2549410,8,2,2
+707,Kansas,Leukemias,2018,Male,White,9.4,134,1272415,8,2,2
+708,Michigan,Leukemias,2018,Male,White,9.6,455,3981327,8,2,2
+709,Nebraska,Leukemias,2018,Male,White,9.6,92,858655,8,2,2
+710,Minnesota,Leukemias,2018,Male,White,10.0,280,2381530,8,2,2
+711,Delaware,Leukemias,2018,Male,White,10.4,49,332431,8,2,2
+712,Oklahoma,Leukemias,2018,Male,White,11.1,194,1512999,8,2,2
+713,Rhode Island,Leukemias,2018,Male,White,12.4,63,438063,8,2,2
+714,Arizona,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+715,Connecticut,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+716,Arkansas,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+717,New Hampshire,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+718,Hawaii,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+719,Oregon,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+720,Delaware,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+721,South Dakota,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+722,Vermont,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+723,Maine,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+724,Minnesota,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+725,North Dakota,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+726,Alaska,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+727,Iowa,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+728,Montana,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+729,Wisconsin,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+730,Colorado,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+731,District of Columbia,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+732,New Mexico,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+733,Kansas,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+734,Wyoming,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+735,Idaho,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+736,Massachusetts,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+737,Washington,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+738,Nebraska,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+739,Kentucky,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+740,Rhode Island,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+741,Utah,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+742,West Virginia,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+743,Nevada,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+744,Missouri,Leukemias,2018,Male,Black,0.0,0,0,8,2,3
+745,Georgia,Leukemias,2018,Male,Black,5.7,70,1635570,8,2,3
+746,New Jersey,Leukemias,2018,Male,Black,5.7,29,665126,8,2,3
+747,New York,Leukemias,2018,Male,Black,5.8,82,1695261,8,2,3
+748,North Carolina,Leukemias,2018,Male,Black,6.1,56,1123566,8,2,3
+749,Michigan,Leukemias,2018,Male,Black,6.3,39,711939,8,2,3
+750,Texas,Leukemias,2018,Male,Black,6.5,87,1839465,8,2,3
+751,Tennessee,Leukemias,2018,Male,Black,6.6,23,568377,8,2,3
+752,Illinois,Leukemias,2018,Male,Black,6.6,51,913681,8,2,3
+753,Alabama,Leukemias,2018,Male,Black,6.7,33,622427,8,2,3
+754,South Carolina,Leukemias,2018,Male,Black,6.8,38,663750,8,2,3
+755,Maryland,Leukemias,2018,Male,Black,7.0,51,903583,8,2,3
+756,California,Leukemias,2018,Male,Black,7.1,76,1413495,8,2,3
+757,Virginia,Leukemias,2018,Male,Black,7.3,50,851068,8,2,3
+758,Florida,Leukemias,2018,Male,Black,7.4,104,1798023,8,2,3
+759,Mississippi,Leukemias,2018,Male,Black,7.6,31,538078,8,2,3
+760,Indiana,Leukemias,2018,Male,Black,7.8,18,346047,8,2,3
+761,Louisiana,Leukemias,2018,Male,Black,8.2,44,739235,8,2,3
+762,Ohio,Leukemias,2018,Male,Black,8.4,52,782561,8,2,3
+763,Pennsylvania,Leukemias,2018,Male,Black,9.5,54,789327,8,2,3
+764,Oklahoma,Leukemias,2018,Male,Black,13.7,16,176446,8,2,3
+765,Connecticut,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+766,Arizona,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+767,Georgia,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+768,Indiana,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+769,Arkansas,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+770,Alabama,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+771,Louisiana,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+772,Michigan,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+773,California,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+774,Delaware,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+775,Hawaii,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+776,Alaska,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+777,Minnesota,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+778,North Dakota,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+779,Maine,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+780,Iowa,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+781,New Jersey,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+782,District of Columbia,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+783,Pennsylvania,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+784,Tennessee,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+785,Colorado,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+786,Montana,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+787,Idaho,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+788,New Mexico,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+789,Virginia,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+790,Mississippi,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+791,Maryland,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+792,Ohio,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+793,Rhode Island,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+794,Texas,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+795,Kansas,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+796,Wyoming,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+797,Massachusetts,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+798,Washington,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+799,Oklahoma,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+800,Nebraska,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+801,New York,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+802,Kentucky,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+803,Florida,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+804,West Virginia,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+805,Illinois,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+806,North Carolina,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+807,South Carolina,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+808,Utah,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+809,Nevada,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+810,Vermont,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+811,Oregon,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+812,South Dakota,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+813,New Hampshire,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+814,Missouri,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+815,Wisconsin,Leukemias,2018,Male,American Indian and Alaska Native,0.0,0,0,8,2,4
+816,Arizona,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+817,Connecticut,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+818,Georgia,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+819,Arkansas,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+820,Michigan,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+821,Louisiana,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+822,Indiana,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+823,Oregon,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+824,Delaware,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+825,South Dakota,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+826,Minnesota,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+827,Alabama,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+828,Maine,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+829,New Jersey,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+830,North Dakota,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+831,Alaska,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+832,Iowa,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+833,Pennsylvania,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+834,Colorado,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+835,Tennessee,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+836,Montana,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+837,Idaho,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+838,District of Columbia,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+839,Mississippi,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+840,Maryland,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+841,Ohio,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+842,Virginia,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+843,Kansas,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+844,New Mexico,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+845,Wyoming,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+846,Rhode Island,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+847,Washington,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+848,Massachusetts,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+849,Oklahoma,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+850,Nebraska,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+851,Florida,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+852,West Virginia,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+853,Kentucky,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+854,Illinois,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+855,North Carolina,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+856,South Carolina,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+857,Utah,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+858,Nevada,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+859,Vermont,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+860,Missouri,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+861,New Hampshire,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+862,Wisconsin,Leukemias,2018,Male,Asian and Pacific Islander,0.0,0,0,8,2,5
+863,Texas,Leukemias,2018,Male,Asian and Pacific Islander,3.8,21,775010,8,2,5
+864,California,Leukemias,2018,Male,Asian and Pacific Islander,4.6,142,3137953,8,2,5
+865,New York,Leukemias,2018,Male,Asian and Pacific Islander,5.7,47,877078,8,2,5
+866,Hawaii,Leukemias,2018,Male,Asian and Pacific Islander,7.2,39,487500,8,2,5
+867,Connecticut,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+868,Arkansas,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+869,Missouri,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+870,Georgia,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+871,Michigan,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+872,Louisiana,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+873,North Carolina,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+874,Hawaii,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+875,Indiana,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+876,New Hampshire,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+877,Oregon,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+878,Vermont,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+879,Minnesota,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+880,South Dakota,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+881,Alabama,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+882,Maine,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+883,Iowa,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+884,Montana,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+885,Wisconsin,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+886,Colorado,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+887,Tennessee,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+888,Ohio,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+889,Mississippi,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+890,Delaware,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+891,Virginia,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+892,Maryland,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+893,Kansas,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+894,Wyoming,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+895,Idaho,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+896,Pennsylvania,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+897,Washington,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+898,Alaska,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+899,Rhode Island,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+900,Oklahoma,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+901,North Dakota,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+902,South Carolina,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+903,Nebraska,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+904,Kentucky,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+905,Utah,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+906,West Virginia,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+907,District of Columbia,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+908,Nevada,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+909,Massachusetts,Leukemias,2018,Male,Hispanic,0.0,0,0,8,2,6
+910,New Mexico,Leukemias,2018,Male,Hispanic,4.6,20,509608,8,2,6
+911,Illinois,Leukemias,2018,Male,Hispanic,5.0,33,1126969,8,2,6
+912,California,Leukemias,2018,Male,Hispanic,5.4,247,7782387,8,2,6
+913,Texas,Leukemias,2018,Male,Hispanic,5.5,191,5698801,8,2,6
+914,New Jersey,Leukemias,2018,Male,Hispanic,5.6,31,915684,8,2,6
+915,Arizona,Leukemias,2018,Male,Hispanic,6.1,36,1135773,8,2,6
+916,New York,Leukemias,2018,Male,Hispanic,6.5,88,1844972,8,2,6
+917,Florida,Leukemias,2018,Male,Hispanic,7.0,157,2734877,8,2,6

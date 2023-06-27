@@ -1,0 +1,919 @@
+,Area,Cancer Type,Year,Sex,Race,Age-Adjusted Rate,Case Count,Population,CancerType_val,Sex_val,Race_val
+0,New Mexico,Pancreas,2018,Male and Female,All Races and Ethnicities,9.0,249,2092741,5,1,1
+1,Montana,Pancreas,2018,Male and Female,All Races and Ethnicities,9.5,140,1060665,5,1,1
+2,Utah,Pancreas,2018,Male and Female,All Races and Ethnicities,9.7,263,3153550,5,1,1
+3,Hawaii,Pancreas,2018,Male and Female,All Races and Ethnicities,9.9,193,1420593,5,1,1
+4,Alaska,Pancreas,2018,Male and Female,All Races and Ethnicities,9.9,71,735139,5,1,1
+5,Minnesota,Pancreas,2018,Male and Female,All Races and Ethnicities,10.0,698,5606249,5,1,1
+6,South Dakota,Pancreas,2018,Male and Female,All Races and Ethnicities,10.0,116,878698,5,1,1
+7,Texas,Pancreas,2018,Male and Female,All Races and Ethnicities,10.1,2905,28628666,5,1,1
+8,Arizona,Pancreas,2018,Male and Female,All Races and Ethnicities,10.2,953,7158024,5,1,1
+9,California,Pancreas,2018,Male and Female,All Races and Ethnicities,10.2,4546,39461588,5,1,1
+10,Colorado,Pancreas,2018,Male and Female,All Races and Ethnicities,10.3,640,5691287,5,1,1
+11,Idaho,Pancreas,2018,Male and Female,All Races and Ethnicities,10.3,213,1750536,5,1,1
+12,Florida,Pancreas,2018,Male and Female,All Races and Ethnicities,10.4,3390,21244317,5,1,1
+13,Nevada,Pancreas,2018,Male and Female,All Races and Ethnicities,10.7,386,3027341,5,1,1
+14,Wyoming,Pancreas,2018,Male and Female,All Races and Ethnicities,10.8,77,577601,5,1,1
+15,New Hampshire,Pancreas,2018,Male and Female,All Races and Ethnicities,10.8,203,1353465,5,1,1
+16,Iowa,Pancreas,2018,Male and Female,All Races and Ethnicities,10.9,456,3148618,5,1,1
+17,New York,Pancreas,2018,Male and Female,All Races and Ethnicities,10.9,2754,19530351,5,1,1
+18,North Carolina,Pancreas,2018,Male and Female,All Races and Ethnicities,10.9,1417,10381615,5,1,1
+19,Wisconsin,Pancreas,2018,Male and Female,All Races and Ethnicities,10.9,840,5807406,5,1,1
+20,Washington,Pancreas,2018,Male and Female,All Races and Ethnicities,11.0,979,7523869,5,1,1
+21,Kansas,Pancreas,2018,Male and Female,All Races and Ethnicities,11.1,399,2911359,5,1,1
+22,Virginia,Pancreas,2018,Male and Female,All Races and Ethnicities,11.2,1145,8501286,5,1,1
+23,Oregon,Pancreas,2018,Male and Female,All Races and Ethnicities,11.2,619,4181886,5,1,1
+24,Massachusetts,Pancreas,2018,Male and Female,All Races and Ethnicities,11.3,1002,6882635,5,1,1
+25,Oklahoma,Pancreas,2018,Male and Female,All Races and Ethnicities,11.3,541,3940235,5,1,1
+26,West Virginia,Pancreas,2018,Male and Female,All Races and Ethnicities,11.3,297,1804291,5,1,1
+27,South Carolina,Pancreas,2018,Male and Female,All Races and Ethnicities,11.3,761,5084156,5,1,1
+28,Georgia,Pancreas,2018,Male and Female,All Races and Ethnicities,11.4,1301,10511131,5,1,1
+29,Tennessee,Pancreas,2018,Male and Female,All Races and Ethnicities,11.4,965,6771631,5,1,1
+30,New Jersey,Pancreas,2018,Male and Female,All Races and Ethnicities,11.4,1299,8886025,5,1,1
+31,Maryland,Pancreas,2018,Male and Female,All Races and Ethnicities,11.4,844,6035802,5,1,1
+32,Arkansas,Pancreas,2018,Male and Female,All Races and Ethnicities,11.5,439,3009733,5,1,1
+33,Louisiana,Pancreas,2018,Male and Female,All Races and Ethnicities,11.6,653,4659690,5,1,1
+34,Indiana,Pancreas,2018,Male and Female,All Races and Ethnicities,11.6,953,6695497,5,1,1
+35,Maine,Pancreas,2018,Male and Female,All Races and Ethnicities,11.6,234,1339057,5,1,1
+36,Rhode Island,Pancreas,2018,Male and Female,All Races and Ethnicities,11.6,168,1058287,5,1,1
+37,Missouri,Pancreas,2018,Male and Female,All Races and Ethnicities,11.6,916,6121623,5,1,1
+38,Nebraska,Pancreas,2018,Male and Female,All Races and Ethnicities,11.7,273,1925614,5,1,1
+39,North Dakota,Pancreas,2018,Male and Female,All Races and Ethnicities,11.8,107,758080,5,1,1
+40,Vermont,Pancreas,2018,Male and Female,All Races and Ethnicities,11.8,107,624358,5,1,1
+41,Connecticut,Pancreas,2018,Male and Female,All Races and Ethnicities,11.9,585,3571520,5,1,1
+42,Illinois,Pancreas,2018,Male and Female,All Races and Ethnicities,12.0,1880,12723071,5,1,1
+43,Michigan,Pancreas,2018,Male and Female,All Races and Ethnicities,12.1,1599,9984072,5,1,1
+44,Pennsylvania,Pancreas,2018,Male and Female,All Races and Ethnicities,12.1,2172,12800922,5,1,1
+45,Alabama,Pancreas,2018,Male and Female,All Races and Ethnicities,12.2,775,4887681,5,1,1
+46,Mississippi,Pancreas,2018,Male and Female,All Races and Ethnicities,12.2,450,2981020,5,1,1
+47,Delaware,Pancreas,2018,Male and Female,All Races and Ethnicities,12.3,165,965479,5,1,1
+48,Ohio,Pancreas,2018,Male and Female,All Races and Ethnicities,12.4,1913,11676341,5,1,1
+49,Kentucky,Pancreas,2018,Male and Female,All Races and Ethnicities,13.2,753,4461153,5,1,1
+50,District of Columbia,Pancreas,2018,Male and Female,All Races and Ethnicities,15.9,110,701547,5,1,1
+51,New Mexico,Pancreas,2018,Male and Female,White,9.3,232,1741707,5,1,2
+52,Montana,Pancreas,2018,Male and Female,White,9.6,136,960941,5,1,2
+53,Alaska,Pancreas,2018,Male and Female,White,9.8,52,506963,5,1,2
+54,Utah,Pancreas,2018,Male and Female,White,9.8,256,2910385,5,1,2
+55,Texas,Pancreas,2018,Male and Female,White,10.0,2422,22922308,5,1,2
+56,South Dakota,Pancreas,2018,Male and Female,White,10.1,110,753781,5,1,2
+57,Minnesota,Pancreas,2018,Male and Female,White,10.1,665,4786935,5,1,2
+58,Arizona,Pancreas,2018,Male and Female,White,10.3,887,6029753,5,1,2
+59,Florida,Pancreas,2018,Male and Female,White,10.3,2954,16690253,5,1,2
+60,North Carolina,Pancreas,2018,Male and Female,White,10.5,1075,7454379,5,1,2
+61,California,Pancreas,2018,Male and Female,White,10.5,3549,29265222,5,1,2
+62,Colorado,Pancreas,2018,Male and Female,White,10.5,606,5047417,5,1,2
+63,Idaho,Pancreas,2018,Male and Female,White,10.5,212,1657508,5,1,2
+64,South Carolina,Pancreas,2018,Male and Female,White,10.6,546,3533462,5,1,2
+65,Virginia,Pancreas,2018,Male and Female,White,10.7,858,6043768,5,1,2
+66,Nevada,Pancreas,2018,Male and Female,White,10.7,315,2314725,5,1,2
+67,Georgia,Pancreas,2018,Male and Female,White,10.8,876,6468529,5,1,2
+68,Iowa,Pancreas,2018,Male and Female,White,10.8,441,2890811,5,1,2
+69,Mississippi,Pancreas,2018,Male and Female,White,10.8,281,1781300,5,1,2
+70,Wisconsin,Pancreas,2018,Male and Female,White,10.8,782,5117885,5,1,2
+71,Louisiana,Pancreas,2018,Male and Female,White,11.0,442,2969067,5,1,2
+72,Wyoming,Pancreas,2018,Male and Female,White,11.0,76,542445,5,1,2
+73,Kansas,Pancreas,2018,Male and Female,White,11.0,371,2559851,5,1,2
+74,New Hampshire,Pancreas,2018,Male and Female,White,11.1,202,1277085,5,1,2
+75,Maryland,Pancreas,2018,Male and Female,White,11.1,548,3625716,5,1,2
+76,Tennessee,Pancreas,2018,Male and Female,White,11.1,809,5391666,5,1,2
+77,Oklahoma,Pancreas,2018,Male and Female,White,11.1,461,3053465,5,1,2
+78,Delaware,Pancreas,2018,Male and Female,White,11.2,122,683018,5,1,2
+79,Alabama,Pancreas,2018,Male and Female,White,11.3,560,3428637,5,1,2
+80,Oregon,Pancreas,2018,Male and Female,White,11.3,581,3724600,5,1,2
+81,West Virginia,Pancreas,2018,Male and Female,White,11.3,287,1707867,5,1,2
+82,Washington,Pancreas,2018,Male and Female,White,11.3,891,6122738,5,1,2
+83,Massachusetts,Pancreas,2018,Male and Female,White,11.4,904,5662837,5,1,2
+84,Missouri,Pancreas,2018,Male and Female,White,11.4,806,5154374,5,1,2
+85,North Dakota,Pancreas,2018,Male and Female,White,11.4,100,669755,5,1,2
+86,New York,Pancreas,2018,Male and Female,White,11.4,2237,13851993,5,1,2
+87,Arkansas,Pancreas,2018,Male and Female,White,11.5,378,2421400,5,1,2
+88,Indiana,Pancreas,2018,Male and Female,White,11.5,874,5765583,5,1,2
+89,Maine,Pancreas,2018,Male and Female,White,11.6,229,1281999,5,1,2
+90,New Jersey,Pancreas,2018,Male and Female,White,11.7,1070,6507268,5,1,2
+91,Vermont,Pancreas,2018,Male and Female,White,11.8,105,597319,5,1,2
+92,Illinois,Pancreas,2018,Male and Female,White,11.9,1540,9912791,5,1,2
+93,Hawaii,Pancreas,2018,Male and Female,White,11.9,60,360769,5,1,2
+94,Connecticut,Pancreas,2018,Male and Female,White,12.0,527,2903675,5,1,2
+95,Pennsylvania,Pancreas,2018,Male and Female,White,12.0,1947,10608820,5,1,2
+96,Nebraska,Pancreas,2018,Male and Female,White,12.0,265,1722396,5,1,2
+97,Michigan,Pancreas,2018,Male and Female,White,12.2,1394,8037285,5,1,2
+98,Rhode Island,Pancreas,2018,Male and Female,White,12.3,164,902251,5,1,2
+99,District of Columbia,Pancreas,2018,Male and Female,White,12.3,31,324709,5,1,2
+100,Ohio,Pancreas,2018,Male and Female,White,12.4,1697,9691566,5,1,2
+101,Kentucky,Pancreas,2018,Male and Female,White,13.2,695,3962465,5,1,2
+102,New Hampshire,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+103,Oregon,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+104,Hawaii,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+105,South Dakota,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+106,Alaska,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+107,Iowa,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+108,Vermont,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+109,Maine,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+110,Colorado,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+111,New Mexico,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+112,Idaho,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+113,Wyoming,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+114,Rhode Island,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+115,North Dakota,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+116,Nebraska,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+117,Montana,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+118,Utah,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+119,West Virginia,Pancreas,2018,Male and Female,Black,0.0,0,0,5,1,3
+120,Washington,Pancreas,2018,Male and Female,Black,9.0,21,402735,5,1,3
+121,Arizona,Pancreas,2018,Male and Female,Black,9.8,28,413472,5,1,3
+122,Minnesota,Pancreas,2018,Male and Female,Black,10.0,18,424948,5,1,3
+123,New York,Pancreas,2018,Male and Female,Black,10.3,390,3618873,5,1,3
+124,Florida,Pancreas,2018,Male and Female,Black,11.5,386,3726225,5,1,3
+125,Connecticut,Pancreas,2018,Male and Female,Black,11.9,47,458476,5,1,3
+126,North Carolina,Pancreas,2018,Male and Female,Black,12.7,310,2394511,5,1,3
+127,Michigan,Pancreas,2018,Male and Female,Black,12.7,188,1495057,5,1,3
+128,California,Pancreas,2018,Male and Female,Black,12.7,352,2841953,5,1,3
+129,Arkansas,Pancreas,2018,Male and Female,Black,12.9,56,489481,5,1,3
+130,Indiana,Pancreas,2018,Male and Female,Black,13.2,74,715146,5,1,3
+131,New Jersey,Pancreas,2018,Male and Female,Black,13.4,179,1397403,5,1,3
+132,Ohio,Pancreas,2018,Male and Female,Black,13.6,202,1628354,5,1,3
+133,Maryland,Pancreas,2018,Male and Female,Black,13.6,266,1932102,5,1,3
+134,Texas,Pancreas,2018,Male and Female,Black,13.6,410,3794158,5,1,3
+135,Georgia,Pancreas,2018,Male and Female,Black,13.8,399,3493534,5,1,3
+136,Kansas,Pancreas,2018,Male and Female,Black,13.9,20,206723,5,1,3
+137,Massachusetts,Pancreas,2018,Male and Female,Black,13.9,69,665317,5,1,3
+138,Louisiana,Pancreas,2018,Male and Female,Black,14.0,206,1557088,5,1,3
+139,Pennsylvania,Pancreas,2018,Male and Female,Black,14.0,203,1631910,5,1,3
+140,Missouri,Pancreas,2018,Male and Female,Black,14.0,98,770993,5,1,3
+141,South Carolina,Pancreas,2018,Male and Female,Black,14.2,210,1417646,5,1,3
+142,Tennessee,Pancreas,2018,Male and Female,Black,14.5,149,1199502,5,1,3
+143,Virginia,Pancreas,2018,Male and Female,Black,14.5,244,1769094,5,1,3
+144,Illinois,Pancreas,2018,Male and Female,Black,15.2,295,1938706,5,1,3
+145,Oklahoma,Pancreas,2018,Male and Female,Black,15.2,42,351903,5,1,3
+146,Mississippi,Pancreas,2018,Male and Female,Black,15.5,165,1143420,5,1,3
+147,Alabama,Pancreas,2018,Male and Female,Black,15.6,205,1337780,5,1,3
+148,Kentucky,Pancreas,2018,Male and Female,Black,15.6,56,404452,5,1,3
+149,Wisconsin,Pancreas,2018,Male and Female,Black,16.4,49,427480,5,1,3
+150,District of Columbia,Pancreas,2018,Male and Female,Black,18.7,77,337257,5,1,3
+151,Nevada,Pancreas,2018,Male and Female,Black,18.7,47,341317,5,1,3
+152,Delaware,Pancreas,2018,Male and Female,Black,19.4,40,232885,5,1,3
+153,Connecticut,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+154,Arkansas,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+155,Georgia,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+156,Louisiana,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+157,Michigan,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+158,Indiana,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+159,Hawaii,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+160,North Dakota,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+161,Delaware,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+162,South Dakota,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+163,Alabama,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+164,Montana,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+165,Alaska,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+166,Iowa,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+167,Minnesota,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+168,Tennessee,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+169,Maine,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+170,New Jersey,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+171,Colorado,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+172,Ohio,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+173,Pennsylvania,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+174,Wyoming,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+175,Texas,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+176,District of Columbia,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+177,Virginia,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+178,Kansas,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+179,New Mexico,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+180,Idaho,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+181,Mississippi,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+182,Maryland,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+183,Florida,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+184,Rhode Island,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+185,Washington,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+186,New York,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+187,West Virginia,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+188,Kentucky,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+189,Vermont,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+190,Illinois,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+191,Nebraska,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+192,South Carolina,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+193,Utah,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+194,Nevada,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+195,Massachusetts,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+196,Oregon,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+197,New Hampshire,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+198,Missouri,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+199,Wisconsin,Pancreas,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,5,1,4
+200,California,Pancreas,2018,Male and Female,American Indian and Alaska Native,5.2,31,773103,5,1,4
+201,Arizona,Pancreas,2018,Male and Female,American Indian and Alaska Native,8.6,24,408333,5,1,4
+202,Oklahoma,Pancreas,2018,Male and Female,American Indian and Alaska Native,10.5,32,425510,5,1,4
+203,North Carolina,Pancreas,2018,Male and Female,American Indian and Alaska Native,12.1,17,175131,5,1,4
+204,Arizona,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+205,Arkansas,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+206,Connecticut,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+207,North Carolina,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+208,Louisiana,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+209,Michigan,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+210,Indiana,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+211,Delaware,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+212,Alabama,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+213,Vermont,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+214,South Dakota,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+215,Alaska,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+216,Iowa,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+217,Minnesota,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+218,Tennessee,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+219,Maine,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+220,Colorado,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+221,Ohio,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+222,District of Columbia,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+223,Kansas,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+224,New Mexico,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+225,Idaho,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+226,Mississippi,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+227,Wyoming,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+228,Kentucky,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+229,Rhode Island,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+230,North Dakota,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+231,Nebraska,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+232,Montana,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+233,South Carolina,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+234,Utah,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+235,Oklahoma,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+236,West Virginia,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+237,New Hampshire,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+238,Missouri,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+239,Wisconsin,Pancreas,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,5,1,5
+240,Pennsylvania,Pancreas,2018,Male and Female,Asian and Pacific Islander,5.2,21,501608,5,1,5
+241,Texas,Pancreas,2018,Male and Female,Asian and Pacific Islander,5.7,70,1591190,5,1,5
+242,New Jersey,Pancreas,2018,Male and Female,Asian and Pacific Islander,5.9,50,917565,5,1,5
+243,Illinois,Pancreas,2018,Male and Female,Asian and Pacific Islander,6.4,45,783468,5,1,5
+244,Nevada,Pancreas,2018,Male and Female,Asian and Pacific Islander,6.6,23,311865,5,1,5
+245,New York,Pancreas,2018,Male and Female,Asian and Pacific Islander,6.7,125,1835707,5,1,5
+246,Maryland,Pancreas,2018,Male and Female,Asian and Pacific Islander,6.8,30,435655,5,1,5
+247,Florida,Pancreas,2018,Male and Female,Asian and Pacific Islander,6.8,46,708713,5,1,5
+248,Virginia,Pancreas,2018,Male and Female,Asian and Pacific Islander,7.9,40,636755,5,1,5
+249,Massachusetts,Pancreas,2018,Male and Female,Asian and Pacific Islander,8.0,29,513904,5,1,5
+250,California,Pancreas,2018,Male and Female,Asian and Pacific Islander,8.3,614,6581310,5,1,5
+251,Georgia,Pancreas,2018,Male and Female,Asian and Pacific Islander,8.4,26,487832,5,1,5
+252,Washington,Pancreas,2018,Male and Female,Asian and Pacific Islander,8.8,61,824285,5,1,5
+253,Hawaii,Pancreas,2018,Male and Female,Asian and Pacific Islander,9.4,132,1009897,5,1,5
+254,Oregon,Pancreas,2018,Male and Female,Asian and Pacific Islander,10.3,21,244306,5,1,5
+255,Missouri,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+256,Arkansas,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+257,New Hampshire,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+258,Oregon,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+259,North Carolina,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+260,Alabama,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+261,South Dakota,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+262,Vermont,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+263,Maine,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+264,Iowa,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+265,Hawaii,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+266,Tennessee,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+267,District of Columbia,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+268,Louisiana,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+269,Delaware,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+270,Idaho,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+271,Mississippi,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+272,Wyoming,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+273,Alaska,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+274,Rhode Island,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+275,Kentucky,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+276,North Dakota,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+277,Nebraska,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+278,Montana,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+279,Utah,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+280,Wisconsin,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+281,South Carolina,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+282,West Virginia,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+283,Minnesota,Pancreas,2018,Male and Female,Hispanic,0.0,0,0,5,1,6
+284,Massachusetts,Pancreas,2018,Male and Female,Hispanic,6.6,32,838281,5,1,6
+285,Georgia,Pancreas,2018,Male and Female,Hispanic,6.9,26,1022370,5,1,6
+286,Indiana,Pancreas,2018,Male and Female,Hispanic,7.9,18,475652,5,1,6
+287,Ohio,Pancreas,2018,Male and Female,Hispanic,7.9,18,459088,5,1,6
+288,Pennsylvania,Pancreas,2018,Male and Female,Hispanic,8.0,41,973661,5,1,6
+289,New York,Pancreas,2018,Male and Female,Hispanic,8.2,252,3743541,5,1,6
+290,Texas,Pancreas,2018,Male and Female,Hispanic,8.3,593,11323903,5,1,6
+291,Connecticut,Pancreas,2018,Male and Female,Hispanic,8.4,28,589825,5,1,6
+292,Washington,Pancreas,2018,Male and Female,Hispanic,8.5,33,966855,5,1,6
+293,Nevada,Pancreas,2018,Male and Female,Hispanic,8.7,40,877290,5,1,6
+294,New Jersey,Pancreas,2018,Male and Female,Hispanic,8.9,110,1828769,5,1,6
+295,New Mexico,Pancreas,2018,Male and Female,Hispanic,9.2,91,1027108,5,1,6
+296,Arizona,Pancreas,2018,Male and Female,Hispanic,9.4,130,2258856,5,1,6
+297,California,Pancreas,2018,Male and Female,Hispanic,9.6,932,15472859,5,1,6
+298,Florida,Pancreas,2018,Male and Female,Hispanic,9.6,520,5537857,5,1,6
+299,Virginia,Pancreas,2018,Male and Female,Hispanic,9.7,34,816546,5,1,6
+300,Colorado,Pancreas,2018,Male and Female,Hispanic,9.8,70,1233748,5,1,6
+301,Oklahoma,Pancreas,2018,Male and Female,Hispanic,9.8,20,428453,5,1,6
+302,Michigan,Pancreas,2018,Male and Female,Hispanic,10.3,30,518477,5,1,6
+303,Kansas,Pancreas,2018,Male and Female,Hispanic,10.9,16,351378,5,1,6
+304,Illinois,Pancreas,2018,Male and Female,Hispanic,10.9,129,2204614,5,1,6
+305,Maryland,Pancreas,2018,Male and Female,Hispanic,11.0,28,626378,5,1,6
+306,New Mexico,Pancreas,2018,Female,All Races and Ethnicities,7.1,107,1057201,5,3,1
+307,Alaska,Pancreas,2018,Female,All Races and Ethnicities,7.3,27,351692,5,3,1
+308,Wyoming,Pancreas,2018,Female,All Races and Ethnicities,7.8,30,283325,5,3,1
+309,Utah,Pancreas,2018,Female,All Races and Ethnicities,8.1,118,1565310,5,3,1
+310,Idaho,Pancreas,2018,Female,All Races and Ethnicities,8.3,91,873205,5,3,1
+311,Hawaii,Pancreas,2018,Female,All Races and Ethnicities,8.6,93,709302,5,3,1
+312,Arizona,Pancreas,2018,Female,All Races and Ethnicities,8.7,440,3600640,5,3,1
+313,Texas,Pancreas,2018,Female,All Races and Ethnicities,8.7,1366,14409351,5,3,1
+314,Minnesota,Pancreas,2018,Female,All Races and Ethnicities,8.9,334,2813822,5,3,1
+315,California,Pancreas,2018,Female,All Races and Ethnicities,9.0,2240,19843136,5,3,1
+316,Florida,Pancreas,2018,Female,All Races and Ethnicities,9.0,1621,10858944,5,3,1
+317,Montana,Pancreas,2018,Female,All Races and Ethnicities,9.1,72,526813,5,3,1
+318,South Dakota,Pancreas,2018,Female,All Races and Ethnicities,9.1,56,435205,5,3,1
+319,Rhode Island,Pancreas,2018,Female,All Races and Ethnicities,9.2,76,543427,5,3,1
+320,Kansas,Pancreas,2018,Female,All Races and Ethnicities,9.3,185,1460588,5,3,1
+321,Oklahoma,Pancreas,2018,Female,All Races and Ethnicities,9.3,246,1987969,5,3,1
+322,Nevada,Pancreas,2018,Female,All Races and Ethnicities,9.3,174,1508820,5,3,1
+323,Colorado,Pancreas,2018,Female,All Races and Ethnicities,9.4,311,2825526,5,3,1
+324,North Carolina,Pancreas,2018,Female,All Races and Ethnicities,9.4,680,5331288,5,3,1
+325,Missouri,Pancreas,2018,Female,All Races and Ethnicities,9.4,409,3116702,5,3,1
+326,Arkansas,Pancreas,2018,Female,All Races and Ethnicities,9.5,198,1531624,5,3,1
+327,West Virginia,Pancreas,2018,Female,All Races and Ethnicities,9.5,136,910982,5,3,1
+328,Massachusetts,Pancreas,2018,Female,All Races and Ethnicities,9.6,486,3542925,5,3,1
+329,New York,Pancreas,2018,Female,All Races and Ethnicities,9.6,1397,10046133,5,3,1
+330,Wisconsin,Pancreas,2018,Female,All Races and Ethnicities,9.6,404,2918181,5,3,1
+331,Georgia,Pancreas,2018,Female,All Races and Ethnicities,9.7,621,5399300,5,3,1
+332,Indiana,Pancreas,2018,Female,All Races and Ethnicities,9.7,446,3394211,5,3,1
+333,Oregon,Pancreas,2018,Female,All Races and Ethnicities,9.7,287,2108799,5,3,1
+334,North Dakota,Pancreas,2018,Female,All Races and Ethnicities,9.8,50,370046,5,3,1
+335,Virginia,Pancreas,2018,Female,All Races and Ethnicities,9.8,559,4318025,5,3,1
+336,South Carolina,Pancreas,2018,Female,All Races and Ethnicities,9.8,360,2620391,5,3,1
+337,Tennessee,Pancreas,2018,Female,All Races and Ethnicities,10.0,470,3466921,5,3,1
+338,Washington,Pancreas,2018,Female,All Races and Ethnicities,10.0,481,3758918,5,3,1
+339,Maine,Pancreas,2018,Female,All Races and Ethnicities,10.1,112,683374,5,3,1
+340,Iowa,Pancreas,2018,Female,All Races and Ethnicities,10.2,239,1581655,5,3,1
+341,New Hampshire,Pancreas,2018,Female,All Races and Ethnicities,10.2,99,682692,5,3,1
+342,Maryland,Pancreas,2018,Female,All Races and Ethnicities,10.3,429,3111203,5,3,1
+343,Alabama,Pancreas,2018,Female,All Races and Ethnicities,10.4,369,2524361,5,3,1
+344,Michigan,Pancreas,2018,Female,All Races and Ethnicities,10.4,762,5067862,5,3,1
+345,New Jersey,Pancreas,2018,Female,All Races and Ethnicities,10.4,676,4545338,5,3,1
+346,Louisiana,Pancreas,2018,Female,All Races and Ethnicities,10.5,327,2385448,5,3,1
+347,Pennsylvania,Pancreas,2018,Female,All Races and Ethnicities,10.5,1069,6529381,5,3,1
+348,Mississippi,Pancreas,2018,Female,All Races and Ethnicities,10.5,220,1535497,5,3,1
+349,Illinois,Pancreas,2018,Female,All Races and Ethnicities,10.5,930,6471727,5,3,1
+350,Vermont,Pancreas,2018,Female,All Races and Ethnicities,10.5,53,316079,5,3,1
+351,Delaware,Pancreas,2018,Female,All Races and Ethnicities,10.6,77,498641,5,3,1
+352,Nebraska,Pancreas,2018,Female,All Races and Ethnicities,10.7,136,964240,5,3,1
+353,Connecticut,Pancreas,2018,Female,All Races and Ethnicities,10.9,305,1829397,5,3,1
+354,Ohio,Pancreas,2018,Female,All Races and Ethnicities,10.9,935,5953904,5,3,1
+355,Kentucky,Pancreas,2018,Female,All Races and Ethnicities,11.5,365,2263603,5,3,1
+356,District of Columbia,Pancreas,2018,Female,All Races and Ethnicities,15.4,63,368643,5,3,1
+357,District of Columbia,Pancreas,2018,Female,White,0.0,0,0,5,3,2
+358,Alaska,Pancreas,2018,Female,White,7.6,20,239055,5,3,2
+359,New Mexico,Pancreas,2018,Female,White,7.7,104,879276,5,3,2
+360,Wyoming,Pancreas,2018,Female,White,8.0,30,266262,5,3,2
+361,Utah,Pancreas,2018,Female,White,8.1,113,1445810,5,3,2
+362,Texas,Pancreas,2018,Female,White,8.5,1122,11481905,5,3,2
+363,Idaho,Pancreas,2018,Female,White,8.6,91,826312,5,3,2
+364,South Carolina,Pancreas,2018,Female,White,8.7,245,1797753,5,3,2
+365,Arizona,Pancreas,2018,Female,White,8.8,404,3032061,5,3,2
+366,Mississippi,Pancreas,2018,Female,White,8.8,130,900959,5,3,2
+367,Florida,Pancreas,2018,Female,White,8.9,1403,8494176,5,3,2
+368,Minnesota,Pancreas,2018,Female,White,8.9,318,2405405,5,3,2
+369,Georgia,Pancreas,2018,Female,White,9.0,400,3260375,5,3,2
+370,Oklahoma,Pancreas,2018,Female,White,9.0,204,1540466,5,3,2
+371,North Carolina,Pancreas,2018,Female,White,9.1,518,3787992,5,3,2
+372,California,Pancreas,2018,Female,White,9.2,1710,14588109,5,3,2
+373,South Dakota,Pancreas,2018,Female,White,9.2,53,374017,5,3,2
+374,Arkansas,Pancreas,2018,Female,White,9.3,166,1225549,5,3,2
+375,Missouri,Pancreas,2018,Female,White,9.3,360,2612757,5,3,2
+376,Kansas,Pancreas,2018,Female,White,9.3,171,1287436,5,3,2
+377,Wisconsin,Pancreas,2018,Female,White,9.3,370,2568475,5,3,2
+378,Delaware,Pancreas,2018,Female,White,9.4,54,350587,5,3,2
+379,Virginia,Pancreas,2018,Female,White,9.4,417,3041404,5,3,2
+380,Maryland,Pancreas,2018,Female,White,9.4,258,1833886,5,3,2
+381,Nevada,Pancreas,2018,Female,White,9.4,142,1137703,5,3,2
+382,North Dakota,Pancreas,2018,Female,White,9.5,47,327564,5,3,2
+383,Rhode Island,Pancreas,2018,Female,White,9.5,72,464188,5,3,2
+384,Montana,Pancreas,2018,Female,White,9.5,72,476562,5,3,2
+385,West Virginia,Pancreas,2018,Female,White,9.5,131,865365,5,3,2
+386,Massachusetts,Pancreas,2018,Female,White,9.6,435,2913106,5,3,2
+387,Colorado,Pancreas,2018,Female,White,9.6,295,2506000,5,3,2
+388,Oregon,Pancreas,2018,Female,White,9.7,267,1877920,5,3,2
+389,Tennessee,Pancreas,2018,Female,White,9.7,388,2742940,5,3,2
+390,Indiana,Pancreas,2018,Female,White,9.8,412,2917999,5,3,2
+391,New York,Pancreas,2018,Female,White,9.9,1097,7051515,5,3,2
+392,Maine,Pancreas,2018,Female,White,10.0,109,654956,5,3,2
+393,Iowa,Pancreas,2018,Female,White,10.1,231,1457766,5,3,2
+394,Illinois,Pancreas,2018,Female,White,10.2,740,4998606,5,3,2
+395,Alabama,Pancreas,2018,Female,White,10.2,276,1746198,5,3,2
+396,Washington,Pancreas,2018,Female,White,10.2,434,3053227,5,3,2
+397,New Hampshire,Pancreas,2018,Female,White,10.4,99,645554,5,3,2
+398,Vermont,Pancreas,2018,Female,White,10.4,52,302630,5,3,2
+399,Louisiana,Pancreas,2018,Female,White,10.4,228,1500331,5,3,2
+400,Pennsylvania,Pancreas,2018,Female,White,10.4,949,5398388,5,3,2
+401,New Jersey,Pancreas,2018,Female,White,10.4,542,3311480,5,3,2
+402,Michigan,Pancreas,2018,Female,White,10.5,658,4055958,5,3,2
+403,Ohio,Pancreas,2018,Female,White,10.8,824,4925060,5,3,2
+404,Connecticut,Pancreas,2018,Female,White,11.0,277,1482706,5,3,2
+405,Nebraska,Pancreas,2018,Female,White,11.1,134,863741,5,3,2
+406,Kentucky,Pancreas,2018,Female,White,11.3,332,2012497,5,3,2
+407,Hawaii,Pancreas,2018,Female,White,11.5,26,165981,5,3,2
+408,Arizona,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+409,Oregon,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+410,Hawaii,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+411,Vermont,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+412,South Dakota,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+413,Alaska,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+414,Iowa,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+415,Minnesota,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+416,Maine,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+417,Colorado,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+418,Kansas,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+419,New Mexico,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+420,Idaho,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+421,Wyoming,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+422,Washington,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+423,Rhode Island,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+424,North Dakota,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+425,Nebraska,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+426,Montana,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+427,Utah,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+428,West Virginia,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+429,Nevada,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+430,New Hampshire,Pancreas,2018,Female,Black,0.0,0,0,5,3,3
+431,Indiana,Pancreas,2018,Female,Black,9.2,30,369099,5,3,3
+432,Connecticut,Pancreas,2018,Female,Black,10.2,23,239634,5,3,3
+433,Florida,Pancreas,2018,Female,Black,10.2,195,1928202,5,3,3
+434,New York,Pancreas,2018,Female,Black,10.3,234,1923612,5,3,3
+435,North Carolina,Pancreas,2018,Female,Black,10.4,145,1270945,5,3,3
+436,Arkansas,Pancreas,2018,Female,Black,10.5,27,256169,5,3,3
+437,Michigan,Pancreas,2018,Female,Black,11.4,98,783118,5,3,3
+438,Missouri,Pancreas,2018,Female,Black,11.5,45,402799,5,3,3
+439,Louisiana,Pancreas,2018,Female,Black,11.6,98,817853,5,3,3
+440,Alabama,Pancreas,2018,Female,Black,11.6,88,715353,5,3,3
+441,Ohio,Pancreas,2018,Female,Black,11.8,103,845793,5,3,3
+442,California,Pancreas,2018,Female,Black,11.9,186,1428458,5,3,3
+443,Georgia,Pancreas,2018,Female,Black,12.3,211,1857964,5,3,3
+444,Virginia,Pancreas,2018,Female,Black,12.3,121,918026,5,3,3
+445,Texas,Pancreas,2018,Female,Black,12.4,213,1954693,5,3,3
+446,Massachusetts,Pancreas,2018,Female,Black,12.5,35,341914,5,3,3
+447,Pennsylvania,Pancreas,2018,Female,Black,12.7,110,842583,5,3,3
+448,Tennessee,Pancreas,2018,Female,Black,12.9,77,631125,5,3,3
+449,Maryland,Pancreas,2018,Female,Black,13.4,155,1028519,5,3,3
+450,New Jersey,Pancreas,2018,Female,Black,13.6,107,732277,5,3,3
+451,South Carolina,Pancreas,2018,Female,Black,13.6,112,753896,5,3,3
+452,Mississippi,Pancreas,2018,Female,Black,14.1,87,605342,5,3,3
+453,Illinois,Pancreas,2018,Female,Black,14.1,164,1025025,5,3,3
+454,Kentucky,Pancreas,2018,Female,Black,15.4,32,203019,5,3,3
+455,Oklahoma,Pancreas,2018,Female,Black,15.7,24,175457,5,3,3
+456,Wisconsin,Pancreas,2018,Female,Black,16.2,27,216459,5,3,3
+457,Delaware,Pancreas,2018,Female,Black,18.1,22,122875,5,3,3
+458,District of Columbia,Pancreas,2018,Female,Black,18.9,47,183884,5,3,3
+459,Connecticut,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+460,Arizona,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+461,Arkansas,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+462,Georgia,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+463,California,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+464,Alabama,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+465,Louisiana,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+466,Michigan,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+467,Indiana,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+468,Hawaii,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+469,North Dakota,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+470,Delaware,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+471,Maine,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+472,Montana,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+473,Alaska,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+474,Minnesota,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+475,District of Columbia,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+476,Iowa,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+477,Tennessee,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+478,New Jersey,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+479,Colorado,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+480,Virginia,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+481,Ohio,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+482,Pennsylvania,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+483,Wyoming,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+484,Texas,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+485,Kansas,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+486,New Mexico,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+487,Idaho,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+488,Mississippi,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+489,Maryland,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+490,Massachusetts,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+491,Florida,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+492,Nebraska,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+493,Oklahoma,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+494,Rhode Island,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+495,New York,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+496,Washington,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+497,West Virginia,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+498,Kentucky,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+499,Illinois,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+500,North Carolina,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+501,Vermont,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+502,South Carolina,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+503,Utah,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+504,Missouri,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+505,Nevada,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+506,Oregon,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+507,South Dakota,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+508,New Hampshire,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+509,Wisconsin,Pancreas,2018,Female,American Indian and Alaska Native,0.0,0,0,5,3,4
+510,Arizona,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+511,Arkansas,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+512,Connecticut,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+513,Georgia,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+514,Louisiana,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+515,Michigan,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+516,Indiana,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+517,Delaware,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+518,Alabama,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+519,South Dakota,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+520,Montana,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+521,Alaska,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+522,Iowa,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+523,Minnesota,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+524,Tennessee,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+525,Maine,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+526,Colorado,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+527,Ohio,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+528,Pennsylvania,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+529,District of Columbia,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+530,Kansas,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+531,New Mexico,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+532,Idaho,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+533,Mississippi,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+534,Wyoming,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+535,Oklahoma,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+536,Kentucky,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+537,West Virginia,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+538,Rhode Island,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+539,Vermont,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+540,North Dakota,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+541,North Carolina,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+542,Nebraska,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+543,South Carolina,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+544,Utah,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+545,Oregon,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+546,New Hampshire,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+547,Missouri,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+548,Wisconsin,Pancreas,2018,Female,Asian and Pacific Islander,0.0,0,0,5,3,5
+549,Texas,Pancreas,2018,Female,Asian and Pacific Islander,4.5,30,816180,5,3,5
+550,Florida,Pancreas,2018,Female,Asian and Pacific Islander,5.1,20,379145,5,3,5
+551,New Jersey,Pancreas,2018,Female,Asian and Pacific Islander,6.0,27,470303,5,3,5
+552,Maryland,Pancreas,2018,Female,Asian and Pacific Islander,6.3,16,227938,5,3,5
+553,Virginia,Pancreas,2018,Female,Asian and Pacific Islander,6.6,19,333679,5,3,5
+554,New York,Pancreas,2018,Female,Asian and Pacific Islander,6.6,66,958629,5,3,5
+555,Illinois,Pancreas,2018,Female,Asian and Pacific Islander,6.7,26,405132,5,3,5
+556,California,Pancreas,2018,Female,Asian and Pacific Islander,7.8,333,3443357,5,3,5
+557,Massachusetts,Pancreas,2018,Female,Asian and Pacific Islander,7.8,16,267842,5,3,5
+558,Nevada,Pancreas,2018,Female,Asian and Pacific Islander,8.0,16,169049,5,3,5
+559,Hawaii,Pancreas,2018,Female,Asian and Pacific Islander,8.2,67,522397,5,3,5
+560,Washington,Pancreas,2018,Female,Asian and Pacific Islander,8.9,37,431588,5,3,5
+561,Arkansas,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+562,Georgia,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+563,Connecticut,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+564,Missouri,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+565,North Carolina,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+566,Michigan,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+567,Louisiana,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+568,New Hampshire,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+569,Oregon,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+570,Indiana,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+571,Alabama,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+572,Hawaii,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+573,South Dakota,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+574,Alaska,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+575,Iowa,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+576,Vermont,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+577,Maine,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+578,Ohio,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+579,Tennessee,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+580,District of Columbia,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+581,Delaware,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+582,Idaho,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+583,Mississippi,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+584,Wyoming,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+585,Kansas,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+586,Rhode Island,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+587,Kentucky,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+588,North Dakota,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+589,Nebraska,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+590,Montana,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+591,South Carolina,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+592,Utah,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+593,Wisconsin,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+594,West Virginia,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+595,Minnesota,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+596,Oklahoma,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+597,Massachusetts,Pancreas,2018,Female,Hispanic,0.0,0,0,5,3,6
+598,New York,Pancreas,2018,Female,Hispanic,6.7,121,1898569,5,3,6
+599,Pennsylvania,Pancreas,2018,Female,Hispanic,7.3,21,478287,5,3,6
+600,Texas,Pancreas,2018,Female,Hispanic,7.6,294,5625102,5,3,6
+601,Colorado,Pancreas,2018,Female,Hispanic,7.7,30,605233,5,3,6
+602,New Mexico,Pancreas,2018,Female,Hispanic,7.8,41,517500,5,3,6
+603,Washington,Pancreas,2018,Female,Hispanic,7.9,16,467708,5,3,6
+604,New Jersey,Pancreas,2018,Female,Hispanic,8.0,57,913085,5,3,6
+605,Arizona,Pancreas,2018,Female,Hispanic,8.5,62,1123083,5,3,6
+606,Virginia,Pancreas,2018,Female,Hispanic,8.8,17,395492,5,3,6
+607,California,Pancreas,2018,Female,Hispanic,9.0,484,7690472,5,3,6
+608,Nevada,Pancreas,2018,Female,Hispanic,9.0,21,432556,5,3,6
+609,Florida,Pancreas,2018,Female,Hispanic,9.1,283,2802980,5,3,6
+610,Illinois,Pancreas,2018,Female,Hispanic,9.5,59,1077645,5,3,6
+611,Maryland,Pancreas,2018,Female,Hispanic,13.1,18,302233,5,3,6
+612,Montana,Pancreas,2018,Male,All Races and Ethnicities,9.7,68,533852,5,2,1
+613,South Dakota,Pancreas,2018,Male,All Races and Ethnicities,10.7,60,443493,5,2,1
+614,New Mexico,Pancreas,2018,Male,All Races and Ethnicities,11.0,142,1035540,5,2,1
+615,Hawaii,Pancreas,2018,Male,All Races and Ethnicities,11.3,100,711291,5,2,1
+616,Iowa,Pancreas,2018,Male,All Races and Ethnicities,11.4,217,1566963,5,2,1
+617,Colorado,Pancreas,2018,Male,All Races and Ethnicities,11.4,329,2865761,5,2,1
+618,Utah,Pancreas,2018,Male,All Races and Ethnicities,11.4,145,1588240,5,2,1
+619,Minnesota,Pancreas,2018,Male,All Races and Ethnicities,11.5,364,2792427,5,2,1
+620,New Hampshire,Pancreas,2018,Male,All Races and Ethnicities,11.5,104,670773,5,2,1
+621,California,Pancreas,2018,Male,All Races and Ethnicities,11.6,2306,19618452,5,2,1
+622,Arizona,Pancreas,2018,Male,All Races and Ethnicities,11.8,513,3557384,5,2,1
+623,Texas,Pancreas,2018,Male,All Races and Ethnicities,11.8,1539,14219315,5,2,1
+624,Florida,Pancreas,2018,Male,All Races and Ethnicities,12.0,1769,10385373,5,2,1
+625,Washington,Pancreas,2018,Male,All Races and Ethnicities,12.0,498,3764951,5,2,1
+626,Nevada,Pancreas,2018,Male,All Races and Ethnicities,12.2,212,1518521,5,2,1
+627,Idaho,Pancreas,2018,Male,All Races and Ethnicities,12.4,122,877331,5,2,1
+628,New York,Pancreas,2018,Male,All Races and Ethnicities,12.4,1357,9484218,5,2,1
+629,Wisconsin,Pancreas,2018,Male,All Races and Ethnicities,12.5,436,2889225,5,2,1
+630,Alaska,Pancreas,2018,Male,All Races and Ethnicities,12.6,44,383447,5,2,1
+631,New Jersey,Pancreas,2018,Male,All Races and Ethnicities,12.6,623,4340687,5,2,1
+632,Louisiana,Pancreas,2018,Male,All Races and Ethnicities,12.8,326,2274242,5,2,1
+633,Maryland,Pancreas,2018,Male,All Races and Ethnicities,12.8,415,2924599,5,2,1
+634,Nebraska,Pancreas,2018,Male,All Races and Ethnicities,12.8,137,961374,5,2,1
+635,North Carolina,Pancreas,2018,Male,All Races and Ethnicities,12.8,737,5050327,5,2,1
+636,Virginia,Pancreas,2018,Male,All Races and Ethnicities,12.9,586,4183261,5,2,1
+637,Tennessee,Pancreas,2018,Male,All Races and Ethnicities,13.0,495,3304710,5,2,1
+638,Oregon,Pancreas,2018,Male,All Races and Ethnicities,13.0,332,2073087,5,2,1
+639,Connecticut,Pancreas,2018,Male,All Races and Ethnicities,13.1,280,1742123,5,2,1
+640,West Virginia,Pancreas,2018,Male,All Races and Ethnicities,13.2,161,893309,5,2,1
+641,Vermont,Pancreas,2018,Male,All Races and Ethnicities,13.2,54,308279,5,2,1
+642,Kansas,Pancreas,2018,Male,All Races and Ethnicities,13.3,214,1450771,5,2,1
+643,South Carolina,Pancreas,2018,Male,All Races and Ethnicities,13.3,401,2463765,5,2,1
+644,Maine,Pancreas,2018,Male,All Races and Ethnicities,13.4,122,655683,5,2,1
+645,Georgia,Pancreas,2018,Male,All Races and Ethnicities,13.5,680,5111831,5,2,1
+646,Massachusetts,Pancreas,2018,Male,All Races and Ethnicities,13.5,516,3339710,5,2,1
+647,Oklahoma,Pancreas,2018,Male,All Races and Ethnicities,13.6,295,1952266,5,2,1
+648,Indiana,Pancreas,2018,Male,All Races and Ethnicities,13.7,507,3301286,5,2,1
+649,North Dakota,Pancreas,2018,Male,All Races and Ethnicities,13.7,57,388034,5,2,1
+650,Illinois,Pancreas,2018,Male,All Races and Ethnicities,13.7,950,6251344,5,2,1
+651,Arkansas,Pancreas,2018,Male,All Races and Ethnicities,13.9,241,1478109,5,2,1
+652,Pennsylvania,Pancreas,2018,Male,All Races and Ethnicities,13.9,1103,6271541,5,2,1
+653,Michigan,Pancreas,2018,Male,All Races and Ethnicities,14.0,837,4916210,5,2,1
+654,Wyoming,Pancreas,2018,Male,All Races and Ethnicities,14.0,47,294276,5,2,1
+655,Mississippi,Pancreas,2018,Male,All Races and Ethnicities,14.0,230,1445523,5,2,1
+656,Ohio,Pancreas,2018,Male,All Races and Ethnicities,14.3,978,5722437,5,2,1
+657,Missouri,Pancreas,2018,Male,All Races and Ethnicities,14.3,507,3004921,5,2,1
+658,Alabama,Pancreas,2018,Male,All Races and Ethnicities,14.4,406,2363320,5,2,1
+659,Delaware,Pancreas,2018,Male,All Races and Ethnicities,14.6,88,466838,5,2,1
+660,Rhode Island,Pancreas,2018,Male,All Races and Ethnicities,15.2,92,514860,5,2,1
+661,Kentucky,Pancreas,2018,Male,All Races and Ethnicities,15.2,388,2197550,5,2,1
+662,District of Columbia,Pancreas,2018,Male,All Races and Ethnicities,16.6,47,332904,5,2,1
+663,Montana,Pancreas,2018,Male,White,9.5,64,484379,5,2,2
+664,South Dakota,Pancreas,2018,Male,White,10.8,57,379764,5,2,2
+665,New Mexico,Pancreas,2018,Male,White,11.1,128,862431,5,2,2
+666,Iowa,Pancreas,2018,Male,White,11.4,210,1433045,5,2,2
+667,Minnesota,Pancreas,2018,Male,White,11.5,347,2381530,5,2,2
+668,Colorado,Pancreas,2018,Male,White,11.6,311,2541417,5,2,2
+669,Louisiana,Pancreas,2018,Male,White,11.6,214,1468736,5,2,2
+670,New Hampshire,Pancreas,2018,Male,White,11.7,103,631531,5,2,2
+671,Texas,Pancreas,2018,Male,White,11.7,1300,11440403,5,2,2
+672,Utah,Pancreas,2018,Male,White,11.8,143,1464575,5,2,2
+673,Nevada,Pancreas,2018,Male,White,11.9,173,1177022,5,2,2
+674,California,Pancreas,2018,Male,White,12.0,1839,14677113,5,2,2
+675,Florida,Pancreas,2018,Male,White,12.0,1551,8196077,5,2,2
+676,Arizona,Pancreas,2018,Male,White,12.1,483,2997692,5,2,2
+677,Hawaii,Pancreas,2018,Male,White,12.1,34,194788,5,2,2
+678,Alaska,Pancreas,2018,Male,White,12.1,32,267908,5,2,2
+679,North Carolina,Pancreas,2018,Male,White,12.3,557,3666387,5,2,2
+680,Virginia,Pancreas,2018,Male,White,12.3,441,3002364,5,2,2
+681,Wisconsin,Pancreas,2018,Male,White,12.4,412,2549410,5,2,2
+682,Washington,Pancreas,2018,Male,White,12.5,457,3069511,5,2,2
+683,Idaho,Pancreas,2018,Male,White,12.6,121,831196,5,2,2
+684,Georgia,Pancreas,2018,Male,White,12.8,476,3208154,5,2,2
+685,Alabama,Pancreas,2018,Male,White,12.8,284,1682439,5,2,2
+686,Mississippi,Pancreas,2018,Male,White,12.8,151,880341,5,2,2
+687,Tennessee,Pancreas,2018,Male,White,12.8,421,2648726,5,2,2
+688,Nebraska,Pancreas,2018,Male,White,12.8,131,858655,5,2,2
+689,Maryland,Pancreas,2018,Male,White,12.9,290,1791830,5,2,2
+690,South Carolina,Pancreas,2018,Male,White,13.0,301,1735709,5,2,2
+691,Connecticut,Pancreas,2018,Male,White,13.1,250,1420969,5,2,2
+692,Oregon,Pancreas,2018,Male,White,13.1,314,1846680,5,2,2
+693,West Virginia,Pancreas,2018,Male,White,13.2,156,842502,5,2,2
+694,Vermont,Pancreas,2018,Male,White,13.3,53,294689,5,2,2
+695,Kansas,Pancreas,2018,Male,White,13.3,200,1272415,5,2,2
+696,New Jersey,Pancreas,2018,Male,White,13.3,528,3195788,5,2,2
+697,North Dakota,Pancreas,2018,Male,White,13.3,53,342191,5,2,2
+698,New York,Pancreas,2018,Male,White,13.3,1140,6800478,5,2,2
+699,Maine,Pancreas,2018,Male,White,13.4,120,627043,5,2,2
+700,Delaware,Pancreas,2018,Male,White,13.5,68,332431,5,2,2
+701,Indiana,Pancreas,2018,Male,White,13.6,462,2847584,5,2,2
+702,Massachusetts,Pancreas,2018,Male,White,13.7,469,2749731,5,2,2
+703,Oklahoma,Pancreas,2018,Male,White,13.7,257,1512999,5,2,2
+704,Illinois,Pancreas,2018,Male,White,13.8,800,4914185,5,2,2
+705,Arkansas,Pancreas,2018,Male,White,13.9,212,1195851,5,2,2
+706,Pennsylvania,Pancreas,2018,Male,White,13.9,998,5210432,5,2,2
+707,Missouri,Pancreas,2018,Male,White,14.1,446,2541617,5,2,2
+708,Michigan,Pancreas,2018,Male,White,14.2,736,3981327,5,2,2
+709,Wyoming,Pancreas,2018,Male,White,14.2,46,276183,5,2,2
+710,Ohio,Pancreas,2018,Male,White,14.3,873,4766506,5,2,2
+711,District of Columbia,Pancreas,2018,Male,White,14.9,17,162140,5,2,2
+712,Kentucky,Pancreas,2018,Male,White,15.3,363,1949968,5,2,2
+713,Rhode Island,Pancreas,2018,Male,White,16.4,92,438063,5,2,2
+714,Arizona,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+715,New Hampshire,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+716,Oregon,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+717,Hawaii,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+718,Vermont,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+719,South Dakota,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+720,Alaska,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+721,Iowa,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+722,Maine,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+723,Colorado,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+724,Kansas,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+725,New Mexico,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+726,Idaho,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+727,Wyoming,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+728,Washington,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+729,Rhode Island,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+730,North Dakota,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+731,Nebraska,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+732,Montana,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+733,Utah,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+734,West Virginia,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+735,Minnesota,Pancreas,2018,Male,Black,0.0,0,0,5,2,3
+736,New York,Pancreas,2018,Male,Black,10.3,156,1695261,5,2,3
+737,Florida,Pancreas,2018,Male,Black,13.0,191,1798023,5,2,3
+738,New Jersey,Pancreas,2018,Male,Black,13.1,72,665126,5,2,3
+739,Oklahoma,Pancreas,2018,Male,Black,13.4,18,176446,5,2,3
+740,Maryland,Pancreas,2018,Male,Black,13.7,111,903583,5,2,3
+741,California,Pancreas,2018,Male,Black,13.8,166,1413495,5,2,3
+742,Michigan,Pancreas,2018,Male,Black,14.3,90,711939,5,2,3
+743,Connecticut,Pancreas,2018,Male,Black,14.5,24,218842,5,2,3
+744,Texas,Pancreas,2018,Male,Black,14.9,197,1839465,5,2,3
+745,South Carolina,Pancreas,2018,Male,Black,15.0,98,663750,5,2,3
+746,North Carolina,Pancreas,2018,Male,Black,15.2,165,1123566,5,2,3
+747,Kentucky,Pancreas,2018,Male,Black,15.2,24,201433,5,2,3
+748,Massachusetts,Pancreas,2018,Male,Black,15.7,34,323403,5,2,3
+749,Pennsylvania,Pancreas,2018,Male,Black,15.8,93,789327,5,2,3
+750,Georgia,Pancreas,2018,Male,Black,16.4,188,1635570,5,2,3
+751,Ohio,Pancreas,2018,Male,Black,16.4,99,782561,5,2,3
+752,Wisconsin,Pancreas,2018,Male,Black,16.6,22,211021,5,2,3
+753,Arkansas,Pancreas,2018,Male,Black,16.7,29,233312,5,2,3
+754,Illinois,Pancreas,2018,Male,Black,16.7,131,913681,5,2,3
+755,Tennessee,Pancreas,2018,Male,Black,16.9,72,568377,5,2,3
+756,Louisiana,Pancreas,2018,Male,Black,17.1,108,739235,5,2,3
+757,Mississippi,Pancreas,2018,Male,Black,17.2,78,538078,5,2,3
+758,Virginia,Pancreas,2018,Male,Black,17.6,123,851068,5,2,3
+759,Missouri,Pancreas,2018,Male,Black,17.8,53,368194,5,2,3
+760,District of Columbia,Pancreas,2018,Male,Black,18.2,30,153373,5,2,3
+761,Indiana,Pancreas,2018,Male,Black,19.3,44,346047,5,2,3
+762,Delaware,Pancreas,2018,Male,Black,21.2,18,110010,5,2,3
+763,Alabama,Pancreas,2018,Male,Black,21.3,117,622427,5,2,3
+764,Nevada,Pancreas,2018,Male,Black,28.4,32,169104,5,2,3
+765,Connecticut,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+766,Arizona,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+767,Arkansas,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+768,Georgia,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+769,Louisiana,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+770,Michigan,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+771,Indiana,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+772,Hawaii,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+773,North Dakota,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+774,Delaware,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+775,South Dakota,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+776,Alabama,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+777,Montana,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+778,Alaska,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+779,Minnesota,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+780,District of Columbia,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+781,Iowa,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+782,Maine,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+783,Tennessee,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+784,New Jersey,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+785,Colorado,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+786,Virginia,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+787,Ohio,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+788,Pennsylvania,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+789,Wyoming,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+790,Texas,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+791,Kansas,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+792,New Mexico,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+793,Idaho,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+794,Mississippi,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+795,Maryland,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+796,Florida,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+797,Nebraska,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+798,Rhode Island,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+799,New York,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+800,Washington,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+801,West Virginia,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+802,Kentucky,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+803,Illinois,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+804,North Carolina,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+805,Vermont,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+806,South Carolina,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+807,Utah,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+808,Nevada,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+809,Massachusetts,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+810,Oregon,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+811,New Hampshire,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+812,Missouri,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+813,Wisconsin,Pancreas,2018,Male,American Indian and Alaska Native,0.0,0,0,5,2,4
+814,California,Pancreas,2018,Male,American Indian and Alaska Native,7.1,20,389891,5,2,4
+815,Oklahoma,Pancreas,2018,Male,American Indian and Alaska Native,11.1,17,210289,5,2,4
+816,Arizona,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+817,Arkansas,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+818,Connecticut,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+819,Louisiana,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+820,Michigan,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+821,Indiana,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+822,Delaware,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+823,Oregon,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+824,Alabama,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+825,Vermont,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+826,South Dakota,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+827,Alaska,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+828,Iowa,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+829,Minnesota,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+830,Tennessee,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+831,Maine,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+832,Colorado,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+833,Ohio,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+834,Pennsylvania,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+835,District of Columbia,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+836,Kansas,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+837,New Mexico,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+838,Idaho,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+839,Mississippi,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+840,Maryland,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+841,Wyoming,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+842,Oklahoma,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+843,Kentucky,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+844,West Virginia,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+845,Rhode Island,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+846,North Dakota,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+847,North Carolina,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+848,Nebraska,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+849,Montana,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+850,South Carolina,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+851,Utah,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+852,Nevada,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+853,Massachusetts,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+854,New Hampshire,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+855,Missouri,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+856,Wisconsin,Pancreas,2018,Male,Asian and Pacific Islander,0.0,0,0,5,2,5
+857,Illinois,Pancreas,2018,Male,Asian and Pacific Islander,5.7,19,378336,5,2,5
+858,New Jersey,Pancreas,2018,Male,Asian and Pacific Islander,5.8,23,447262,5,2,5
+859,New York,Pancreas,2018,Male,Asian and Pacific Islander,6.8,59,877078,5,2,5
+860,Texas,Pancreas,2018,Male,Asian and Pacific Islander,7.1,40,775010,5,2,5
+861,Washington,Pancreas,2018,Male,Asian and Pacific Islander,8.6,24,392697,5,2,5
+862,California,Pancreas,2018,Male,Asian and Pacific Islander,9.0,281,3137953,5,2,5
+863,Florida,Pancreas,2018,Male,Asian and Pacific Islander,9.1,26,329568,5,2,5
+864,Virginia,Pancreas,2018,Male,Asian and Pacific Islander,9.8,21,303076,5,2,5
+865,Hawaii,Pancreas,2018,Male,Asian and Pacific Islander,11.1,65,487500,5,2,5
+866,Georgia,Pancreas,2018,Male,Asian and Pacific Islander,11.2,16,236367,5,2,5
+867,Connecticut,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+868,Missouri,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+869,Arkansas,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+870,Louisiana,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+871,New Hampshire,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+872,Oregon,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+873,Indiana,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+874,North Carolina,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+875,Alabama,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+876,South Dakota,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+877,Vermont,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+878,Maine,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+879,Iowa,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+880,Hawaii,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+881,Tennessee,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+882,District of Columbia,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+883,Delaware,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+884,Idaho,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+885,Mississippi,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+886,Maryland,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+887,Wyoming,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+888,Ohio,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+889,Kansas,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+890,Alaska,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+891,Rhode Island,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+892,Kentucky,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+893,North Dakota,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+894,Nebraska,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+895,Montana,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+896,Utah,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+897,Wisconsin,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+898,South Carolina,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+899,West Virginia,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+900,Minnesota,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+901,Oklahoma,Pancreas,2018,Male,Hispanic,0.0,0,0,5,2,6
+902,Massachusetts,Pancreas,2018,Male,Hispanic,6.8,17,416225,5,2,6
+903,Nevada,Pancreas,2018,Male,Hispanic,8.5,19,444734,5,2,6
+904,Pennsylvania,Pancreas,2018,Male,Hispanic,9.1,20,495374,5,2,6
+905,Texas,Pancreas,2018,Male,Hispanic,9.1,299,5698801,5,2,6
+906,Georgia,Pancreas,2018,Male,Hispanic,9.2,16,533493,5,2,6
+907,Washington,Pancreas,2018,Male,Hispanic,9.3,17,499147,5,2,6
+908,New Jersey,Pancreas,2018,Male,Hispanic,10.0,53,915684,5,2,6
+909,Florida,Pancreas,2018,Male,Hispanic,10.1,237,2734877,5,2,6
+910,California,Pancreas,2018,Male,Hispanic,10.2,448,7782387,5,2,6
+911,New York,Pancreas,2018,Male,Hispanic,10.4,131,1844972,5,2,6
+912,Arizona,Pancreas,2018,Male,Hispanic,10.5,68,1135773,5,2,6
+913,Virginia,Pancreas,2018,Male,Hispanic,10.8,17,421054,5,2,6
+914,New Mexico,Pancreas,2018,Male,Hispanic,10.9,50,509608,5,2,6
+915,Michigan,Pancreas,2018,Male,Hispanic,12.0,18,263455,5,2,6
+916,Colorado,Pancreas,2018,Male,Hispanic,12.4,40,628515,5,2,6
+917,Illinois,Pancreas,2018,Male,Hispanic,12.4,70,1126969,5,2,6

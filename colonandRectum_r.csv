@@ -1,0 +1,919 @@
+,Area,Cancer Type,Year,Sex,Race,Age-Adjusted Rate,Case Count,Population,CancerType_val,Sex_val,Race_val
+0,Utah,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,9.8,267,3153550,4,1,1
+1,Connecticut,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,10.0,482,3571520,4,1,1
+2,Hawaii,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,10.9,210,1420593,4,1,1
+3,Colorado,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,11.0,666,5691287,4,1,1
+4,Massachusetts,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,11.1,984,6882635,4,1,1
+5,Washington,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,11.4,996,7523869,4,1,1
+6,New York,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,11.6,2855,19530351,4,1,1
+7,Montana,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,11.9,164,1060665,4,1,1
+8,Minnesota,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.0,815,5606249,4,1,1
+9,California,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.1,5387,39461588,4,1,1
+10,Rhode Island,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.3,175,1058287,4,1,1
+11,Oregon,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.3,656,4181886,4,1,1
+12,District of Columbia,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.4,86,701547,4,1,1
+13,New Hampshire,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.4,227,1353465,4,1,1
+14,Arizona,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.5,1120,7158024,4,1,1
+15,Wisconsin,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.5,933,5807406,4,1,1
+16,Florida,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.6,3976,21244317,4,1,1
+17,North Carolina,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.6,1577,10381615,4,1,1
+18,Maine,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.7,252,1339057,4,1,1
+19,New Jersey,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.9,1470,8886025,4,1,1
+20,New Mexico,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,12.9,334,2092741,4,1,1
+21,Michigan,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.0,1671,9984072,4,1,1
+22,Delaware,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.0,167,965479,4,1,1
+23,Wyoming,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.0,90,577601,4,1,1
+24,South Carolina,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.0,828,5084156,4,1,1
+25,North Dakota,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.1,116,758080,4,1,1
+26,Vermont,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.2,114,624358,4,1,1
+27,Virginia,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.3,1328,8501286,4,1,1
+28,Idaho,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.4,272,1750536,4,1,1
+29,Nevada,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.4,461,3027341,4,1,1
+30,Maryland,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.6,982,6035802,4,1,1
+31,Arkansas,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.7,520,3009733,4,1,1
+32,Texas,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,13.7,3901,28628666,4,1,1
+33,Pennsylvania,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.0,2466,12800922,4,1,1
+34,Georgia,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.1,1591,10511131,4,1,1
+35,Illinois,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.1,2177,12723071,4,1,1
+36,Indiana,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.2,1137,6695497,4,1,1
+37,Alaska,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.3,90,735139,4,1,1
+38,Iowa,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.4,597,3148618,4,1,1
+39,Tennessee,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.5,1196,6771631,4,1,1
+40,Ohio,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.6,2183,11676341,4,1,1
+41,Kansas,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.7,514,2911359,4,1,1
+42,Missouri,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,14.7,1133,6121623,4,1,1
+43,South Dakota,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,15.0,166,878698,4,1,1
+44,Alabama,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,15.1,926,4887681,4,1,1
+45,Nebraska,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,15.2,356,1925614,4,1,1
+46,Louisiana,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,15.4,847,4659690,4,1,1
+47,Oklahoma,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,15.8,733,3940235,4,1,1
+48,Kentucky,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,16.3,898,4461153,4,1,1
+49,Mississippi,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,17.3,620,2981020,4,1,1
+50,West Virginia,Colon and Rectum,2018,Male and Female,All Races and Ethnicities,17.8,451,1804291,4,1,1
+51,District of Columbia,Colon and Rectum,2018,Male and Female,White,0.0,0,0,4,1,2
+52,Utah,Colon and Rectum,2018,Male and Female,White,9.7,251,2910385,4,1,2
+53,Connecticut,Colon and Rectum,2018,Male and Female,White,9.9,422,2903675,4,1,2
+54,Colorado,Colon and Rectum,2018,Male and Female,White,11.0,617,5047417,4,1,2
+55,Montana,Colon and Rectum,2018,Male and Female,White,11.2,147,960941,4,1,2
+56,Massachusetts,Colon and Rectum,2018,Male and Female,White,11.6,912,5662837,4,1,2
+57,New York,Colon and Rectum,2018,Male and Female,White,11.7,2218,13851993,4,1,2
+58,Washington,Colon and Rectum,2018,Male and Female,White,11.8,905,6122738,4,1,2
+59,Minnesota,Colon and Rectum,2018,Male and Female,White,11.9,767,4786935,4,1,2
+60,North Carolina,Colon and Rectum,2018,Male and Female,White,12.1,1186,7454379,4,1,2
+61,Hawaii,Colon and Rectum,2018,Male and Female,White,12.1,60,360769,4,1,2
+62,Wisconsin,Colon and Rectum,2018,Male and Female,White,12.2,859,5117885,4,1,2
+63,California,Colon and Rectum,2018,Male and Female,White,12.4,4151,29265222,4,1,2
+64,South Carolina,Colon and Rectum,2018,Male and Female,White,12.4,595,3533462,4,1,2
+65,Arizona,Colon and Rectum,2018,Male and Female,White,12.5,1020,6029753,4,1,2
+66,Florida,Colon and Rectum,2018,Male and Female,White,12.6,3413,16690253,4,1,2
+67,Michigan,Colon and Rectum,2018,Male and Female,White,12.6,1390,8037285,4,1,2
+68,New Hampshire,Colon and Rectum,2018,Male and Female,White,12.6,225,1277085,4,1,2
+69,Oregon,Colon and Rectum,2018,Male and Female,White,12.6,626,3724600,4,1,2
+70,Virginia,Colon and Rectum,2018,Male and Female,White,12.6,978,6043768,4,1,2
+71,North Dakota,Colon and Rectum,2018,Male and Female,White,12.6,107,669755,4,1,2
+72,Rhode Island,Colon and Rectum,2018,Male and Female,White,12.6,165,902251,4,1,2
+73,Maryland,Colon and Rectum,2018,Male and Female,White,12.7,617,3625716,4,1,2
+74,Maine,Colon and Rectum,2018,Male and Female,White,12.8,248,1281999,4,1,2
+75,Nevada,Colon and Rectum,2018,Male and Female,White,12.8,360,2314725,4,1,2
+76,New Jersey,Colon and Rectum,2018,Male and Female,White,12.9,1183,6507268,4,1,2
+77,New Mexico,Colon and Rectum,2018,Male and Female,White,13.0,300,1741707,4,1,2
+78,Wyoming,Colon and Rectum,2018,Male and Female,White,13.0,87,542445,4,1,2
+79,Alaska,Colon and Rectum,2018,Male and Female,White,13.0,62,506963,4,1,2
+80,Arkansas,Colon and Rectum,2018,Male and Female,White,13.1,430,2421400,4,1,2
+81,Vermont,Colon and Rectum,2018,Male and Female,White,13.2,112,597319,4,1,2
+82,Georgia,Colon and Rectum,2018,Male and Female,White,13.4,1061,6468529,4,1,2
+83,Idaho,Colon and Rectum,2018,Male and Female,White,13.4,265,1657508,4,1,2
+84,Texas,Colon and Rectum,2018,Male and Female,White,13.4,3216,22922308,4,1,2
+85,Delaware,Colon and Rectum,2018,Male and Female,White,13.5,139,683018,4,1,2
+86,Illinois,Colon and Rectum,2018,Male and Female,White,13.7,1742,9912791,4,1,2
+87,Tennessee,Colon and Rectum,2018,Male and Female,White,13.7,973,5391666,4,1,2
+88,Pennsylvania,Colon and Rectum,2018,Male and Female,White,13.8,2180,10608820,4,1,2
+89,Indiana,Colon and Rectum,2018,Male and Female,White,13.9,1019,5765583,4,1,2
+90,Louisiana,Colon and Rectum,2018,Male and Female,White,14.0,554,2969067,4,1,2
+91,Alabama,Colon and Rectum,2018,Male and Female,White,14.2,667,3428637,4,1,2
+92,Iowa,Colon and Rectum,2018,Male and Female,White,14.3,574,2890811,4,1,2
+93,Kansas,Colon and Rectum,2018,Male and Female,White,14.4,469,2559851,4,1,2
+94,Ohio,Colon and Rectum,2018,Male and Female,White,14.5,1904,9691566,4,1,2
+95,Missouri,Colon and Rectum,2018,Male and Female,White,14.6,1003,5154374,4,1,2
+96,South Dakota,Colon and Rectum,2018,Male and Female,White,14.6,151,753781,4,1,2
+97,Nebraska,Colon and Rectum,2018,Male and Female,White,15.2,338,1722396,4,1,2
+98,Oklahoma,Colon and Rectum,2018,Male and Female,White,15.3,613,3053465,4,1,2
+99,Kentucky,Colon and Rectum,2018,Male and Female,White,16.3,826,3962465,4,1,2
+100,Mississippi,Colon and Rectum,2018,Male and Female,White,16.5,401,1781300,4,1,2
+101,West Virginia,Colon and Rectum,2018,Male and Female,White,17.9,441,1707867,4,1,2
+102,New Hampshire,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+103,Hawaii,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+104,Oregon,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+105,South Dakota,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+106,Vermont,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+107,Maine,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+108,Iowa,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+109,North Dakota,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+110,Alaska,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+111,Montana,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+112,New Mexico,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+113,Wyoming,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+114,Idaho,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+115,Rhode Island,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+116,Nebraska,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+117,West Virginia,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+118,Utah,Colon and Rectum,2018,Male and Female,Black,0.0,0,0,4,1,3
+119,Massachusetts,Colon and Rectum,2018,Male and Female,Black,9.0,49,665317,4,1,3
+120,Washington,Colon and Rectum,2018,Male and Female,Black,10.4,24,402735,4,1,3
+121,Minnesota,Colon and Rectum,2018,Male and Female,Black,11.5,24,424948,4,1,3
+122,Delaware,Colon and Rectum,2018,Male and Female,Black,12.4,27,232885,4,1,3
+123,Connecticut,Colon and Rectum,2018,Male and Female,Black,12.5,49,458476,4,1,3
+124,New York,Colon and Rectum,2018,Male and Female,Black,13.5,496,3618873,4,1,3
+125,North Carolina,Colon and Rectum,2018,Male and Female,Black,15.3,360,2394511,4,1,3
+126,Arizona,Colon and Rectum,2018,Male and Female,Black,15.5,45,413472,4,1,3
+127,Florida,Colon and Rectum,2018,Male and Female,Black,15.5,518,3726225,4,1,3
+128,South Carolina,Colon and Rectum,2018,Male and Female,Black,16.1,225,1417646,4,1,3
+129,Georgia,Colon and Rectum,2018,Male and Female,Black,16.3,492,3493534,4,1,3
+130,Colorado,Colon and Rectum,2018,Male and Female,Black,16.4,30,302938,4,1,3
+131,Kansas,Colon and Rectum,2018,Male and Female,Black,16.5,27,206723,4,1,3
+132,California,Colon and Rectum,2018,Male and Female,Black,16.6,449,2841953,4,1,3
+133,Pennsylvania,Colon and Rectum,2018,Male and Female,Black,16.9,251,1631910,4,1,3
+134,Virginia,Colon and Rectum,2018,Male and Female,Black,17.0,289,1769094,4,1,3
+135,New Jersey,Colon and Rectum,2018,Male and Female,Black,17.1,232,1397403,4,1,3
+136,Michigan,Colon and Rectum,2018,Male and Female,Black,17.3,257,1495057,4,1,3
+137,Maryland,Colon and Rectum,2018,Male and Female,Black,17.5,327,1932102,4,1,3
+138,Ohio,Colon and Rectum,2018,Male and Female,Black,17.6,264,1628354,4,1,3
+139,District of Columbia,Colon and Rectum,2018,Male and Female,Black,17.9,70,337257,4,1,3
+140,Oklahoma,Colon and Rectum,2018,Male and Female,Black,18.1,48,351903,4,1,3
+141,Missouri,Colon and Rectum,2018,Male and Female,Black,18.3,124,770993,4,1,3
+142,Arkansas,Colon and Rectum,2018,Male and Female,Black,18.6,87,489481,4,1,3
+143,Texas,Colon and Rectum,2018,Male and Female,Black,18.6,561,3794158,4,1,3
+144,Wisconsin,Colon and Rectum,2018,Male and Female,Black,18.9,52,427480,4,1,3
+145,Nevada,Colon and Rectum,2018,Male and Female,Black,18.9,50,341317,4,1,3
+146,Louisiana,Colon and Rectum,2018,Male and Female,Black,19.3,281,1557088,4,1,3
+147,Alabama,Colon and Rectum,2018,Male and Female,Black,19.3,249,1337780,4,1,3
+148,Illinois,Colon and Rectum,2018,Male and Female,Black,19.6,381,1938706,4,1,3
+149,Kentucky,Colon and Rectum,2018,Male and Female,Black,19.7,69,404452,4,1,3
+150,Indiana,Colon and Rectum,2018,Male and Female,Black,20.4,111,715146,4,1,3
+151,Mississippi,Colon and Rectum,2018,Male and Female,Black,20.4,214,1143420,4,1,3
+152,Tennessee,Colon and Rectum,2018,Male and Female,Black,20.5,214,1199502,4,1,3
+153,Connecticut,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+154,Arkansas,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+155,Georgia,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+156,Louisiana,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+157,Michigan,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+158,Indiana,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+159,Hawaii,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+160,Alabama,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+161,Delaware,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+162,South Dakota,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+163,North Dakota,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+164,New Jersey,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+165,District of Columbia,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+166,Minnesota,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+167,Maine,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+168,Iowa,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+169,Montana,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+170,Colorado,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+171,Tennessee,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+172,Pennsylvania,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+173,Ohio,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+174,Virginia,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+175,Maryland,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+176,Wyoming,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+177,Mississippi,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+178,Rhode Island,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+179,Texas,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+180,Kansas,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+181,Idaho,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+182,Washington,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+183,Nebraska,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+184,New York,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+185,Illinois,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+186,Massachusetts,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+187,Kentucky,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+188,Utah,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+189,North Carolina,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+190,West Virginia,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+191,Florida,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+192,Vermont,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+193,South Carolina,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+194,Oregon,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+195,New Hampshire,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+196,Nevada,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+197,Missouri,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+198,Wisconsin,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,4,1,4
+199,California,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,7.6,40,773103,4,1,4
+200,Arizona,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,9.5,26,408333,4,1,4
+201,New Mexico,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,14.2,27,241507,4,1,4
+202,Oklahoma,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,19.6,61,425510,4,1,4
+203,Alaska,Colon and Rectum,2018,Male and Female,American Indian and Alaska Native,30.7,26,128287,4,1,4
+204,Connecticut,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+205,Arkansas,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+206,Oregon,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+207,Louisiana,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+208,Indiana,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+209,Alabama,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+210,South Dakota,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+211,Delaware,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+212,Vermont,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+213,Alaska,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+214,Maine,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+215,Iowa,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+216,North Dakota,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+217,Colorado,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+218,Tennessee,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+219,Montana,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+220,Ohio,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+221,District of Columbia,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+222,Mississippi,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+223,New Mexico,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+224,Wyoming,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+225,Idaho,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+226,Kansas,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+227,Nebraska,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+228,Rhode Island,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+229,Oklahoma,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+230,Utah,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+231,Kentucky,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+232,West Virginia,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+233,South Carolina,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+234,New Hampshire,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+235,Missouri,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+236,Wisconsin,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,4,1,5
+237,Florida,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,5.3,41,708713,4,1,5
+238,Massachusetts,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,5.9,23,513904,4,1,5
+239,North Carolina,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,6.0,16,357594,4,1,5
+240,New Jersey,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,6.7,54,917565,4,1,5
+241,Michigan,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,7.2,20,359987,4,1,5
+242,Washington,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,7.2,52,824285,4,1,5
+243,Illinois,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,7.2,53,783468,4,1,5
+244,New York,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,7.5,138,1835707,4,1,5
+245,Pennsylvania,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,8.2,33,501608,4,1,5
+246,Maryland,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,8.4,37,435655,4,1,5
+247,Minnesota,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,9.1,16,305980,4,1,5
+248,Georgia,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,9.3,38,487832,4,1,5
+249,Texas,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,9.3,116,1591190,4,1,5
+250,California,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,9.9,747,6581310,4,1,5
+251,Hawaii,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,10.9,149,1009897,4,1,5
+252,Virginia,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,11.1,57,636755,4,1,5
+253,Arizona,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,11.8,29,306466,4,1,5
+254,Nevada,Colon and Rectum,2018,Male and Female,Asian and Pacific Islander,13.7,47,311865,4,1,5
+255,Arkansas,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+256,Missouri,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+257,New Hampshire,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+258,Hawaii,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+259,South Dakota,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+260,Minnesota,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+261,Vermont,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+262,Alabama,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+263,Maine,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+264,Iowa,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+265,Tennessee,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+266,Mississippi,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+267,Delaware,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+268,Idaho,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+269,Wyoming,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+270,Montana,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+271,Alaska,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+272,District of Columbia,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+273,North Dakota,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+274,Rhode Island,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+275,Kentucky,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+276,West Virginia,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+277,Nebraska,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+278,South Carolina,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+279,Oklahoma,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+280,Utah,Colon and Rectum,2018,Male and Female,Hispanic,0.0,0,0,4,1,6
+281,Michigan,Colon and Rectum,2018,Male and Female,Hispanic,5.4,18,518477,4,1,6
+282,Maryland,Colon and Rectum,2018,Male and Female,Hispanic,6.2,24,626378,4,1,6
+283,Connecticut,Colon and Rectum,2018,Male and Female,Hispanic,6.4,23,589825,4,1,6
+284,Ohio,Colon and Rectum,2018,Male and Female,Hispanic,6.7,18,459088,4,1,6
+285,North Carolina,Colon and Rectum,2018,Male and Female,Hispanic,7.2,28,994606,4,1,6
+286,Washington,Colon and Rectum,2018,Male and Female,Hispanic,7.6,38,966855,4,1,6
+287,Virginia,Colon and Rectum,2018,Male and Female,Hispanic,7.7,32,816546,4,1,6
+288,Nevada,Colon and Rectum,2018,Male and Female,Hispanic,7.9,43,877290,4,1,6
+289,Kansas,Colon and Rectum,2018,Male and Female,Hispanic,8.4,16,351378,4,1,6
+290,New York,Colon and Rectum,2018,Male and Female,Hispanic,8.7,268,3743541,4,1,6
+291,Indiana,Colon and Rectum,2018,Male and Female,Hispanic,8.9,19,475652,4,1,6
+292,New Jersey,Colon and Rectum,2018,Male and Female,Hispanic,9.5,119,1828769,4,1,6
+293,Massachusetts,Colon and Rectum,2018,Male and Female,Hispanic,9.6,41,838281,4,1,6
+294,Georgia,Colon and Rectum,2018,Male and Female,Hispanic,10.1,47,1022370,4,1,6
+295,Illinois,Colon and Rectum,2018,Male and Female,Hispanic,10.5,132,2204614,4,1,6
+296,California,Colon and Rectum,2018,Male and Female,Hispanic,11.0,1155,15472859,4,1,6
+297,Pennsylvania,Colon and Rectum,2018,Male and Female,Hispanic,11.0,55,973661,4,1,6
+298,Louisiana,Colon and Rectum,2018,Male and Female,Hispanic,11.1,18,242798,4,1,6
+299,Wisconsin,Colon and Rectum,2018,Male and Female,Hispanic,11.1,19,404469,4,1,6
+300,Florida,Colon and Rectum,2018,Male and Female,Hispanic,11.6,632,5537857,4,1,6
+301,Texas,Colon and Rectum,2018,Male and Female,Hispanic,12.6,936,11323903,4,1,6
+302,Colorado,Colon and Rectum,2018,Male and Female,Hispanic,13.3,101,1233748,4,1,6
+303,Oregon,Colon and Rectum,2018,Male and Female,Hispanic,13.4,26,553064,4,1,6
+304,New Mexico,Colon and Rectum,2018,Male and Female,Hispanic,13.8,130,1027108,4,1,6
+305,Arizona,Colon and Rectum,2018,Male and Female,Hispanic,13.9,186,2258856,4,1,6
+306,Hawaii,Colon and Rectum,2018,Female,All Races and Ethnicities,7.3,81,709302,4,3,1
+307,North Dakota,Colon and Rectum,2018,Female,All Races and Ethnicities,8.7,45,370046,4,3,1
+308,Connecticut,Colon and Rectum,2018,Female,All Races and Ethnicities,8.7,240,1829397,4,3,1
+309,Massachusetts,Colon and Rectum,2018,Female,All Races and Ethnicities,8.8,457,3542925,4,3,1
+310,Utah,Colon and Rectum,2018,Female,All Races and Ethnicities,8.8,128,1565310,4,3,1
+311,Colorado,Colon and Rectum,2018,Female,All Races and Ethnicities,9.3,304,2825526,4,3,1
+312,Montana,Colon and Rectum,2018,Female,All Races and Ethnicities,9.4,69,526813,4,3,1
+313,Washington,Colon and Rectum,2018,Female,All Races and Ethnicities,9.4,455,3758918,4,3,1
+314,New Mexico,Colon and Rectum,2018,Female,All Races and Ethnicities,9.5,135,1057201,4,3,1
+315,New Hampshire,Colon and Rectum,2018,Female,All Races and Ethnicities,9.5,97,682692,4,3,1
+316,Arizona,Colon and Rectum,2018,Female,All Races and Ethnicities,9.9,477,3600640,4,3,1
+317,New York,Colon and Rectum,2018,Female,All Races and Ethnicities,10.0,1415,10046133,4,3,1
+318,California,Colon and Rectum,2018,Female,All Races and Ethnicities,10.2,2501,19843136,4,3,1
+319,Minnesota,Colon and Rectum,2018,Female,All Races and Ethnicities,10.2,382,2813822,4,3,1
+320,South Carolina,Colon and Rectum,2018,Female,All Races and Ethnicities,10.3,364,2620391,4,3,1
+321,Florida,Colon and Rectum,2018,Female,All Races and Ethnicities,10.4,1810,10858944,4,3,1
+322,New Jersey,Colon and Rectum,2018,Female,All Races and Ethnicities,10.6,705,4545338,4,3,1
+323,North Carolina,Colon and Rectum,2018,Female,All Races and Ethnicities,10.6,743,5331288,4,3,1
+324,Wisconsin,Colon and Rectum,2018,Female,All Races and Ethnicities,10.6,436,2918181,4,3,1
+325,Oregon,Colon and Rectum,2018,Female,All Races and Ethnicities,10.7,315,2108799,4,3,1
+326,Texas,Colon and Rectum,2018,Female,All Races and Ethnicities,10.8,1680,14409351,4,3,1
+327,Michigan,Colon and Rectum,2018,Female,All Races and Ethnicities,10.9,780,5067862,4,3,1
+328,Rhode Island,Colon and Rectum,2018,Female,All Races and Ethnicities,10.9,90,543427,4,3,1
+329,Nevada,Colon and Rectum,2018,Female,All Races and Ethnicities,10.9,198,1508820,4,3,1
+330,Arkansas,Colon and Rectum,2018,Female,All Races and Ethnicities,11.0,229,1531624,4,3,1
+331,Delaware,Colon and Rectum,2018,Female,All Races and Ethnicities,11.0,80,498641,4,3,1
+332,Maryland,Colon and Rectum,2018,Female,All Races and Ethnicities,11.3,454,3111203,4,3,1
+333,Virginia,Colon and Rectum,2018,Female,All Races and Ethnicities,11.3,630,4318025,4,3,1
+334,Maine,Colon and Rectum,2018,Female,All Races and Ethnicities,11.5,129,683374,4,3,1
+335,Georgia,Colon and Rectum,2018,Female,All Races and Ethnicities,11.6,728,5399300,4,3,1
+336,District of Columbia,Colon and Rectum,2018,Female,All Races and Ethnicities,11.6,45,368643,4,3,1
+337,Tennessee,Colon and Rectum,2018,Female,All Races and Ethnicities,11.7,535,3466921,4,3,1
+338,Idaho,Colon and Rectum,2018,Female,All Races and Ethnicities,11.7,128,873205,4,3,1
+339,Wyoming,Colon and Rectum,2018,Female,All Races and Ethnicities,11.7,42,283325,4,3,1
+340,Vermont,Colon and Rectum,2018,Female,All Races and Ethnicities,11.7,61,316079,4,3,1
+341,Illinois,Colon and Rectum,2018,Female,All Races and Ethnicities,11.8,1028,6471727,4,3,1
+342,Missouri,Colon and Rectum,2018,Female,All Races and Ethnicities,11.8,509,3116702,4,3,1
+343,Alabama,Colon and Rectum,2018,Female,All Races and Ethnicities,12.1,417,2524361,4,3,1
+344,Alaska,Colon and Rectum,2018,Female,All Races and Ethnicities,12.1,39,351692,4,3,1
+345,Pennsylvania,Colon and Rectum,2018,Female,All Races and Ethnicities,12.1,1223,6529381,4,3,1
+346,Indiana,Colon and Rectum,2018,Female,All Races and Ethnicities,12.3,555,3394211,4,3,1
+347,South Dakota,Colon and Rectum,2018,Female,All Races and Ethnicities,12.3,75,435205,4,3,1
+348,Ohio,Colon and Rectum,2018,Female,All Races and Ethnicities,12.4,1033,5953904,4,3,1
+349,Iowa,Colon and Rectum,2018,Female,All Races and Ethnicities,12.6,297,1581655,4,3,1
+350,Nebraska,Colon and Rectum,2018,Female,All Races and Ethnicities,12.7,170,964240,4,3,1
+351,Louisiana,Colon and Rectum,2018,Female,All Races and Ethnicities,12.9,393,2385448,4,3,1
+352,Kansas,Colon and Rectum,2018,Female,All Races and Ethnicities,13.0,253,1460588,4,3,1
+353,Oklahoma,Colon and Rectum,2018,Female,All Races and Ethnicities,13.3,334,1987969,4,3,1
+354,Mississippi,Colon and Rectum,2018,Female,All Races and Ethnicities,13.4,270,1535497,4,3,1
+355,Kentucky,Colon and Rectum,2018,Female,All Races and Ethnicities,13.9,428,2263603,4,3,1
+356,West Virginia,Colon and Rectum,2018,Female,All Races and Ethnicities,14.7,207,910982,4,3,1
+357,Hawaii,Colon and Rectum,2018,Female,All Races and Ethnicities,7.3,81,709302,4,3,1
+358,North Dakota,Colon and Rectum,2018,Female,All Races and Ethnicities,8.7,45,370046,4,3,1
+359,Connecticut,Colon and Rectum,2018,Female,All Races and Ethnicities,8.7,240,1829397,4,3,1
+360,Massachusetts,Colon and Rectum,2018,Female,All Races and Ethnicities,8.8,457,3542925,4,3,1
+361,Utah,Colon and Rectum,2018,Female,All Races and Ethnicities,8.8,128,1565310,4,3,1
+362,Colorado,Colon and Rectum,2018,Female,All Races and Ethnicities,9.3,304,2825526,4,3,1
+363,Montana,Colon and Rectum,2018,Female,All Races and Ethnicities,9.4,69,526813,4,3,1
+364,Washington,Colon and Rectum,2018,Female,All Races and Ethnicities,9.4,455,3758918,4,3,1
+365,New Mexico,Colon and Rectum,2018,Female,All Races and Ethnicities,9.5,135,1057201,4,3,1
+366,New Hampshire,Colon and Rectum,2018,Female,All Races and Ethnicities,9.5,97,682692,4,3,1
+367,Arizona,Colon and Rectum,2018,Female,All Races and Ethnicities,9.9,477,3600640,4,3,1
+368,New York,Colon and Rectum,2018,Female,All Races and Ethnicities,10.0,1415,10046133,4,3,1
+369,California,Colon and Rectum,2018,Female,All Races and Ethnicities,10.2,2501,19843136,4,3,1
+370,Minnesota,Colon and Rectum,2018,Female,All Races and Ethnicities,10.2,382,2813822,4,3,1
+371,South Carolina,Colon and Rectum,2018,Female,All Races and Ethnicities,10.3,364,2620391,4,3,1
+372,Florida,Colon and Rectum,2018,Female,All Races and Ethnicities,10.4,1810,10858944,4,3,1
+373,New Jersey,Colon and Rectum,2018,Female,All Races and Ethnicities,10.6,705,4545338,4,3,1
+374,North Carolina,Colon and Rectum,2018,Female,All Races and Ethnicities,10.6,743,5331288,4,3,1
+375,Wisconsin,Colon and Rectum,2018,Female,All Races and Ethnicities,10.6,436,2918181,4,3,1
+376,Oregon,Colon and Rectum,2018,Female,All Races and Ethnicities,10.7,315,2108799,4,3,1
+377,Texas,Colon and Rectum,2018,Female,All Races and Ethnicities,10.8,1680,14409351,4,3,1
+378,Michigan,Colon and Rectum,2018,Female,All Races and Ethnicities,10.9,780,5067862,4,3,1
+379,Rhode Island,Colon and Rectum,2018,Female,All Races and Ethnicities,10.9,90,543427,4,3,1
+380,Nevada,Colon and Rectum,2018,Female,All Races and Ethnicities,10.9,198,1508820,4,3,1
+381,Arkansas,Colon and Rectum,2018,Female,All Races and Ethnicities,11.0,229,1531624,4,3,1
+382,Delaware,Colon and Rectum,2018,Female,All Races and Ethnicities,11.0,80,498641,4,3,1
+383,Maryland,Colon and Rectum,2018,Female,All Races and Ethnicities,11.3,454,3111203,4,3,1
+384,Virginia,Colon and Rectum,2018,Female,All Races and Ethnicities,11.3,630,4318025,4,3,1
+385,Maine,Colon and Rectum,2018,Female,All Races and Ethnicities,11.5,129,683374,4,3,1
+386,Georgia,Colon and Rectum,2018,Female,All Races and Ethnicities,11.6,728,5399300,4,3,1
+387,District of Columbia,Colon and Rectum,2018,Female,All Races and Ethnicities,11.6,45,368643,4,3,1
+388,Tennessee,Colon and Rectum,2018,Female,All Races and Ethnicities,11.7,535,3466921,4,3,1
+389,Idaho,Colon and Rectum,2018,Female,All Races and Ethnicities,11.7,128,873205,4,3,1
+390,Wyoming,Colon and Rectum,2018,Female,All Races and Ethnicities,11.7,42,283325,4,3,1
+391,Vermont,Colon and Rectum,2018,Female,All Races and Ethnicities,11.7,61,316079,4,3,1
+392,Illinois,Colon and Rectum,2018,Female,All Races and Ethnicities,11.8,1028,6471727,4,3,1
+393,Missouri,Colon and Rectum,2018,Female,All Races and Ethnicities,11.8,509,3116702,4,3,1
+394,Alabama,Colon and Rectum,2018,Female,All Races and Ethnicities,12.1,417,2524361,4,3,1
+395,Alaska,Colon and Rectum,2018,Female,All Races and Ethnicities,12.1,39,351692,4,3,1
+396,Pennsylvania,Colon and Rectum,2018,Female,All Races and Ethnicities,12.1,1223,6529381,4,3,1
+397,Indiana,Colon and Rectum,2018,Female,All Races and Ethnicities,12.3,555,3394211,4,3,1
+398,South Dakota,Colon and Rectum,2018,Female,All Races and Ethnicities,12.3,75,435205,4,3,1
+399,Ohio,Colon and Rectum,2018,Female,All Races and Ethnicities,12.4,1033,5953904,4,3,1
+400,Iowa,Colon and Rectum,2018,Female,All Races and Ethnicities,12.6,297,1581655,4,3,1
+401,Nebraska,Colon and Rectum,2018,Female,All Races and Ethnicities,12.7,170,964240,4,3,1
+402,Louisiana,Colon and Rectum,2018,Female,All Races and Ethnicities,12.9,393,2385448,4,3,1
+403,Kansas,Colon and Rectum,2018,Female,All Races and Ethnicities,13.0,253,1460588,4,3,1
+404,Oklahoma,Colon and Rectum,2018,Female,All Races and Ethnicities,13.3,334,1987969,4,3,1
+405,Mississippi,Colon and Rectum,2018,Female,All Races and Ethnicities,13.4,270,1535497,4,3,1
+406,Kentucky,Colon and Rectum,2018,Female,All Races and Ethnicities,13.9,428,2263603,4,3,1
+407,West Virginia,Colon and Rectum,2018,Female,All Races and Ethnicities,14.7,207,910982,4,3,1
+408,Hawaii,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+409,Oregon,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+410,South Dakota,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+411,Delaware,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+412,Vermont,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+413,Minnesota,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+414,Alaska,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+415,Maine,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+416,Iowa,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+417,North Dakota,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+418,Colorado,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+419,Montana,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+420,New Mexico,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+421,Wyoming,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+422,Idaho,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+423,Kansas,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+424,Nebraska,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+425,Rhode Island,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+426,Washington,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+427,West Virginia,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+428,Utah,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+429,New Hampshire,Colon and Rectum,2018,Female,Black,0.0,0,0,4,3,3
+430,Massachusetts,Colon and Rectum,2018,Female,Black,7.7,23,341914,4,3,3
+431,Arizona,Colon and Rectum,2018,Female,Black,9.5,16,200971,4,3,3
+432,Connecticut,Colon and Rectum,2018,Female,Black,10.0,22,239634,4,3,3
+433,New York,Colon and Rectum,2018,Female,Black,11.7,261,1923612,4,3,3
+434,South Carolina,Colon and Rectum,2018,Female,Black,12.5,101,753896,4,3,3
+435,North Carolina,Colon and Rectum,2018,Female,Black,12.6,171,1270945,4,3,3
+436,Florida,Colon and Rectum,2018,Female,Black,12.7,244,1928202,4,3,3
+437,Virginia,Colon and Rectum,2018,Female,Black,13.4,130,918026,4,3,3
+438,Georgia,Colon and Rectum,2018,Female,Black,13.6,237,1857964,4,3,3
+439,California,Colon and Rectum,2018,Female,Black,13.7,207,1428458,4,3,3
+440,Texas,Colon and Rectum,2018,Female,Black,13.8,236,1954693,4,3,3
+441,Indiana,Colon and Rectum,2018,Female,Black,14.1,44,369099,4,3,3
+442,Michigan,Colon and Rectum,2018,Female,Black,14.3,125,783118,4,3,3
+443,Maryland,Colon and Rectum,2018,Female,Black,14.4,158,1028519,4,3,3
+444,Arkansas,Colon and Rectum,2018,Female,Black,14.6,36,256169,4,3,3
+445,Missouri,Colon and Rectum,2018,Female,Black,14.6,60,402799,4,3,3
+446,Pennsylvania,Colon and Rectum,2018,Female,Black,14.8,132,842583,4,3,3
+447,Illinois,Colon and Rectum,2018,Female,Black,14.9,170,1025025,4,3,3
+448,Nevada,Colon and Rectum,2018,Female,Black,14.9,19,172213,4,3,3
+449,New Jersey,Colon and Rectum,2018,Female,Black,15.0,121,732277,4,3,3
+450,Wisconsin,Colon and Rectum,2018,Female,Black,15.0,24,216459,4,3,3
+451,Alabama,Colon and Rectum,2018,Female,Black,15.8,123,715353,4,3,3
+452,Ohio,Colon and Rectum,2018,Female,Black,15.8,137,845793,4,3,3
+453,Kentucky,Colon and Rectum,2018,Female,Black,16.1,32,203019,4,3,3
+454,Tennessee,Colon and Rectum,2018,Female,Black,16.3,99,631125,4,3,3
+455,District of Columbia,Colon and Rectum,2018,Female,Black,16.3,38,183884,4,3,3
+456,Oklahoma,Colon and Rectum,2018,Female,Black,16.4,24,175457,4,3,3
+457,Louisiana,Colon and Rectum,2018,Female,Black,16.7,137,817853,4,3,3
+458,Mississippi,Colon and Rectum,2018,Female,Black,16.8,102,605342,4,3,3
+459,Arizona,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+460,Connecticut,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+461,Arkansas,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+462,Georgia,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+463,Indiana,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+464,Louisiana,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+465,Alabama,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+466,Montana,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+467,Michigan,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+468,Hawaii,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+469,Delaware,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+470,Minnesota,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+471,Iowa,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+472,North Dakota,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+473,New Jersey,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+474,Maine,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+475,District of Columbia,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+476,Tennessee,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+477,Colorado,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+478,Pennsylvania,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+479,Virginia,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+480,Ohio,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+481,Maryland,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+482,New Mexico,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+483,Mississippi,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+484,Kansas,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+485,Texas,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+486,Wyoming,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+487,Rhode Island,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+488,Idaho,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+489,Nebraska,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+490,Washington,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+491,Florida,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+492,New York,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+493,Kentucky,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+494,Illinois,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+495,Massachusetts,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+496,Missouri,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+497,Utah,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+498,North Carolina,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+499,West Virginia,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+500,Vermont,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+501,South Carolina,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+502,Oregon,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+503,Nevada,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+504,South Dakota,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+505,New Hampshire,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+506,Wisconsin,Colon and Rectum,2018,Female,American Indian and Alaska Native,0.0,0,0,4,3,4
+507,California,Colon and Rectum,2018,Female,American Indian and Alaska Native,6.2,18,383212,4,3,4
+508,Oklahoma,Colon and Rectum,2018,Female,American Indian and Alaska Native,17.3,30,215221,4,3,4
+509,Alaska,Colon and Rectum,2018,Female,American Indian and Alaska Native,38.5,17,63370,4,3,4
+510,Arizona,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+511,Connecticut,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+512,Arkansas,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+513,Louisiana,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+514,Michigan,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+515,Indiana,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+516,Alabama,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+517,Delaware,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+518,South Dakota,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+519,North Dakota,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+520,Alaska,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+521,Minnesota,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+522,Maine,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+523,Iowa,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+524,Montana,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+525,Colorado,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+526,Tennessee,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+527,Ohio,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+528,District of Columbia,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+529,Maryland,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+530,Mississippi,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+531,New Mexico,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+532,Rhode Island,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+533,Wyoming,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+534,Idaho,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+535,Kansas,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+536,Oklahoma,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+537,Nebraska,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+538,Massachusetts,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+539,Kentucky,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+540,Utah,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+541,West Virginia,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+542,Vermont,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+543,North Carolina,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+544,South Carolina,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+545,Oregon,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+546,New Hampshire,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+547,Missouri,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+548,Wisconsin,Colon and Rectum,2018,Female,Asian and Pacific Islander,0.0,0,0,4,3,5
+549,New Jersey,Colon and Rectum,2018,Female,Asian and Pacific Islander,4.6,20,470303,4,3,5
+550,Florida,Colon and Rectum,2018,Female,Asian and Pacific Islander,5.2,23,379145,4,3,5
+551,Washington,Colon and Rectum,2018,Female,Asian and Pacific Islander,5.7,24,431588,4,3,5
+552,Illinois,Colon and Rectum,2018,Female,Asian and Pacific Islander,5.8,24,405132,4,3,5
+553,New York,Colon and Rectum,2018,Female,Asian and Pacific Islander,6.5,65,958629,4,3,5
+554,Pennsylvania,Colon and Rectum,2018,Female,Asian and Pacific Islander,7.5,16,259112,4,3,5
+555,Hawaii,Colon and Rectum,2018,Female,Asian and Pacific Islander,7.6,60,522397,4,3,5
+556,Georgia,Colon and Rectum,2018,Female,Asian and Pacific Islander,8.0,16,251465,4,3,5
+557,California,Colon and Rectum,2018,Female,Asian and Pacific Islander,8.1,351,3443357,4,3,5
+558,Texas,Colon and Rectum,2018,Female,Asian and Pacific Islander,8.3,52,816180,4,3,5
+559,Nevada,Colon and Rectum,2018,Female,Asian and Pacific Islander,8.6,18,169049,4,3,5
+560,Virginia,Colon and Rectum,2018,Female,Asian and Pacific Islander,9.5,28,333679,4,3,5
+561,Connecticut,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+562,Arkansas,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+563,New Hampshire,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+564,Missouri,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+565,Louisiana,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+566,Michigan,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+567,North Carolina,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+568,Indiana,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+569,Hawaii,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+570,Oregon,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+571,Alabama,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+572,Delaware,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+573,South Dakota,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+574,Minnesota,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+575,Vermont,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+576,Iowa,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+577,North Dakota,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+578,Alaska,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+579,Maine,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+580,Tennessee,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+581,Montana,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+582,Ohio,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+583,Maryland,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+584,Mississippi,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+585,Idaho,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+586,Wisconsin,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+587,Wyoming,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+588,District of Columbia,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+589,Rhode Island,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+590,Kansas,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+591,Oklahoma,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+592,Washington,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+593,Kentucky,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+594,West Virginia,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+595,Nebraska,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+596,South Carolina,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+597,Utah,Colon and Rectum,2018,Female,Hispanic,0.0,0,0,4,3,6
+598,Nevada,Colon and Rectum,2018,Female,Hispanic,5.2,17,432556,4,3,6
+599,Georgia,Colon and Rectum,2018,Female,Hispanic,6.3,19,488877,4,3,6
+600,New York,Colon and Rectum,2018,Female,Hispanic,6.6,114,1898569,4,3,6
+601,New Jersey,Colon and Rectum,2018,Female,Hispanic,7.6,52,913085,4,3,6
+602,Illinois,Colon and Rectum,2018,Female,Hispanic,8.6,56,1077645,4,3,6
+603,Massachusetts,Colon and Rectum,2018,Female,Hispanic,8.7,21,422056,4,3,6
+604,California,Colon and Rectum,2018,Female,Hispanic,8.8,505,7690472,4,3,6
+605,Virginia,Colon and Rectum,2018,Female,Hispanic,8.8,20,395492,4,3,6
+606,Florida,Colon and Rectum,2018,Female,Hispanic,8.8,275,2802980,4,3,6
+607,Texas,Colon and Rectum,2018,Female,Hispanic,9.2,378,5625102,4,3,6
+608,Arizona,Colon and Rectum,2018,Female,Hispanic,9.3,71,1123083,4,3,6
+609,Colorado,Colon and Rectum,2018,Female,Hispanic,9.7,37,605233,4,3,6
+610,Pennsylvania,Colon and Rectum,2018,Female,Hispanic,10.1,27,478287,4,3,6
+611,New Mexico,Colon and Rectum,2018,Female,Hispanic,11.2,58,517500,4,3,6
+612,Utah,Colon and Rectum,2018,Male,All Races and Ethnicities,10.8,139,1588240,4,2,1
+613,Connecticut,Colon and Rectum,2018,Male,All Races and Ethnicities,11.6,242,1742123,4,2,1
+614,Colorado,Colon and Rectum,2018,Male,All Races and Ethnicities,12.9,362,2865761,4,2,1
+615,Washington,Colon and Rectum,2018,Male,All Races and Ethnicities,13.5,541,3764951,4,2,1
+616,New York,Colon and Rectum,2018,Male,All Races and Ethnicities,13.6,1440,9484218,4,2,1
+617,District of Columbia,Colon and Rectum,2018,Male,All Races and Ethnicities,13.7,41,332904,4,2,1
+618,Maine,Colon and Rectum,2018,Male,All Races and Ethnicities,14.0,123,655683,4,2,1
+619,Massachusetts,Colon and Rectum,2018,Male,All Races and Ethnicities,14.1,527,3339710,4,2,1
+620,Minnesota,Colon and Rectum,2018,Male,All Races and Ethnicities,14.2,433,2792427,4,2,1
+621,Oregon,Colon and Rectum,2018,Male,All Races and Ethnicities,14.2,341,2073087,4,2,1
+622,Rhode Island,Colon and Rectum,2018,Male,All Races and Ethnicities,14.3,85,514860,4,2,1
+623,Wyoming,Colon and Rectum,2018,Male,All Races and Ethnicities,14.4,48,294276,4,2,1
+624,California,Colon and Rectum,2018,Male,All Races and Ethnicities,14.5,2886,19618452,4,2,1
+625,Vermont,Colon and Rectum,2018,Male,All Races and Ethnicities,14.6,53,308279,4,2,1
+626,Montana,Colon and Rectum,2018,Male,All Races and Ethnicities,14.7,95,533852,4,2,1
+627,Wisconsin,Colon and Rectum,2018,Male,All Races and Ethnicities,14.9,497,2889225,4,2,1
+628,Hawaii,Colon and Rectum,2018,Male,All Races and Ethnicities,15.0,129,711291,4,2,1
+629,Idaho,Colon and Rectum,2018,Male,All Races and Ethnicities,15.0,144,877331,4,2,1
+630,North Carolina,Colon and Rectum,2018,Male,All Races and Ethnicities,15.0,834,5050327,4,2,1
+631,Florida,Colon and Rectum,2018,Male,All Races and Ethnicities,15.2,2166,10385373,4,2,1
+632,Delaware,Colon and Rectum,2018,Male,All Races and Ethnicities,15.3,87,466838,4,2,1
+633,Arizona,Colon and Rectum,2018,Male,All Races and Ethnicities,15.4,643,3557384,4,2,1
+634,Virginia,Colon and Rectum,2018,Male,All Races and Ethnicities,15.6,698,4183261,4,2,1
+635,New Jersey,Colon and Rectum,2018,Male,All Races and Ethnicities,15.7,765,4340687,4,2,1
+636,Michigan,Colon and Rectum,2018,Male,All Races and Ethnicities,15.8,891,4916210,4,2,1
+637,New Hampshire,Colon and Rectum,2018,Male,All Races and Ethnicities,16.0,130,670773,4,2,1
+638,Nevada,Colon and Rectum,2018,Male,All Races and Ethnicities,16.1,263,1518521,4,2,1
+639,Indiana,Colon and Rectum,2018,Male,All Races and Ethnicities,16.3,582,3301286,4,2,1
+640,Pennsylvania,Colon and Rectum,2018,Male,All Races and Ethnicities,16.3,1243,6271541,4,2,1
+641,South Carolina,Colon and Rectum,2018,Male,All Races and Ethnicities,16.3,464,2463765,4,2,1
+642,Iowa,Colon and Rectum,2018,Male,All Races and Ethnicities,16.5,300,1566963,4,2,1
+643,Kansas,Colon and Rectum,2018,Male,All Races and Ethnicities,16.5,261,1450771,4,2,1
+644,Maryland,Colon and Rectum,2018,Male,All Races and Ethnicities,16.6,528,2924599,4,2,1
+645,Alaska,Colon and Rectum,2018,Male,All Races and Ethnicities,16.7,51,383447,4,2,1
+646,Illinois,Colon and Rectum,2018,Male,All Races and Ethnicities,16.8,1149,6251344,4,2,1
+647,Arkansas,Colon and Rectum,2018,Male,All Races and Ethnicities,17.0,291,1478109,4,2,1
+648,New Mexico,Colon and Rectum,2018,Male,All Races and Ethnicities,17.0,199,1035540,4,2,1
+649,Texas,Colon and Rectum,2018,Male,All Races and Ethnicities,17.1,2221,14219315,4,2,1
+650,Georgia,Colon and Rectum,2018,Male,All Races and Ethnicities,17.2,863,5111831,4,2,1
+651,Ohio,Colon and Rectum,2018,Male,All Races and Ethnicities,17.5,1150,5722437,4,2,1
+652,Tennessee,Colon and Rectum,2018,Male,All Races and Ethnicities,18.0,661,3304710,4,2,1
+653,South Dakota,Colon and Rectum,2018,Male,All Races and Ethnicities,18.0,91,443493,4,2,1
+654,North Dakota,Colon and Rectum,2018,Male,All Races and Ethnicities,18.1,71,388034,4,2,1
+655,Nebraska,Colon and Rectum,2018,Male,All Races and Ethnicities,18.1,186,961374,4,2,1
+656,Missouri,Colon and Rectum,2018,Male,All Races and Ethnicities,18.3,624,3004921,4,2,1
+657,Louisiana,Colon and Rectum,2018,Male,All Races and Ethnicities,18.4,454,2274242,4,2,1
+658,Alabama,Colon and Rectum,2018,Male,All Races and Ethnicities,18.8,509,2363320,4,2,1
+659,Oklahoma,Colon and Rectum,2018,Male,All Races and Ethnicities,18.9,399,1952266,4,2,1
+660,Kentucky,Colon and Rectum,2018,Male,All Races and Ethnicities,19.2,470,2197550,4,2,1
+661,West Virginia,Colon and Rectum,2018,Male,All Races and Ethnicities,21.2,244,893309,4,2,1
+662,Mississippi,Colon and Rectum,2018,Male,All Races and Ethnicities,22.2,350,1445523,4,2,1
+663,District of Columbia,Colon and Rectum,2018,Male,White,0.0,0,0,4,2,2
+664,Utah,Colon and Rectum,2018,Male,White,10.6,128,1464575,4,2,2
+665,Connecticut,Colon and Rectum,2018,Male,White,11.4,210,1420969,4,2,2
+666,Colorado,Colon and Rectum,2018,Male,White,13.1,340,2541417,4,2,2
+667,Montana,Colon and Rectum,2018,Male,White,13.6,84,484379,4,2,2
+668,New York,Colon and Rectum,2018,Male,White,13.7,1131,6800478,4,2,2
+669,Washington,Colon and Rectum,2018,Male,White,14.0,491,3069511,4,2,2
+670,Minnesota,Colon and Rectum,2018,Male,White,14.1,405,2381530,4,2,2
+671,Maine,Colon and Rectum,2018,Male,White,14.1,121,627043,4,2,2
+672,North Carolina,Colon and Rectum,2018,Male,White,14.3,629,3666387,4,2,2
+673,Wyoming,Colon and Rectum,2018,Male,White,14.5,47,276183,4,2,2
+674,Wisconsin,Colon and Rectum,2018,Male,White,14.5,457,2549410,4,2,2
+675,Oregon,Colon and Rectum,2018,Male,White,14.6,327,1846680,4,2,2
+676,California,Colon and Rectum,2018,Male,White,14.6,2226,14677113,4,2,2
+677,Vermont,Colon and Rectum,2018,Male,White,14.6,52,294689,4,2,2
+678,Virginia,Colon and Rectum,2018,Male,White,14.6,509,3002364,4,2,2
+679,Massachusetts,Colon and Rectum,2018,Male,White,14.7,488,2749731,4,2,2
+680,Nevada,Colon and Rectum,2018,Male,White,14.7,199,1177022,4,2,2
+681,Delaware,Colon and Rectum,2018,Male,White,14.9,69,332431,4,2,2
+682,Rhode Island,Colon and Rectum,2018,Male,White,15.0,83,438063,4,2,2
+683,Arizona,Colon and Rectum,2018,Male,White,15.1,580,2997692,4,2,2
+684,Florida,Colon and Rectum,2018,Male,White,15.1,1872,8196077,4,2,2
+685,Michigan,Colon and Rectum,2018,Male,White,15.3,749,3981327,4,2,2
+686,Maryland,Colon and Rectum,2018,Male,White,15.3,336,1791830,4,2,2
+687,Idaho,Colon and Rectum,2018,Male,White,15.3,143,831196,4,2,2
+688,South Carolina,Colon and Rectum,2018,Male,White,15.3,334,1735709,4,2,2
+689,Indiana,Colon and Rectum,2018,Male,White,15.6,512,2847584,4,2,2
+690,New Jersey,Colon and Rectum,2018,Male,White,15.8,619,3195788,4,2,2
+691,Illinois,Colon and Rectum,2018,Male,White,16.0,908,4914185,4,2,2
+692,Kansas,Colon and Rectum,2018,Male,White,16.0,237,1272415,4,2,2
+693,Georgia,Colon and Rectum,2018,Male,White,16.2,586,3208154,4,2,2
+694,Pennsylvania,Colon and Rectum,2018,Male,White,16.2,1106,5210432,4,2,2
+695,Arkansas,Colon and Rectum,2018,Male,White,16.3,239,1195851,4,2,2
+696,New Hampshire,Colon and Rectum,2018,Male,White,16.4,129,631531,4,2,2
+697,Hawaii,Colon and Rectum,2018,Male,White,16.4,39,194788,4,2,2
+698,Iowa,Colon and Rectum,2018,Male,White,16.4,288,1433045,4,2,2
+699,Texas,Colon and Rectum,2018,Male,White,16.7,1828,11440403,4,2,2
+700,New Mexico,Colon and Rectum,2018,Male,White,16.8,178,862431,4,2,2
+701,North Dakota,Colon and Rectum,2018,Male,White,16.9,64,342191,4,2,2
+702,Louisiana,Colon and Rectum,2018,Male,White,17.0,303,1468736,4,2,2
+703,Tennessee,Colon and Rectum,2018,Male,White,17.1,542,2648726,4,2,2
+704,Ohio,Colon and Rectum,2018,Male,White,17.4,1011,4766506,4,2,2
+705,South Dakota,Colon and Rectum,2018,Male,White,17.6,83,379764,4,2,2
+706,Alabama,Colon and Rectum,2018,Male,White,17.8,378,1682439,4,2,2
+707,Alaska,Colon and Rectum,2018,Male,White,17.9,41,267908,4,2,2
+708,Missouri,Colon and Rectum,2018,Male,White,18.1,557,2541617,4,2,2
+709,Nebraska,Colon and Rectum,2018,Male,White,18.1,175,858655,4,2,2
+710,Oklahoma,Colon and Rectum,2018,Male,White,18.8,341,1512999,4,2,2
+711,Kentucky,Colon and Rectum,2018,Male,White,19.0,431,1949968,4,2,2
+712,Mississippi,Colon and Rectum,2018,Male,White,21.4,236,880341,4,2,2
+713,West Virginia,Colon and Rectum,2018,Male,White,21.5,240,842502,4,2,2
+714,Hawaii,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+715,Oregon,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+716,South Dakota,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+717,Minnesota,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+718,Alaska,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+719,Vermont,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+720,Maine,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+721,Iowa,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+722,North Dakota,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+723,Colorado,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+724,Montana,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+725,New Mexico,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+726,Wyoming,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+727,Idaho,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+728,Rhode Island,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+729,Washington,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+730,Nebraska,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+731,West Virginia,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+732,Utah,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+733,New Hampshire,Colon and Rectum,2018,Male,Black,0.0,0,0,4,2,3
+734,Massachusetts,Colon and Rectum,2018,Male,Black,10.5,26,323403,4,2,3
+735,New York,Colon and Rectum,2018,Male,Black,16.5,235,1695261,4,2,3
+736,Connecticut,Colon and Rectum,2018,Male,Black,16.7,27,218842,4,2,3
+737,Delaware,Colon and Rectum,2018,Male,Black,18.5,17,110010,4,2,3
+738,Florida,Colon and Rectum,2018,Male,Black,19.3,274,1798023,4,2,3
+739,North Carolina,Colon and Rectum,2018,Male,Black,19.5,189,1123566,4,2,3
+740,Kansas,Colon and Rectum,2018,Male,Black,19.7,16,106759,4,2,3
+741,New Jersey,Colon and Rectum,2018,Male,Black,19.8,111,665126,4,2,3
+742,Ohio,Colon and Rectum,2018,Male,Black,19.9,127,782561,4,2,3
+743,Pennsylvania,Colon and Rectum,2018,Male,Black,20.0,119,789327,4,2,3
+744,Georgia,Colon and Rectum,2018,Male,Black,20.4,255,1635570,4,2,3
+745,California,Colon and Rectum,2018,Male,Black,20.4,242,1413495,4,2,3
+746,District of Columbia,Colon and Rectum,2018,Male,Black,20.7,32,153373,4,2,3
+747,Oklahoma,Colon and Rectum,2018,Male,Black,21.5,24,176446,4,2,3
+748,Michigan,Colon and Rectum,2018,Male,Black,21.7,132,711939,4,2,3
+749,South Carolina,Colon and Rectum,2018,Male,Black,22.0,124,663750,4,2,3
+750,Virginia,Colon and Rectum,2018,Male,Black,22.2,159,851068,4,2,3
+751,Maryland,Colon and Rectum,2018,Male,Black,22.5,169,903583,4,2,3
+752,Louisiana,Colon and Rectum,2018,Male,Black,22.6,144,739235,4,2,3
+753,Nevada,Colon and Rectum,2018,Male,Black,22.7,31,169104,4,2,3
+754,Arkansas,Colon and Rectum,2018,Male,Black,23.4,51,233312,4,2,3
+755,Arizona,Colon and Rectum,2018,Male,Black,23.6,29,212501,4,2,3
+756,Missouri,Colon and Rectum,2018,Male,Black,23.8,64,368194,4,2,3
+757,Alabama,Colon and Rectum,2018,Male,Black,24.4,126,622427,4,2,3
+758,Kentucky,Colon and Rectum,2018,Male,Black,24.5,37,201433,4,2,3
+759,Wisconsin,Colon and Rectum,2018,Male,Black,25.3,28,211021,4,2,3
+760,Mississippi,Colon and Rectum,2018,Male,Black,25.5,112,538078,4,2,3
+761,Texas,Colon and Rectum,2018,Male,Black,25.6,325,1839465,4,2,3
+762,Illinois,Colon and Rectum,2018,Male,Black,27.1,211,913681,4,2,3
+763,Tennessee,Colon and Rectum,2018,Male,Black,27.3,115,568377,4,2,3
+764,Indiana,Colon and Rectum,2018,Male,Black,29.5,67,346047,4,2,3
+765,Connecticut,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+766,Arkansas,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+767,Georgia,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+768,Indiana,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+769,Louisiana,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+770,Michigan,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+771,Hawaii,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+772,Alabama,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+773,Montana,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+774,Delaware,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+775,Minnesota,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+776,North Dakota,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+777,New Jersey,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+778,Maine,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+779,Alaska,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+780,District of Columbia,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+781,Tennessee,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+782,Iowa,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+783,Colorado,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+784,Pennsylvania,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+785,Ohio,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+786,Virginia,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+787,Mississippi,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+788,Maryland,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+789,Kansas,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+790,Texas,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+791,Wyoming,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+792,Rhode Island,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+793,Idaho,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+794,Washington,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+795,Nebraska,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+796,New York,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+797,Illinois,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+798,Massachusetts,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+799,Missouri,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+800,Kentucky,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+801,Utah,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+802,North Carolina,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+803,West Virginia,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+804,Florida,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+805,Vermont,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+806,South Carolina,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+807,Nevada,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+808,Oregon,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+809,South Dakota,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+810,New Hampshire,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+811,Wisconsin,Colon and Rectum,2018,Male,American Indian and Alaska Native,0.0,0,0,4,2,4
+812,California,Colon and Rectum,2018,Male,American Indian and Alaska Native,9.2,22,389891,4,2,4
+813,Arizona,Colon and Rectum,2018,Male,American Indian and Alaska Native,14.7,17,201173,4,2,4
+814,New Mexico,Colon and Rectum,2018,Male,American Indian and Alaska Native,20.5,17,117483,4,2,4
+815,Oklahoma,Colon and Rectum,2018,Male,American Indian and Alaska Native,22.6,31,210289,4,2,4
+816,Connecticut,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+817,Arkansas,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+818,Michigan,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+819,Louisiana,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+820,Indiana,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+821,Alabama,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+822,Delaware,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+823,South Dakota,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+824,North Dakota,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+825,Alaska,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+826,Minnesota,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+827,Maine,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+828,Iowa,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+829,Colorado,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+830,Tennessee,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+831,Montana,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+832,Ohio,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+833,District of Columbia,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+834,Mississippi,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+835,New Mexico,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+836,Wyoming,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+837,Idaho,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+838,Rhode Island,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+839,Kansas,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+840,Oklahoma,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+841,Nebraska,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+842,Massachusetts,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+843,Kentucky,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+844,Utah,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+845,West Virginia,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+846,Vermont,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+847,North Carolina,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+848,South Carolina,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+849,Oregon,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+850,New Hampshire,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+851,Missouri,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+852,Wisconsin,Colon and Rectum,2018,Male,Asian and Pacific Islander,0.0,0,0,4,2,5
+853,Florida,Colon and Rectum,2018,Male,Asian and Pacific Islander,5.4,18,329568,4,2,5
+854,New York,Colon and Rectum,2018,Male,Asian and Pacific Islander,8.5,73,877078,4,2,5
+855,Pennsylvania,Colon and Rectum,2018,Male,Asian and Pacific Islander,8.8,17,242496,4,2,5
+856,Washington,Colon and Rectum,2018,Male,Asian and Pacific Islander,9.0,28,392697,4,2,5
+857,New Jersey,Colon and Rectum,2018,Male,Asian and Pacific Islander,9.3,34,447262,4,2,5
+858,Illinois,Colon and Rectum,2018,Male,Asian and Pacific Islander,9.3,29,378336,4,2,5
+859,Texas,Colon and Rectum,2018,Male,Asian and Pacific Islander,10.4,64,775010,4,2,5
+860,Maryland,Colon and Rectum,2018,Male,Asian and Pacific Islander,10.5,22,207717,4,2,5
+861,Georgia,Colon and Rectum,2018,Male,Asian and Pacific Islander,11.0,22,236367,4,2,5
+862,California,Colon and Rectum,2018,Male,Asian and Pacific Islander,12.1,396,3137953,4,2,5
+863,Virginia,Colon and Rectum,2018,Male,Asian and Pacific Islander,13.0,29,303076,4,2,5
+864,Hawaii,Colon and Rectum,2018,Male,Asian and Pacific Islander,15.3,89,487500,4,2,5
+865,Arizona,Colon and Rectum,2018,Male,Asian and Pacific Islander,18.1,17,146018,4,2,5
+866,Nevada,Colon and Rectum,2018,Male,Asian and Pacific Islander,21.1,29,142816,4,2,5
+867,Arkansas,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+868,Connecticut,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+869,Missouri,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+870,Louisiana,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+871,Michigan,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+872,North Carolina,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+873,Indiana,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+874,Hawaii,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+875,New Hampshire,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+876,Oregon,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+877,Alabama,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+878,Delaware,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+879,South Dakota,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+880,Minnesota,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+881,Vermont,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+882,North Dakota,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+883,Alaska,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+884,Maine,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+885,Iowa,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+886,Tennessee,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+887,Montana,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+888,Ohio,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+889,Mississippi,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+890,Virginia,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+891,Idaho,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+892,Wyoming,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+893,District of Columbia,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+894,Wisconsin,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+895,Kansas,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+896,Oklahoma,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+897,Rhode Island,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+898,Kentucky,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+899,West Virginia,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+900,Nebraska,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+901,South Carolina,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+902,Utah,Colon and Rectum,2018,Male,Hispanic,0.0,0,0,4,2,6
+903,Washington,Colon and Rectum,2018,Male,Hispanic,9.4,24,499147,4,2,6
+904,Maryland,Colon and Rectum,2018,Male,Hispanic,9.7,17,324145,4,2,6
+905,Massachusetts,Colon and Rectum,2018,Male,Hispanic,11.0,20,416225,4,2,6
+906,New York,Colon and Rectum,2018,Male,Hispanic,11.4,154,1844972,4,2,6
+907,Nevada,Colon and Rectum,2018,Male,Hispanic,11.4,26,444734,4,2,6
+908,New Jersey,Colon and Rectum,2018,Male,Hispanic,11.9,67,915684,4,2,6
+909,Pennsylvania,Colon and Rectum,2018,Male,Hispanic,12.1,28,495374,4,2,6
+910,Illinois,Colon and Rectum,2018,Male,Hispanic,12.6,76,1126969,4,2,6
+911,California,Colon and Rectum,2018,Male,Hispanic,13.8,650,7782387,4,2,6
+912,Georgia,Colon and Rectum,2018,Male,Hispanic,14.9,28,533493,4,2,6
+913,Florida,Colon and Rectum,2018,Male,Hispanic,15.5,357,2734877,4,2,6
+914,Colorado,Colon and Rectum,2018,Male,Hispanic,16.8,64,628515,4,2,6
+915,Texas,Colon and Rectum,2018,Male,Hispanic,16.8,558,5698801,4,2,6
+916,New Mexico,Colon and Rectum,2018,Male,Hispanic,17.1,72,509608,4,2,6
+917,Arizona,Colon and Rectum,2018,Male,Hispanic,20.0,115,1135773,4,2,6

@@ -1,0 +1,307 @@
+,Area,Cancer Type,Year,Sex,Race,Age-Adjusted Rate,Case Count,Population,CancerType_val,Sex_val,Race_val
+0,Hawaii,Female Breast,2018,Female,All Races and Ethnicities,15.0,153,709302,2,3,1
+1,Massachusetts,Female Breast,2018,Female,All Races and Ethnicities,15.8,773,3542925,2,3,1
+2,Maine,Female Breast,2018,Female,All Races and Ethnicities,16.0,177,683374,2,3,1
+3,Alaska,Female Breast,2018,Female,All Races and Ethnicities,16.1,58,351692,2,3,1
+4,Connecticut,Female Breast,2018,Female,All Races and Ethnicities,16.4,430,1829397,2,3,1
+5,New Hampshire,Female Breast,2018,Female,All Races and Ethnicities,16.7,171,682692,2,3,1
+6,Montana,Female Breast,2018,Female,All Races and Ethnicities,16.8,126,526813,2,3,1
+7,Arizona,Female Breast,2018,Female,All Races and Ethnicities,17.1,805,3600640,2,3,1
+8,Rhode Island,Female Breast,2018,Female,All Races and Ethnicities,17.2,135,543427,2,3,1
+9,North Dakota,Female Breast,2018,Female,All Races and Ethnicities,17.3,77,370046,2,3,1
+10,Arkansas,Female Breast,2018,Female,All Races and Ethnicities,17.9,368,1531624,2,3,1
+11,Florida,Female Breast,2018,Female,All Races and Ethnicities,18.0,2962,10858944,2,3,1
+12,Colorado,Female Breast,2018,Female,All Races and Ethnicities,18.2,599,2825526,2,3,1
+13,Nebraska,Female Breast,2018,Female,All Races and Ethnicities,18.2,222,964240,2,3,1
+14,Iowa,Female Breast,2018,Female,All Races and Ethnicities,18.3,394,1581655,2,3,1
+15,Minnesota,Female Breast,2018,Female,All Races and Ethnicities,18.4,670,2813822,2,3,1
+16,Oregon,Female Breast,2018,Female,All Races and Ethnicities,18.5,525,2108799,2,3,1
+17,California,Female Breast,2018,Female,All Races and Ethnicities,19.0,4572,19843136,2,3,1
+18,New York,Female Breast,2018,Female,All Races and Ethnicities,19.3,2639,10046133,2,3,1
+19,Missouri,Female Breast,2018,Female,All Races and Ethnicities,19.3,814,3116702,2,3,1
+20,Washington,Female Breast,2018,Female,All Races and Ethnicities,19.4,913,3758918,2,3,1
+21,New Mexico,Female Breast,2018,Female,All Races and Ethnicities,19.5,275,1057201,2,3,1
+22,Wisconsin,Female Breast,2018,Female,All Races and Ethnicities,19.6,775,2918181,2,3,1
+23,Kentucky,Female Breast,2018,Female,All Races and Ethnicities,19.8,592,2263603,2,3,1
+24,South Dakota,Female Breast,2018,Female,All Races and Ethnicities,19.9,112,435205,2,3,1
+25,Texas,Female Breast,2018,Female,All Races and Ethnicities,20.1,3117,14409351,2,3,1
+26,Wyoming,Female Breast,2018,Female,All Races and Ethnicities,20.1,71,283325,2,3,1
+27,Vermont,Female Breast,2018,Female,All Races and Ethnicities,20.1,97,316079,2,3,1
+28,Utah,Female Breast,2018,Female,All Races and Ethnicities,20.2,287,1565310,2,3,1
+29,Kansas,Female Breast,2018,Female,All Races and Ethnicities,20.3,381,1460588,2,3,1
+30,North Carolina,Female Breast,2018,Female,All Races and Ethnicities,20.3,1405,5331288,2,3,1
+31,Pennsylvania,Female Breast,2018,Female,All Races and Ethnicities,20.4,1963,6529381,2,3,1
+32,Georgia,Female Breast,2018,Female,All Races and Ethnicities,20.6,1293,5399300,2,3,1
+33,New Jersey,Female Breast,2018,Female,All Races and Ethnicities,20.7,1290,4545338,2,3,1
+34,Virginia,Female Breast,2018,Female,All Races and Ethnicities,20.7,1132,4318025,2,3,1
+35,Illinois,Female Breast,2018,Female,All Races and Ethnicities,20.7,1754,6471727,2,3,1
+36,Indiana,Female Breast,2018,Female,All Races and Ethnicities,20.9,914,3394211,2,3,1
+37,Ohio,Female Breast,2018,Female,All Races and Ethnicities,20.9,1700,5953904,2,3,1
+38,Maryland,Female Breast,2018,Female,All Races and Ethnicities,21.2,838,3111203,2,3,1
+39,Nevada,Female Breast,2018,Female,All Races and Ethnicities,21.3,381,1508820,2,3,1
+40,Mississippi,Female Breast,2018,Female,All Races and Ethnicities,21.5,413,1535497,2,3,1
+41,Michigan,Female Breast,2018,Female,All Races and Ethnicities,21.7,1490,5067862,2,3,1
+42,Delaware,Female Breast,2018,Female,All Races and Ethnicities,21.8,149,498641,2,3,1
+43,South Carolina,Female Breast,2018,Female,All Races and Ethnicities,21.8,758,2620391,2,3,1
+44,Alabama,Female Breast,2018,Female,All Races and Ethnicities,21.9,731,2524361,2,3,1
+45,Idaho,Female Breast,2018,Female,All Races and Ethnicities,22.2,239,873205,2,3,1
+46,West Virginia,Female Breast,2018,Female,All Races and Ethnicities,22.4,298,910982,2,3,1
+47,Louisiana,Female Breast,2018,Female,All Races and Ethnicities,22.6,677,2385448,2,3,1
+48,Tennessee,Female Breast,2018,Female,All Races and Ethnicities,23.3,1034,3466921,2,3,1
+49,Oklahoma,Female Breast,2018,Female,All Races and Ethnicities,24.2,610,1987969,2,3,1
+50,District of Columbia,Female Breast,2018,Female,All Races and Ethnicities,27.1,106,368643,2,3,1
+51,District of Columbia,Female Breast,2018,Female,White,15.1,21,162569,2,3,2
+52,Montana,Female Breast,2018,Female,White,15.6,115,476562,2,3,2
+53,Connecticut,Female Breast,2018,Female,White,15.8,365,1482706,2,3,2
+54,Massachusetts,Female Breast,2018,Female,White,15.8,692,2913106,2,3,2
+55,Maine,Female Breast,2018,Female,White,15.9,173,654956,2,3,2
+56,Alaska,Female Breast,2018,Female,White,16.2,44,239055,2,3,2
+57,Arkansas,Female Breast,2018,Female,White,16.6,296,1225549,2,3,2
+58,New Hampshire,Female Breast,2018,Female,White,17.0,169,645554,2,3,2
+59,Arizona,Female Breast,2018,Female,White,17.3,734,3032061,2,3,2
+60,Florida,Female Breast,2018,Female,White,17.5,2471,8494176,2,3,2
+61,Rhode Island,Female Breast,2018,Female,White,17.6,127,464188,2,3,2
+62,Mississippi,Female Breast,2018,Female,White,17.8,235,900959,2,3,2
+63,North Dakota,Female Breast,2018,Female,White,18.0,75,327564,2,3,2
+64,Missouri,Female Breast,2018,Female,White,18.1,685,2612757,2,3,2
+65,Nebraska,Female Breast,2018,Female,White,18.2,211,863741,2,3,2
+66,Minnesota,Female Breast,2018,Female,White,18.4,625,2405405,2,3,2
+67,Iowa,Female Breast,2018,Female,White,18.5,383,1457766,2,3,2
+68,Georgia,Female Breast,2018,Female,White,18.6,803,3260375,2,3,2
+69,Oregon,Female Breast,2018,Female,White,18.7,497,1877920,2,3,2
+70,Colorado,Female Breast,2018,Female,White,18.8,573,2506000,2,3,2
+71,Maryland,Female Breast,2018,Female,White,19.1,499,1833886,2,3,2
+72,Illinois,Female Breast,2018,Female,White,19.2,1327,4998606,2,3,2
+73,North Carolina,Female Breast,2018,Female,White,19.3,1032,3787992,2,3,2
+74,Texas,Female Breast,2018,Female,White,19.3,2497,11481905,2,3,2
+75,New York,Female Breast,2018,Female,White,19.3,2006,7051515,2,3,2
+76,Wisconsin,Female Breast,2018,Female,White,19.4,717,2568475,2,3,2
+77,Virginia,Female Breast,2018,Female,White,19.5,813,3041404,2,3,2
+78,Kentucky,Female Breast,2018,Female,White,19.5,539,2012497,2,3,2
+79,Vermont,Female Breast,2018,Female,White,19.8,94,302630,2,3,2
+80,Nevada,Female Breast,2018,Female,White,19.8,281,1137703,2,3,2
+81,California,Female Breast,2018,Female,White,19.9,3585,14588109,2,3,2
+82,Pennsylvania,Female Breast,2018,Female,White,19.9,1699,5398388,2,3,2
+83,Delaware,Female Breast,2018,Female,White,19.9,112,350587,2,3,2
+84,Alabama,Female Breast,2018,Female,White,20.1,515,1746198,2,3,2
+85,Washington,Female Breast,2018,Female,White,20.1,823,3053227,2,3,2
+86,South Carolina,Female Breast,2018,Female,White,20.2,530,1797753,2,3,2
+87,Hawaii,Female Breast,2018,Female,White,20.3,49,165981,2,3,2
+88,South Dakota,Female Breast,2018,Female,White,20.4,107,374017,2,3,2
+89,Ohio,Female Breast,2018,Female,White,20.4,1456,4925060,2,3,2
+90,Louisiana,Female Breast,2018,Female,White,20.4,430,1500331,2,3,2
+91,Kansas,Female Breast,2018,Female,White,20.4,355,1287436,2,3,2
+92,Utah,Female Breast,2018,Female,White,20.4,275,1445810,2,3,2
+93,New Mexico,Female Breast,2018,Female,White,20.5,253,879276,2,3,2
+94,Indiana,Female Breast,2018,Female,White,20.6,821,2917999,2,3,2
+95,New Jersey,Female Breast,2018,Female,White,20.6,1026,3311480,2,3,2
+96,Wyoming,Female Breast,2018,Female,White,20.6,70,266262,2,3,2
+97,Michigan,Female Breast,2018,Female,White,20.7,1218,4055958,2,3,2
+98,Tennessee,Female Breast,2018,Female,White,21.8,814,2742940,2,3,2
+99,West Virginia,Female Breast,2018,Female,White,22.1,285,865365,2,3,2
+100,Idaho,Female Breast,2018,Female,White,22.5,234,826312,2,3,2
+101,Oklahoma,Female Breast,2018,Female,White,24.1,518,1540466,2,3,2
+102,Oregon,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+103,Alaska,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+104,Vermont,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+105,Hawaii,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+106,Maine,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+107,South Dakota,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+108,Colorado,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+109,Iowa,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+110,New Mexico,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+111,Idaho,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+112,Wyoming,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+113,Rhode Island,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+114,Montana,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+115,North Dakota,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+116,Nebraska,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+117,Utah,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+118,West Virginia,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+119,New Hampshire,Female Breast,2018,Female,Black,0.0,0,0,2,3,3
+120,Massachusetts,Female Breast,2018,Female,Black,17.4,55,341914,2,3,3
+121,Arizona,Female Breast,2018,Female,Black,21.6,34,200971,2,3,3
+122,Florida,Female Breast,2018,Female,Black,21.9,432,1928202,2,3,3
+123,New York,Female Breast,2018,Female,Black,23.1,519,1923612,2,3,3
+124,Washington,Female Breast,2018,Female,Black,23.5,33,187518,2,3,3
+125,North Carolina,Female Breast,2018,Female,Black,24.5,342,1270945,2,3,3
+126,Connecticut,Female Breast,2018,Female,Black,24.6,58,239634,2,3,3
+127,Georgia,Female Breast,2018,Female,Black,25.2,460,1857964,2,3,3
+128,Ohio,Female Breast,2018,Female,Black,25.6,225,845793,2,3,3
+129,Kentucky,Female Breast,2018,Female,Black,25.6,49,203019,2,3,3
+130,South Carolina,Female Breast,2018,Female,Black,26.1,217,753896,2,3,3
+131,New Jersey,Female Breast,2018,Female,Black,26.6,212,732277,2,3,3
+132,Indiana,Female Breast,2018,Female,Black,26.9,88,369099,2,3,3
+133,California,Female Breast,2018,Female,Black,27.4,414,1428458,2,3,3
+134,Minnesota,Female Breast,2018,Female,Black,27.5,35,208058,2,3,3
+135,Alabama,Female Breast,2018,Female,Black,27.5,211,715353,2,3,3
+136,Maryland,Female Breast,2018,Female,Black,27.7,311,1028519,2,3,3
+137,Louisiana,Female Breast,2018,Female,Black,28.2,239,817853,2,3,3
+138,Virginia,Female Breast,2018,Female,Black,28.2,278,918026,2,3,3
+139,Kansas,Female Breast,2018,Female,Black,28.2,23,99964,2,3,3
+140,Arkansas,Female Breast,2018,Female,Black,28.3,70,256169,2,3,3
+141,Pennsylvania,Female Breast,2018,Female,Black,28.5,243,842583,2,3,3
+142,Missouri,Female Breast,2018,Female,Black,28.5,116,402799,2,3,3
+143,Mississippi,Female Breast,2018,Female,Black,28.6,174,605342,2,3,3
+144,Delaware,Female Breast,2018,Female,Black,29.1,35,122875,2,3,3
+145,Texas,Female Breast,2018,Female,Black,29.7,528,1954693,2,3,3
+146,Michigan,Female Breast,2018,Female,Black,30.6,251,783118,2,3,3
+147,Nevada,Female Breast,2018,Female,Black,31.8,47,172213,2,3,3
+148,Wisconsin,Female Breast,2018,Female,Black,31.8,50,216459,2,3,3
+149,Oklahoma,Female Breast,2018,Female,Black,32.8,51,175457,2,3,3
+150,Illinois,Female Breast,2018,Female,Black,33.1,377,1025025,2,3,3
+151,Tennessee,Female Breast,2018,Female,Black,33.4,213,631125,2,3,3
+152,District of Columbia,Female Breast,2018,Female,Black,36.3,83,183884,2,3,3
+153,Connecticut,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+154,Arizona,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+155,Georgia,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+156,Arkansas,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+157,Indiana,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+158,Michigan,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+159,Louisiana,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+160,Hawaii,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+161,Delaware,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+162,New Jersey,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+163,North Dakota,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+164,Minnesota,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+165,Alaska,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+166,Iowa,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+167,Maine,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+168,Montana,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+169,Alabama,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+170,Colorado,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+171,Tennessee,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+172,District of Columbia,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+173,Pennsylvania,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+174,Idaho,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+175,New Mexico,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+176,Kansas,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+177,Virginia,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+178,Ohio,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+179,Maryland,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+180,Mississippi,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+181,Texas,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+182,Wyoming,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+183,Nebraska,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+184,Illinois,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+185,Massachusetts,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+186,Rhode Island,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+187,Washington,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+188,Kentucky,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+189,New York,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+190,West Virginia,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+191,Florida,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+192,South Carolina,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+193,North Carolina,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+194,Oregon,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+195,Utah,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+196,Missouri,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+197,Vermont,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+198,Nevada,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+199,South Dakota,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+200,New Hampshire,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+201,Wisconsin,Female Breast,2018,Female,American Indian and Alaska Native,0.0,0,0,2,3,4
+202,California,Female Breast,2018,Female,American Indian and Alaska Native,7.1,22,383212,2,3,4
+203,Oklahoma,Female Breast,2018,Female,American Indian and Alaska Native,20.7,36,215221,2,3,4
+204,Connecticut,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+205,Arkansas,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+206,Louisiana,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+207,Indiana,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+208,Delaware,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+209,South Dakota,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+210,Minnesota,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+211,North Dakota,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+212,Alaska,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+213,Maine,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+214,Montana,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+215,Alabama,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+216,Colorado,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+217,Tennessee,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+218,Iowa,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+219,District of Columbia,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+220,Mississippi,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+221,New Mexico,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+222,Idaho,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+223,Kansas,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+224,Wyoming,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+225,Nebraska,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+226,Rhode Island,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+227,West Virginia,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+228,Oklahoma,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+229,Kentucky,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+230,South Carolina,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+231,Utah,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+232,Vermont,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+233,Oregon,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+234,New Hampshire,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+235,Missouri,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+236,Wisconsin,Female Breast,2018,Female,Asian and Pacific Islander,0.0,0,0,2,3,5
+237,Pennsylvania,Female Breast,2018,Female,Asian and Pacific Islander,8.8,20,259112,2,3,5
+238,Michigan,Female Breast,2018,Female,Asian and Pacific Islander,9.4,16,182076,2,3,5
+239,North Carolina,Female Breast,2018,Female,Asian and Pacific Islander,9.8,16,183665,2,3,5
+240,Washington,Female Breast,2018,Female,Asian and Pacific Islander,9.9,44,431588,2,3,5
+241,New York,Female Breast,2018,Female,Asian and Pacific Islander,10.3,107,958629,2,3,5
+242,Maryland,Female Breast,2018,Female,Asian and Pacific Islander,10.7,27,227938,2,3,5
+243,Massachusetts,Female Breast,2018,Female,Asian and Pacific Islander,11.1,25,267842,2,3,5
+244,New Jersey,Female Breast,2018,Female,Asian and Pacific Islander,11.2,52,470303,2,3,5
+245,Illinois,Female Breast,2018,Female,Asian and Pacific Islander,11.2,49,405132,2,3,5
+246,Virginia,Female Breast,2018,Female,Asian and Pacific Islander,11.4,37,333679,2,3,5
+247,Texas,Female Breast,2018,Female,Asian and Pacific Islander,12.4,87,816180,2,3,5
+248,Florida,Female Breast,2018,Female,Asian and Pacific Islander,12.5,55,379145,2,3,5
+249,Ohio,Female Breast,2018,Female,Asian and Pacific Islander,12.9,16,160904,2,3,5
+250,California,Female Breast,2018,Female,Asian and Pacific Islander,13.0,551,3443357,2,3,5
+251,Georgia,Female Breast,2018,Female,Asian and Pacific Islander,13.3,29,251465,2,3,5
+252,Hawaii,Female Breast,2018,Female,Asian and Pacific Islander,13.8,104,522397,2,3,5
+253,Arizona,Female Breast,2018,Female,Asian and Pacific Islander,16.1,25,160448,2,3,5
+254,Nevada,Female Breast,2018,Female,Asian and Pacific Islander,24.2,50,169049,2,3,5
+255,Arkansas,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+256,Louisiana,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+257,Oregon,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+258,Missouri,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+259,New Hampshire,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+260,Minnesota,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+261,Alaska,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+262,Vermont,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+263,Hawaii,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+264,South Dakota,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+265,Alabama,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+266,Maine,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+267,Tennessee,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+268,Ohio,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+269,Wisconsin,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+270,Iowa,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+271,Kansas,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+272,Wyoming,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+273,Delaware,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+274,Mississippi,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+275,Montana,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+276,North Dakota,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+277,Rhode Island,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+278,Kentucky,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+279,Nebraska,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+280,South Carolina,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+281,Idaho,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+282,West Virginia,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+283,District of Columbia,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+284,Oklahoma,Female Breast,2018,Female,Hispanic,0.0,0,0,2,3,6
+285,Georgia,Female Breast,2018,Female,Hispanic,8.8,25,488877,2,3,6
+286,Nevada,Female Breast,2018,Female,Hispanic,9.7,30,432556,2,3,6
+287,Illinois,Female Breast,2018,Female,Hispanic,10.7,79,1077645,2,3,6
+288,Connecticut,Female Breast,2018,Female,Hispanic,12.1,26,296795,2,3,6
+289,Virginia,Female Breast,2018,Female,Hispanic,12.1,32,395492,2,3,6
+290,New Jersey,Female Breast,2018,Female,Hispanic,12.3,98,913085,2,3,6
+291,California,Female Breast,2018,Female,Hispanic,13.1,785,7690472,2,3,6
+292,North Carolina,Female Breast,2018,Female,Hispanic,13.3,33,480800,2,3,6
+293,New York,Female Breast,2018,Female,Hispanic,13.4,243,1898569,2,3,6
+294,Arizona,Female Breast,2018,Female,Hispanic,13.8,110,1123083,2,3,6
+295,Maryland,Female Breast,2018,Female,Hispanic,13.9,29,302233,2,3,6
+296,Florida,Female Breast,2018,Female,Hispanic,14.1,438,2802980,2,3,6
+297,Texas,Female Breast,2018,Female,Hispanic,14.6,632,5625102,2,3,6
+298,Indiana,Female Breast,2018,Female,Hispanic,15.3,20,230128,2,3,6
+299,Massachusetts,Female Breast,2018,Female,Hispanic,15.5,46,422056,2,3,6
+300,Pennsylvania,Female Breast,2018,Female,Hispanic,16.0,50,478287,2,3,6
+301,Colorado,Female Breast,2018,Female,Hispanic,16.8,68,605233,2,3,6
+302,Michigan,Female Breast,2018,Female,Hispanic,16.9,27,255022,2,3,6
+303,New Mexico,Female Breast,2018,Female,Hispanic,17.2,88,517500,2,3,6
+304,Washington,Female Breast,2018,Female,Hispanic,17.6,42,467708,2,3,6
+305,Utah,Female Breast,2018,Female,Hispanic,22.4,24,218891,2,3,6

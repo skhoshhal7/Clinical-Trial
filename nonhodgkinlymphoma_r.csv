@@ -1,0 +1,919 @@
+,Area,Cancer Type,Year,Sex,Race,Age-Adjusted Rate,Case Count,Population,CancerType_val,Sex_val,Race_val
+0,New Hampshire,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,3.8,71,1353465,10,1,1
+1,District of Columbia,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.1,28,701547,10,1,1
+2,Arizona,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.3,398,7158024,10,1,1
+3,Hawaii,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.3,87,1420593,10,1,1
+4,Colorado,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.3,256,5691287,10,1,1
+5,Nebraska,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.5,107,1925614,10,1,1
+6,South Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.5,295,5084156,10,1,1
+7,Wyoming,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.6,31,577601,10,1,1
+8,New York,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.6,1139,19530351,10,1,1
+9,Nevada,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.6,160,3027341,10,1,1
+10,Georgia,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.7,518,10511131,10,1,1
+11,Alabama,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.7,291,4887681,10,1,1
+12,Montana,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.8,68,1060665,10,1,1
+13,Florida,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.8,1541,21244317,10,1,1
+14,North Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.8,597,10381615,10,1,1
+15,Connecticut,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.9,233,3571520,10,1,1
+16,California,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.9,2131,39461588,10,1,1
+17,New Jersey,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.9,552,8886025,10,1,1
+18,Maryland,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,4.9,343,6035802,10,1,1
+19,New Mexico,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.0,135,2092741,10,1,1
+20,Mississippi,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.0,178,2981020,10,1,1
+21,Rhode Island,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.0,73,1058287,10,1,1
+22,Utah,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.0,130,3153550,10,1,1
+23,South Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.0,56,878698,10,1,1
+24,Delaware,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.1,67,965479,10,1,1
+25,Texas,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.1,1402,28628666,10,1,1
+26,Illinois,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.2,804,12723071,10,1,1
+27,Washington,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.2,447,7523869,10,1,1
+28,Idaho,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.3,107,1750536,10,1,1
+29,Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.3,519,8501286,10,1,1
+30,Minnesota,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.4,367,5606249,10,1,1
+31,Massachusetts,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.4,472,6882635,10,1,1
+32,West Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.4,140,1804291,10,1,1
+33,Missouri,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.4,423,6121623,10,1,1
+34,Arkansas,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.5,207,3009733,10,1,1
+35,Indiana,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.5,432,6695497,10,1,1
+36,Wisconsin,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.5,411,5807406,10,1,1
+37,Maine,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.6,112,1339057,10,1,1
+38,Tennessee,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.6,456,6771631,10,1,1
+39,Ohio,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.6,845,11676341,10,1,1
+40,Kansas,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.6,201,2911359,10,1,1
+41,Iowa,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.7,237,3148618,10,1,1
+42,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.7,1010,12800922,10,1,1
+43,Vermont,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.7,52,624358,10,1,1
+44,Louisiana,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.8,307,4659690,10,1,1
+45,Kentucky,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,5.9,316,4461153,10,1,1
+46,Alaska,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,6.0,41,735139,10,1,1
+47,Michigan,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,6.2,794,9984072,10,1,1
+48,Oklahoma,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,6.2,289,3940235,10,1,1
+49,North Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,6.4,59,758080,10,1,1
+50,Oregon,Non-Hodgkin Lymphoma,2018,Male and Female,All Races and Ethnicities,6.5,352,4181886,10,1,1
+51,District of Columbia,Non-Hodgkin Lymphoma,2018,Male and Female,White,0.0,0,0,10,1,2
+52,New Hampshire,Non-Hodgkin Lymphoma,2018,Male and Female,White,3.9,71,1277085,10,1,2
+53,Arizona,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.4,374,6029753,10,1,2
+54,Colorado,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.4,240,5047417,10,1,2
+55,Hawaii,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.5,22,360769,10,1,2
+56,Nebraska,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.6,105,1722396,10,1,2
+57,Wyoming,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.7,31,542445,10,1,2
+58,Montana,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.7,64,960941,10,1,2
+59,Nevada,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.7,134,2314725,10,1,2
+60,Florida,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.8,1375,16690253,10,1,2
+61,South Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.8,52,753781,10,1,2
+62,South Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,White,4.9,245,3533462,10,1,2
+63,Georgia,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.0,388,6468529,10,1,2
+64,North Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.0,491,7454379,10,1,2
+65,New Mexico,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.0,124,1741707,10,1,2
+66,Rhode Island,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.0,69,902251,10,1,2
+67,New York,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.0,969,13851993,10,1,2
+68,Utah,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.0,125,2910385,10,1,2
+69,Connecticut,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.2,222,2903675,10,1,2
+70,Alabama,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.2,250,3428637,10,1,2
+71,California,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.2,1740,29265222,10,1,2
+72,Maryland,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.2,259,3625716,10,1,2
+73,Mississippi,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.2,130,1781300,10,1,2
+74,Minnesota,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.3,348,4786935,10,1,2
+75,Delaware,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.3,57,683018,10,1,2
+76,New Jersey,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.3,482,6507268,10,1,2
+77,Texas,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.4,1255,22922308,10,1,2
+78,Idaho,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.4,106,1657508,10,1,2
+79,Washington,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.4,412,6122738,10,1,2
+80,West Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.4,136,1707867,10,1,2
+81,Missouri,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.5,386,5154374,10,1,2
+82,Maine,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.5,109,1281999,10,1,2
+83,Indiana,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.6,405,5765583,10,1,2
+84,Illinois,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.6,706,9912791,10,1,2
+85,Wisconsin,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.6,397,5117885,10,1,2
+86,Massachusetts,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.7,445,5662837,10,1,2
+87,Arkansas,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,194,2421400,10,1,2
+88,Vermont,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,52,597319,10,1,2
+89,Tennessee,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,411,5391666,10,1,2
+90,Iowa,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,232,2890811,10,1,2
+91,Ohio,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,778,9691566,10,1,2
+92,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,939,10608820,10,1,2
+93,Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,444,6043768,10,1,2
+94,North Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,54,669755,10,1,2
+95,Kansas,Non-Hodgkin Lymphoma,2018,Male and Female,White,5.8,192,2559851,10,1,2
+96,Louisiana,Non-Hodgkin Lymphoma,2018,Male and Female,White,6.0,236,2969067,10,1,2
+97,Kentucky,Non-Hodgkin Lymphoma,2018,Male and Female,White,6.0,299,3962465,10,1,2
+98,Michigan,Non-Hodgkin Lymphoma,2018,Male and Female,White,6.4,714,8037285,10,1,2
+99,Oklahoma,Non-Hodgkin Lymphoma,2018,Male and Female,White,6.5,261,3053465,10,1,2
+100,Oregon,Non-Hodgkin Lymphoma,2018,Male and Female,White,6.6,335,3724600,10,1,2
+101,Alaska,Non-Hodgkin Lymphoma,2018,Male and Female,White,7.1,37,506963,10,1,2
+102,Arizona,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+103,Connecticut,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+104,Arkansas,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+105,New Hampshire,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+106,Hawaii,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+107,Oregon,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+108,Delaware,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+109,South Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+110,Minnesota,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+111,Iowa,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+112,Vermont,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+113,Maine,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+114,North Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+115,Alaska,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+116,Montana,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+117,Wisconsin,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+118,Colorado,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+119,Wyoming,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+120,New Mexico,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+121,Kansas,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+122,Idaho,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+123,Washington,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+124,Oklahoma,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+125,Massachusetts,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+126,Rhode Island,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+127,Kentucky,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+128,Nebraska,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+129,West Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+130,Utah,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+131,Nevada,Non-Hodgkin Lymphoma,2018,Male and Female,Black,0.0,0,0,10,1,3
+132,New York,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.0,113,3618873,10,1,3
+133,Alabama,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.2,38,1337780,10,1,3
+134,South Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.3,48,1417646,10,1,3
+135,New Jersey,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.4,47,1397403,10,1,3
+136,Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.4,56,1769094,10,1,3
+137,Georgia,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.7,112,3493534,10,1,3
+138,California,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.7,98,2841953,10,1,3
+139,Tennessee,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.8,40,1199502,10,1,3
+140,Illinois,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.8,74,1938706,10,1,3
+141,North Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.9,91,2394511,10,1,3
+142,Texas,Non-Hodgkin Lymphoma,2018,Male and Female,Black,3.9,118,3794158,10,1,3
+143,Maryland,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.0,74,1932102,10,1,3
+144,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.1,58,1631910,10,1,3
+145,Indiana,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.3,22,715146,10,1,3
+146,Mississippi,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.3,46,1143420,10,1,3
+147,Florida,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.3,142,3726225,10,1,3
+148,District of Columbia,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.4,18,337257,10,1,3
+149,Ohio,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.5,64,1628354,10,1,3
+150,Louisiana,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.7,65,1557088,10,1,3
+151,Michigan,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.7,67,1495057,10,1,3
+152,Missouri,Non-Hodgkin Lymphoma,2018,Male and Female,Black,4.7,33,770993,10,1,3
+153,Arizona,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+154,Connecticut,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+155,Georgia,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+156,Arkansas,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+157,Louisiana,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+158,Indiana,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+159,Michigan,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+160,California,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+161,Delaware,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+162,Hawaii,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+163,Alabama,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+164,South Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+165,Maine,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+166,Minnesota,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+167,New Jersey,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+168,North Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+169,Iowa,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+170,Montana,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+171,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+172,Alaska,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+173,District of Columbia,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+174,Tennessee,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+175,Colorado,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+176,Idaho,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+177,Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+178,New Mexico,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+179,Ohio,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+180,Maryland,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+181,Mississippi,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+182,Rhode Island,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+183,Kansas,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+184,Texas,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+185,Wyoming,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+186,Nebraska,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+187,Washington,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+188,Florida,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+189,Massachusetts,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+190,New York,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+191,Illinois,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+192,Utah,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+193,Kentucky,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+194,West Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+195,North Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+196,Vermont,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+197,South Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+198,Nevada,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+199,Missouri,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+200,Oregon,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+201,New Hampshire,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+202,Wisconsin,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,0.0,0,0,10,1,4
+203,Oklahoma,Non-Hodgkin Lymphoma,2018,Male and Female,American Indian and Alaska Native,5.5,16,425510,10,1,4
+204,Arizona,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+205,Connecticut,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+206,Arkansas,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+207,North Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+208,Michigan,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+209,Indiana,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+210,Louisiana,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+211,Oregon,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+212,Delaware,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+213,South Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+214,Alabama,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+215,Minnesota,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+216,Maine,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+217,Vermont,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+218,North Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+219,Iowa,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+220,Montana,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+221,Alaska,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+222,Colorado,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+223,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+224,Tennessee,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+225,District of Columbia,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+226,Idaho,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+227,Ohio,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+228,Mississippi,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+229,Maryland,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+230,Rhode Island,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+231,New Mexico,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+232,Wyoming,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+233,Kansas,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+234,Nebraska,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+235,Oklahoma,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+236,Massachusetts,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+237,Utah,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+238,Kentucky,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+239,West Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+240,South Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+241,Nevada,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+242,Missouri,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+243,New Hampshire,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+244,Wisconsin,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,0.0,0,0,10,1,5
+245,New Jersey,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,2.4,22,917565,10,1,5
+246,Texas,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,2.4,28,1591190,10,1,5
+247,Washington,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,2.4,18,824285,10,1,5
+248,New York,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,3.0,57,1835707,10,1,5
+249,Florida,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,3.1,22,708713,10,1,5
+250,Illinois,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,3.5,24,783468,10,1,5
+251,Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,3.6,18,636755,10,1,5
+252,California,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,3.9,281,6581310,10,1,5
+253,Hawaii,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,4.5,65,1009897,10,1,5
+254,Georgia,Non-Hodgkin Lymphoma,2018,Male and Female,Asian and Pacific Islander,5.1,17,487832,10,1,5
+255,Connecticut,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+256,Georgia,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+257,Arkansas,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+258,Louisiana,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+259,North Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+260,Indiana,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+261,New Hampshire,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+262,Missouri,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+263,Oregon,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+264,Alabama,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+265,Delaware,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+266,Hawaii,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+267,Minnesota,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+268,South Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+269,Vermont,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+270,Alaska,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+271,Maine,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+272,Iowa,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+273,North Dakota,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+274,Tennessee,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+275,District of Columbia,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+276,Mississippi,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+277,Maryland,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+278,Ohio,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+279,Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+280,Montana,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+281,Wisconsin,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+282,Idaho,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+283,Kansas,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+284,Wyoming,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+285,Rhode Island,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+286,Oklahoma,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+287,Kentucky,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+288,Nebraska,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+289,West Virginia,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+290,South Carolina,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+291,Utah,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,0.0,0,0,10,1,6
+292,New Jersey,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,3.4,42,1828769,10,1,6
+293,New York,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,3.6,110,3743541,10,1,6
+294,Nevada,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,3.6,18,877290,10,1,6
+295,Arizona,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,4.3,56,2258856,10,1,6
+296,Florida,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,4.5,237,5537857,10,1,6
+297,California,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,4.7,455,15472859,10,1,6
+298,Texas,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,4.7,319,11323903,10,1,6
+299,Massachusetts,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,5.1,22,838281,10,1,6
+300,Colorado,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,5.1,35,1233748,10,1,6
+301,New Mexico,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,5.3,48,1027108,10,1,6
+302,Illinois,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,5.7,66,2204614,10,1,6
+303,Michigan,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,6.4,17,518477,10,1,6
+304,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,6.6,30,973661,10,1,6
+305,Washington,Non-Hodgkin Lymphoma,2018,Male and Female,Hispanic,6.6,23,966855,10,1,6
+306,District of Columbia,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,0.0,0,0,10,3,1
+307,Wyoming,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,0.0,0,0,10,3,1
+308,Nebraska,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.0,41,964240,10,3,1
+309,Arizona,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.2,162,3600640,10,3,1
+310,Maryland,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.2,133,3111203,10,3,1
+311,West Virginia,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.2,47,910982,10,3,1
+312,Alabama,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.3,116,2524361,10,3,1
+313,Connecticut,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.4,98,1829397,10,3,1
+314,Hawaii,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.4,37,709302,10,3,1
+315,Minnesota,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.4,129,2813822,10,3,1
+316,New York,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.4,490,10046133,10,3,1
+317,Nevada,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.4,63,1508820,10,3,1
+318,New Jersey,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.5,235,4545338,10,3,1
+319,Florida,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.5,637,10858944,10,3,1
+320,Utah,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.5,48,1565310,10,3,1
+321,North Carolina,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.5,251,5331288,10,3,1
+322,Georgia,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.6,220,5399300,10,3,1
+323,Colorado,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.6,117,2825526,10,3,1
+324,South Carolina,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.6,130,2620391,10,3,1
+325,Arkansas,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.7,78,1531624,10,3,1
+326,California,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.7,920,19843136,10,3,1
+327,North Dakota,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.7,22,370046,10,3,1
+328,Virginia,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.7,206,4318025,10,3,1
+329,Mississippi,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.7,75,1535497,10,3,1
+330,Texas,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.8,572,14409351,10,3,1
+331,Illinois,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.8,340,6471727,10,3,1
+332,South Dakota,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.8,24,435205,10,3,1
+333,New Hampshire,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.8,38,682692,10,3,1
+334,Montana,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.9,30,526813,10,3,1
+335,Maine,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.9,47,683374,10,3,1
+336,New Mexico,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.9,57,1057201,10,3,1
+337,Washington,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,3.9,185,3758918,10,3,1
+338,Iowa,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.0,94,1581655,10,3,1
+339,Tennessee,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.1,191,3466921,10,3,1
+340,Missouri,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.1,181,3116702,10,3,1
+341,Idaho,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.2,46,873205,10,3,1
+342,Vermont,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.2,22,316079,10,3,1
+343,Louisiana,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.3,131,2385448,10,3,1
+344,Delaware,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.3,31,498641,10,3,1
+345,Ohio,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.3,371,5953904,10,3,1
+346,Wisconsin,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.3,182,2918181,10,3,1
+347,Pennsylvania,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.4,448,6529381,10,3,1
+348,Kansas,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.4,89,1460588,10,3,1
+349,Rhode Island,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.4,37,543427,10,3,1
+350,Massachusetts,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.4,222,3542925,10,3,1
+351,Kentucky,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.5,137,2263603,10,3,1
+352,Indiana,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.6,207,3394211,10,3,1
+353,Michigan,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.7,345,5067862,10,3,1
+354,Oklahoma,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,4.9,127,1987969,10,3,1
+355,Alaska,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,5.1,17,351692,10,3,1
+356,Oregon,Non-Hodgkin Lymphoma,2018,Female,All Races and Ethnicities,5.1,156,2108799,10,3,1
+357,Hawaii,Non-Hodgkin Lymphoma,2018,Female,White,0.0,0,0,10,3,2
+358,Alaska,Non-Hodgkin Lymphoma,2018,Female,White,0.0,0,0,10,3,2
+359,District of Columbia,Non-Hodgkin Lymphoma,2018,Female,White,0.0,0,0,10,3,2
+360,Wyoming,Non-Hodgkin Lymphoma,2018,Female,White,0.0,0,0,10,3,2
+361,Nebraska,Non-Hodgkin Lymphoma,2018,Female,White,3.1,40,863741,10,3,2
+362,West Virginia,Non-Hodgkin Lymphoma,2018,Female,White,3.1,45,865365,10,3,2
+363,Arizona,Non-Hodgkin Lymphoma,2018,Female,White,3.2,148,3032061,10,3,2
+364,Alabama,Non-Hodgkin Lymphoma,2018,Female,White,3.3,93,1746198,10,3,2
+365,Minnesota,Non-Hodgkin Lymphoma,2018,Female,White,3.4,124,2405405,10,3,2
+366,Maryland,Non-Hodgkin Lymphoma,2018,Female,White,3.4,99,1833886,10,3,2
+367,Nevada,Non-Hodgkin Lymphoma,2018,Female,White,3.4,50,1137703,10,3,2
+368,Florida,Non-Hodgkin Lymphoma,2018,Female,White,3.5,558,8494176,10,3,2
+369,Utah,Non-Hodgkin Lymphoma,2018,Female,White,3.5,46,1445810,10,3,2
+370,Connecticut,Non-Hodgkin Lymphoma,2018,Female,White,3.6,91,1482706,10,3,2
+371,Georgia,Non-Hodgkin Lymphoma,2018,Female,White,3.6,157,3260375,10,3,2
+372,North Carolina,Non-Hodgkin Lymphoma,2018,Female,White,3.6,204,3787992,10,3,2
+373,South Dakota,Non-Hodgkin Lymphoma,2018,Female,White,3.6,22,374017,10,3,2
+374,Colorado,Non-Hodgkin Lymphoma,2018,Female,White,3.6,111,2506000,10,3,2
+375,North Dakota,Non-Hodgkin Lymphoma,2018,Female,White,3.7,21,327564,10,3,2
+376,New Jersey,Non-Hodgkin Lymphoma,2018,Female,White,3.7,200,3311480,10,3,2
+377,Arkansas,Non-Hodgkin Lymphoma,2018,Female,White,3.8,72,1225549,10,3,2
+378,Montana,Non-Hodgkin Lymphoma,2018,Female,White,3.8,28,476562,10,3,2
+379,New Mexico,Non-Hodgkin Lymphoma,2018,Female,White,3.8,52,879276,10,3,2
+380,New York,Non-Hodgkin Lymphoma,2018,Female,White,3.8,418,7051515,10,3,2
+381,New Hampshire,Non-Hodgkin Lymphoma,2018,Female,White,3.9,38,645554,10,3,2
+382,Maine,Non-Hodgkin Lymphoma,2018,Female,White,3.9,46,654956,10,3,2
+383,Texas,Non-Hodgkin Lymphoma,2018,Female,White,3.9,510,11481905,10,3,2
+384,South Carolina,Non-Hodgkin Lymphoma,2018,Female,White,3.9,107,1797753,10,3,2
+385,Illinois,Non-Hodgkin Lymphoma,2018,Female,White,4.0,294,4998606,10,3,2
+386,California,Non-Hodgkin Lymphoma,2018,Female,White,4.0,747,14588109,10,3,2
+387,Virginia,Non-Hodgkin Lymphoma,2018,Female,White,4.0,176,3041404,10,3,2
+388,Mississippi,Non-Hodgkin Lymphoma,2018,Female,White,4.0,57,900959,10,3,2
+389,Missouri,Non-Hodgkin Lymphoma,2018,Female,White,4.1,163,2612757,10,3,2
+390,Iowa,Non-Hodgkin Lymphoma,2018,Female,White,4.1,94,1457766,10,3,2
+391,Washington,Non-Hodgkin Lymphoma,2018,Female,White,4.1,170,3053227,10,3,2
+392,Tennessee,Non-Hodgkin Lymphoma,2018,Female,White,4.2,168,2742940,10,3,2
+393,Vermont,Non-Hodgkin Lymphoma,2018,Female,White,4.3,22,302630,10,3,2
+394,Idaho,Non-Hodgkin Lymphoma,2018,Female,White,4.3,45,826312,10,3,2
+395,Wisconsin,Non-Hodgkin Lymphoma,2018,Female,White,4.4,178,2568475,10,3,2
+396,Rhode Island,Non-Hodgkin Lymphoma,2018,Female,White,4.4,35,464188,10,3,2
+397,Massachusetts,Non-Hodgkin Lymphoma,2018,Female,White,4.5,206,2913106,10,3,2
+398,Ohio,Non-Hodgkin Lymphoma,2018,Female,White,4.5,343,4925060,10,3,2
+399,Kentucky,Non-Hodgkin Lymphoma,2018,Female,White,4.6,133,2012497,10,3,2
+400,Delaware,Non-Hodgkin Lymphoma,2018,Female,White,4.6,26,350587,10,3,2
+401,Pennsylvania,Non-Hodgkin Lymphoma,2018,Female,White,4.6,420,5398388,10,3,2
+402,Kansas,Non-Hodgkin Lymphoma,2018,Female,White,4.6,87,1287436,10,3,2
+403,Indiana,Non-Hodgkin Lymphoma,2018,Female,White,4.7,193,2917999,10,3,2
+404,Louisiana,Non-Hodgkin Lymphoma,2018,Female,White,4.7,105,1500331,10,3,2
+405,Michigan,Non-Hodgkin Lymphoma,2018,Female,White,4.9,313,4055958,10,3,2
+406,Oregon,Non-Hodgkin Lymphoma,2018,Female,White,5.1,147,1877920,10,3,2
+407,Oklahoma,Non-Hodgkin Lymphoma,2018,Female,White,5.1,113,1540466,10,3,2
+408,Arizona,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+409,Connecticut,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+410,Arkansas,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+411,Indiana,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+412,Hawaii,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+413,Delaware,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+414,Oregon,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+415,South Dakota,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+416,Minnesota,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+417,Maine,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+418,Iowa,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+419,Vermont,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+420,North Dakota,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+421,Alaska,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+422,Montana,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+423,Wisconsin,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+424,Colorado,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+425,District of Columbia,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+426,Idaho,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+427,New Mexico,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+428,Wyoming,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+429,Kansas,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+430,Nebraska,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+431,Washington,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+432,Oklahoma,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+433,Rhode Island,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+434,Massachusetts,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+435,Kentucky,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+436,West Virginia,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+437,Utah,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+438,Nevada,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+439,New Hampshire,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+440,Missouri,Non-Hodgkin Lymphoma,2018,Female,Black,0.0,0,0,10,3,3
+441,New York,Non-Hodgkin Lymphoma,2018,Female,Black,2.3,49,1923612,10,3,3
+442,Virginia,Non-Hodgkin Lymphoma,2018,Female,Black,2.4,23,918026,10,3,3
+443,South Carolina,Non-Hodgkin Lymphoma,2018,Female,Black,2.4,21,753896,10,3,3
+444,California,Non-Hodgkin Lymphoma,2018,Female,Black,2.6,38,1428458,10,3,3
+445,Pennsylvania,Non-Hodgkin Lymphoma,2018,Female,Black,2.6,21,842583,10,3,3
+446,Mississippi,Non-Hodgkin Lymphoma,2018,Female,Black,2.6,16,605342,10,3,3
+447,Maryland,Non-Hodgkin Lymphoma,2018,Female,Black,2.7,30,1028519,10,3,3
+448,Louisiana,Non-Hodgkin Lymphoma,2018,Female,Black,2.9,23,817853,10,3,3
+449,New Jersey,Non-Hodgkin Lymphoma,2018,Female,Black,2.9,24,732277,10,3,3
+450,Georgia,Non-Hodgkin Lymphoma,2018,Female,Black,3.0,53,1857964,10,3,3
+451,Alabama,Non-Hodgkin Lymphoma,2018,Female,Black,3.1,21,715353,10,3,3
+452,Illinois,Non-Hodgkin Lymphoma,2018,Female,Black,3.1,35,1025025,10,3,3
+453,North Carolina,Non-Hodgkin Lymphoma,2018,Female,Black,3.2,45,1270945,10,3,3
+454,Michigan,Non-Hodgkin Lymphoma,2018,Female,Black,3.2,26,783118,10,3,3
+455,Ohio,Non-Hodgkin Lymphoma,2018,Female,Black,3.2,28,845793,10,3,3
+456,Texas,Non-Hodgkin Lymphoma,2018,Female,Black,3.2,52,1954693,10,3,3
+457,Tennessee,Non-Hodgkin Lymphoma,2018,Female,Black,3.3,20,631125,10,3,3
+458,Florida,Non-Hodgkin Lymphoma,2018,Female,Black,3.6,66,1928202,10,3,3
+459,Arizona,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+460,Connecticut,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+461,Georgia,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+462,Arkansas,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+463,Indiana,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+464,Louisiana,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+465,Alabama,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+466,California,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+467,Michigan,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+468,Montana,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+469,Delaware,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+470,Hawaii,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+471,Minnesota,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+472,Maine,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+473,Iowa,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+474,North Dakota,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+475,New Jersey,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+476,Pennsylvania,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+477,Alaska,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+478,Colorado,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+479,Tennessee,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+480,District of Columbia,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+481,Idaho,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+482,Virginia,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+483,Ohio,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+484,Mississippi,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+485,New Mexico,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+486,Maryland,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+487,Rhode Island,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+488,Nebraska,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+489,Kansas,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+490,Wyoming,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+491,Texas,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+492,Oklahoma,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+493,Massachusetts,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+494,Washington,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+495,New York,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+496,Florida,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+497,Illinois,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+498,Utah,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+499,Kentucky,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+500,West Virginia,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+501,South Carolina,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+502,North Carolina,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+503,Vermont,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+504,Nevada,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+505,Oregon,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+506,Missouri,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+507,South Dakota,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+508,New Hampshire,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+509,Wisconsin,Non-Hodgkin Lymphoma,2018,Female,American Indian and Alaska Native,0.0,0,0,10,3,4
+510,Arizona,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+511,Connecticut,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+512,Arkansas,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+513,Georgia,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+514,Louisiana,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+515,Michigan,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+516,Indiana,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+517,Alabama,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+518,Delaware,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+519,South Dakota,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+520,Maine,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+521,New Jersey,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+522,Minnesota,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+523,North Dakota,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+524,Iowa,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+525,Montana,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+526,Alaska,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+527,Pennsylvania,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+528,Tennessee,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+529,District of Columbia,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+530,Colorado,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+531,Virginia,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+532,New Mexico,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+533,Ohio,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+534,Idaho,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+535,Mississippi,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+536,Maryland,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+537,Rhode Island,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+538,Texas,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+539,Wyoming,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+540,Kansas,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+541,Nebraska,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+542,Oklahoma,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+543,Washington,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+544,Massachusetts,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+545,Florida,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+546,Illinois,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+547,Utah,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+548,Kentucky,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+549,West Virginia,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+550,North Carolina,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+551,South Carolina,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+552,Nevada,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+553,Missouri,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+554,Oregon,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+555,Vermont,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+556,New Hampshire,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+557,Wisconsin,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,0.0,0,0,10,3,5
+558,New York,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,2.3,23,958629,10,3,5
+559,California,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,3.1,132,3443357,10,3,5
+560,Hawaii,Non-Hodgkin Lymphoma,2018,Female,Asian and Pacific Islander,3.5,29,522397,10,3,5
+561,Connecticut,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+562,Georgia,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+563,Arkansas,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+564,Missouri,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+565,Louisiana,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+566,New Hampshire,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+567,North Carolina,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+568,Michigan,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+569,Indiana,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+570,Hawaii,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+571,Oregon,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+572,Alabama,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+573,Delaware,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+574,South Dakota,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+575,Minnesota,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+576,Vermont,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+577,Maine,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+578,Alaska,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+579,Montana,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+580,North Dakota,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+581,Iowa,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+582,Tennessee,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+583,District of Columbia,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+584,Mississippi,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+585,Maryland,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+586,Ohio,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+587,Virginia,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+588,Wyoming,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+589,Kansas,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+590,Idaho,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+591,Wisconsin,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+592,Washington,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+593,Rhode Island,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+594,Oklahoma,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+595,Kentucky,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+596,Nebraska,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+597,West Virginia,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+598,Utah,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+599,South Carolina,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+600,Nevada,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+601,Massachusetts,Non-Hodgkin Lymphoma,2018,Female,Hispanic,0.0,0,0,10,3,6
+602,New Jersey,Non-Hodgkin Lymphoma,2018,Female,Hispanic,2.9,21,913085,10,3,6
+603,New York,Non-Hodgkin Lymphoma,2018,Female,Hispanic,2.9,53,1898569,10,3,6
+604,Arizona,Non-Hodgkin Lymphoma,2018,Female,Hispanic,3.0,22,1123083,10,3,6
+605,Texas,Non-Hodgkin Lymphoma,2018,Female,Hispanic,3.5,130,5625102,10,3,6
+606,Florida,Non-Hodgkin Lymphoma,2018,Female,Hispanic,3.5,108,2802980,10,3,6
+607,New Mexico,Non-Hodgkin Lymphoma,2018,Female,Hispanic,3.6,18,517500,10,3,6
+608,California,Non-Hodgkin Lymphoma,2018,Female,Hispanic,3.9,206,7690472,10,3,6
+609,Illinois,Non-Hodgkin Lymphoma,2018,Female,Hispanic,4.0,25,1077645,10,3,6
+610,Colorado,Non-Hodgkin Lymphoma,2018,Female,Hispanic,4.2,16,605233,10,3,6
+611,Pennsylvania,Non-Hodgkin Lymphoma,2018,Female,Hispanic,6.9,17,478287,10,3,6
+612,District of Columbia,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,0.0,0,0,10,2,1
+613,New Hampshire,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,3.7,33,670773,10,2,1
+614,Colorado,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,5.3,139,2865761,10,2,1
+615,Hawaii,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,5.5,50,711291,10,2,1
+616,Arizona,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,5.6,236,3557384,10,2,1
+617,Wyoming,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,5.6,18,294276,10,2,1
+618,Montana,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,5.7,38,533852,10,2,1
+619,Rhode Island,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,5.7,36,514860,10,2,1
+620,South Carolina,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,5.8,165,2463765,10,2,1
+621,Nevada,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,5.9,97,1518521,10,2,1
+622,Delaware,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.1,36,466838,10,2,1
+623,Nebraska,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.1,66,961374,10,2,1
+624,Florida,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.2,904,10385373,10,2,1
+625,New York,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.2,649,9484218,10,2,1
+626,Georgia,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.4,298,5111831,10,2,1
+627,California,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.4,1211,19618452,10,2,1
+628,Idaho,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.5,61,877331,10,2,1
+629,New Mexico,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.5,78,1035540,10,2,1
+630,Indiana,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.6,225,3301286,10,2,1
+631,Mississippi,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.6,103,1445523,10,2,1
+632,North Carolina,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.6,346,5050327,10,2,1
+633,South Dakota,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.6,32,443493,10,2,1
+634,Connecticut,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.7,135,1742123,10,2,1
+635,Alabama,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.7,175,2363320,10,2,1
+636,New Jersey,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.7,317,4340687,10,2,1
+637,Washington,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.8,262,3764951,10,2,1
+638,Utah,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.8,82,1588240,10,2,1
+639,Texas,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.9,830,14219315,10,2,1
+640,Massachusetts,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,6.9,250,3339710,10,2,1
+641,Alaska,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.0,24,383447,10,2,1
+642,Wisconsin,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.0,229,2889225,10,2,1
+643,Maryland,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.1,210,2924599,10,2,1
+644,Missouri,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.1,242,3004921,10,2,1
+645,Illinois,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.2,464,6251344,10,2,1
+646,Kansas,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.3,112,1450771,10,2,1
+647,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.4,562,6271541,10,2,1
+648,Virginia,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.4,313,4183261,10,2,1
+649,Ohio,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.4,474,5722437,10,2,1
+650,Tennessee,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.5,265,3304710,10,2,1
+651,Maine,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.6,65,655683,10,2,1
+652,Kentucky,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.6,179,2197550,10,2,1
+653,Arkansas,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.7,129,1478109,10,2,1
+654,Louisiana,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.7,176,2274242,10,2,1
+655,Vermont,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.8,30,308279,10,2,1
+656,Oklahoma,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,7.9,162,1952266,10,2,1
+657,Minnesota,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,8.0,238,2792427,10,2,1
+658,Iowa,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,8.0,143,1566963,10,2,1
+659,Michigan,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,8.1,449,4916210,10,2,1
+660,West Virginia,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,8.1,93,893309,10,2,1
+661,Oregon,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,8.3,196,2073087,10,2,1
+662,North Dakota,Non-Hodgkin Lymphoma,2018,Male,All Races and Ethnicities,9.5,37,388034,10,2,1
+663,Hawaii,Non-Hodgkin Lymphoma,2018,Male,White,0.0,0,0,10,2,2
+664,District of Columbia,Non-Hodgkin Lymphoma,2018,Male,White,0.0,0,0,10,2,2
+665,New Hampshire,Non-Hodgkin Lymphoma,2018,Male,White,3.8,33,631531,10,2,2
+666,Colorado,Non-Hodgkin Lymphoma,2018,Male,White,5.3,129,2541417,10,2,2
+667,Montana,Non-Hodgkin Lymphoma,2018,Male,White,5.6,36,484379,10,2,2
+668,Arizona,Non-Hodgkin Lymphoma,2018,Male,White,5.7,226,2997692,10,2,2
+669,Wyoming,Non-Hodgkin Lymphoma,2018,Male,White,5.8,18,276183,10,2,2
+670,Rhode Island,Non-Hodgkin Lymphoma,2018,Male,White,5.9,34,438063,10,2,2
+671,South Carolina,Non-Hodgkin Lymphoma,2018,Male,White,6.0,138,1735709,10,2,2
+672,Nevada,Non-Hodgkin Lymphoma,2018,Male,White,6.1,84,1177022,10,2,2
+673,Florida,Non-Hodgkin Lymphoma,2018,Male,White,6.3,817,8196077,10,2,2
+674,Delaware,Non-Hodgkin Lymphoma,2018,Male,White,6.3,31,332431,10,2,2
+675,South Dakota,Non-Hodgkin Lymphoma,2018,Male,White,6.4,30,379764,10,2,2
+676,Nebraska,Non-Hodgkin Lymphoma,2018,Male,White,6.4,65,858655,10,2,2
+677,New Mexico,Non-Hodgkin Lymphoma,2018,Male,White,6.5,72,862431,10,2,2
+678,Mississippi,Non-Hodgkin Lymphoma,2018,Male,White,6.6,73,880341,10,2,2
+679,Idaho,Non-Hodgkin Lymphoma,2018,Male,White,6.6,61,831196,10,2,2
+680,Georgia,Non-Hodgkin Lymphoma,2018,Male,White,6.7,231,3208154,10,2,2
+681,Indiana,Non-Hodgkin Lymphoma,2018,Male,White,6.7,212,2847584,10,2,2
+682,New York,Non-Hodgkin Lymphoma,2018,Male,White,6.7,551,6800478,10,2,2
+683,North Carolina,Non-Hodgkin Lymphoma,2018,Male,White,6.8,287,3666387,10,2,2
+684,California,Non-Hodgkin Lymphoma,2018,Male,White,6.8,993,14677113,10,2,2
+685,Utah,Non-Hodgkin Lymphoma,2018,Male,White,6.8,79,1464575,10,2,2
+686,Washington,Non-Hodgkin Lymphoma,2018,Male,White,7.0,242,3069511,10,2,2
+687,Wisconsin,Non-Hodgkin Lymphoma,2018,Male,White,7.1,219,2549410,10,2,2
+688,Missouri,Non-Hodgkin Lymphoma,2018,Male,White,7.2,223,2541617,10,2,2
+689,Texas,Non-Hodgkin Lymphoma,2018,Male,White,7.2,745,11440403,10,2,2
+690,Connecticut,Non-Hodgkin Lymphoma,2018,Male,White,7.3,131,1420969,10,2,2
+691,Massachusetts,Non-Hodgkin Lymphoma,2018,Male,White,7.3,239,2749731,10,2,2
+692,Kansas,Non-Hodgkin Lymphoma,2018,Male,White,7.3,105,1272415,10,2,2
+693,New Jersey,Non-Hodgkin Lymphoma,2018,Male,White,7.4,282,3195788,10,2,2
+694,Alabama,Non-Hodgkin Lymphoma,2018,Male,White,7.5,157,1682439,10,2,2
+695,Ohio,Non-Hodgkin Lymphoma,2018,Male,White,7.5,435,4766506,10,2,2
+696,Kentucky,Non-Hodgkin Lymphoma,2018,Male,White,7.6,166,1949968,10,2,2
+697,Illinois,Non-Hodgkin Lymphoma,2018,Male,White,7.6,412,4914185,10,2,2
+698,Maine,Non-Hodgkin Lymphoma,2018,Male,White,7.6,63,627043,10,2,2
+699,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male,White,7.6,519,5210432,10,2,2
+700,Maryland,Non-Hodgkin Lymphoma,2018,Male,White,7.7,160,1791830,10,2,2
+701,Louisiana,Non-Hodgkin Lymphoma,2018,Male,White,7.8,131,1468736,10,2,2
+702,Minnesota,Non-Hodgkin Lymphoma,2018,Male,White,7.9,224,2381530,10,2,2
+703,Vermont,Non-Hodgkin Lymphoma,2018,Male,White,7.9,30,294689,10,2,2
+704,Tennessee,Non-Hodgkin Lymphoma,2018,Male,White,7.9,243,2648726,10,2,2
+705,Iowa,Non-Hodgkin Lymphoma,2018,Male,White,8.0,138,1433045,10,2,2
+706,Virginia,Non-Hodgkin Lymphoma,2018,Male,White,8.0,268,3002364,10,2,2
+707,Alaska,Non-Hodgkin Lymphoma,2018,Male,White,8.1,23,267908,10,2,2
+708,Arkansas,Non-Hodgkin Lymphoma,2018,Male,White,8.2,122,1195851,10,2,2
+709,Michigan,Non-Hodgkin Lymphoma,2018,Male,White,8.2,401,3981327,10,2,2
+710,West Virginia,Non-Hodgkin Lymphoma,2018,Male,White,8.2,91,842502,10,2,2
+711,Oklahoma,Non-Hodgkin Lymphoma,2018,Male,White,8.2,148,1512999,10,2,2
+712,Oregon,Non-Hodgkin Lymphoma,2018,Male,White,8.4,188,1846680,10,2,2
+713,North Dakota,Non-Hodgkin Lymphoma,2018,Male,White,8.6,33,342191,10,2,2
+714,Arizona,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+715,Connecticut,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+716,Arkansas,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+717,New Hampshire,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+718,Indiana,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+719,Hawaii,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+720,Delaware,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+721,Oregon,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+722,South Dakota,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+723,Minnesota,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+724,Iowa,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+725,Vermont,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+726,North Dakota,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+727,Maine,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+728,Alaska,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+729,Montana,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+730,Wisconsin,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+731,Colorado,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+732,District of Columbia,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+733,New Mexico,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+734,Wyoming,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+735,Kansas,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+736,Idaho,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+737,Nebraska,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+738,Washington,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+739,Oklahoma,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+740,Massachusetts,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+741,Rhode Island,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+742,Kentucky,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+743,West Virginia,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+744,Utah,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+745,Nevada,Non-Hodgkin Lymphoma,2018,Male,Black,0.0,0,0,10,2,3
+746,Alabama,Non-Hodgkin Lymphoma,2018,Male,Black,3.1,17,622427,10,2,3
+747,New Jersey,Non-Hodgkin Lymphoma,2018,Male,Black,4.0,23,665126,10,2,3
+748,New York,Non-Hodgkin Lymphoma,2018,Male,Black,4.2,64,1695261,10,2,3
+749,Virginia,Non-Hodgkin Lymphoma,2018,Male,Black,4.5,33,851068,10,2,3
+750,Texas,Non-Hodgkin Lymphoma,2018,Male,Black,4.7,66,1839465,10,2,3
+751,Tennessee,Non-Hodgkin Lymphoma,2018,Male,Black,4.8,20,568377,10,2,3
+752,Illinois,Non-Hodgkin Lymphoma,2018,Male,Black,4.8,39,913681,10,2,3
+753,Georgia,Non-Hodgkin Lymphoma,2018,Male,Black,4.9,59,1635570,10,2,3
+754,South Carolina,Non-Hodgkin Lymphoma,2018,Male,Black,4.9,27,663750,10,2,3
+755,California,Non-Hodgkin Lymphoma,2018,Male,Black,5.0,60,1413495,10,2,3
+756,North Carolina,Non-Hodgkin Lymphoma,2018,Male,Black,5.1,46,1123566,10,2,3
+757,Florida,Non-Hodgkin Lymphoma,2018,Male,Black,5.2,76,1798023,10,2,3
+758,Maryland,Non-Hodgkin Lymphoma,2018,Male,Black,5.7,44,903583,10,2,3
+759,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male,Black,6.1,37,789327,10,2,3
+760,Missouri,Non-Hodgkin Lymphoma,2018,Male,Black,6.3,18,368194,10,2,3
+761,Ohio,Non-Hodgkin Lymphoma,2018,Male,Black,6.4,36,782561,10,2,3
+762,Michigan,Non-Hodgkin Lymphoma,2018,Male,Black,6.9,41,711939,10,2,3
+763,Mississippi,Non-Hodgkin Lymphoma,2018,Male,Black,6.9,30,538078,10,2,3
+764,Louisiana,Non-Hodgkin Lymphoma,2018,Male,Black,7.0,42,739235,10,2,3
+765,Arizona,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+766,Connecticut,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+767,Georgia,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+768,Arkansas,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+769,Indiana,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+770,Louisiana,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+771,California,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+772,Michigan,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+773,Delaware,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+774,Hawaii,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+775,Alabama,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+776,South Dakota,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+777,Minnesota,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+778,Maine,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+779,Iowa,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+780,North Dakota,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+781,Montana,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+782,New Jersey,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+783,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+784,Alaska,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+785,Colorado,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+786,District of Columbia,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+787,Tennessee,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+788,Idaho,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+789,Virginia,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+790,Mississippi,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+791,New Mexico,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+792,Ohio,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+793,Maryland,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+794,Rhode Island,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+795,Kansas,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+796,Wyoming,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+797,Texas,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+798,Oklahoma,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+799,Nebraska,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+800,Massachusetts,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+801,Washington,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+802,Florida,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+803,New York,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+804,Illinois,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+805,Utah,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+806,Kentucky,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+807,West Virginia,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+808,South Carolina,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+809,North Carolina,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+810,Vermont,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+811,Oregon,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+812,Nevada,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+813,Missouri,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+814,New Hampshire,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+815,Wisconsin,Non-Hodgkin Lymphoma,2018,Male,American Indian and Alaska Native,0.0,0,0,10,2,4
+816,Arizona,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+817,Connecticut,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+818,Arkansas,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+819,Georgia,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+820,Louisiana,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+821,Michigan,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+822,Indiana,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+823,Oregon,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+824,Alabama,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+825,Delaware,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+826,South Dakota,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+827,Minnesota,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+828,North Dakota,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+829,New Jersey,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+830,Maine,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+831,Vermont,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+832,Iowa,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+833,Montana,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+834,Alaska,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+835,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+836,Colorado,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+837,Tennessee,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+838,District of Columbia,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+839,Virginia,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+840,Ohio,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+841,Idaho,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+842,Mississippi,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+843,Maryland,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+844,Rhode Island,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+845,New Mexico,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+846,Wyoming,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+847,Kansas,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+848,Nebraska,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+849,Oklahoma,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+850,Washington,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+851,Massachusetts,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+852,Florida,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+853,Utah,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+854,Illinois,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+855,Kentucky,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+856,West Virginia,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+857,North Carolina,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+858,South Carolina,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+859,Nevada,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+860,Missouri,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+861,New Hampshire,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+862,Wisconsin,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,0.0,0,0,10,2,5
+863,Texas,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,3.7,18,775010,10,2,5
+864,New York,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,3.9,34,877078,10,2,5
+865,California,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,4.9,149,3137953,10,2,5
+866,Hawaii,Non-Hodgkin Lymphoma,2018,Male,Asian and Pacific Islander,6.0,36,487500,10,2,5
+867,Connecticut,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+868,Georgia,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+869,Arkansas,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+870,Missouri,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+871,Louisiana,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+872,New Hampshire,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+873,North Carolina,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+874,Michigan,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+875,Indiana,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+876,Oregon,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+877,Alabama,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+878,Hawaii,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+879,Delaware,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+880,South Dakota,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+881,Minnesota,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+882,Vermont,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+883,Maine,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+884,Alaska,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+885,Iowa,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+886,North Dakota,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+887,Tennessee,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+888,Pennsylvania,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+889,District of Columbia,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+890,Mississippi,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+891,Maryland,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+892,Ohio,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+893,Virginia,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+894,Wyoming,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+895,Idaho,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+896,Montana,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+897,Wisconsin,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+898,Kansas,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+899,Washington,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+900,Rhode Island,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+901,Oklahoma,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+902,Kentucky,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+903,Nebraska,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+904,West Virginia,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+905,Utah,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+906,South Carolina,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+907,Nevada,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+908,Massachusetts,Non-Hodgkin Lymphoma,2018,Male,Hispanic,0.0,0,0,10,2,6
+909,New Jersey,Non-Hodgkin Lymphoma,2018,Male,Hispanic,4.2,21,915684,10,2,6
+910,New York,Non-Hodgkin Lymphoma,2018,Male,Hispanic,4.7,57,1844972,10,2,6
+911,California,Non-Hodgkin Lymphoma,2018,Male,Hispanic,5.8,249,7782387,10,2,6
+912,Florida,Non-Hodgkin Lymphoma,2018,Male,Hispanic,5.8,129,2734877,10,2,6
+913,Arizona,Non-Hodgkin Lymphoma,2018,Male,Hispanic,6.0,34,1135773,10,2,6
+914,Colorado,Non-Hodgkin Lymphoma,2018,Male,Hispanic,6.0,19,628515,10,2,6
+915,Texas,Non-Hodgkin Lymphoma,2018,Male,Hispanic,6.2,189,5698801,10,2,6
+916,New Mexico,Non-Hodgkin Lymphoma,2018,Male,Hispanic,7.3,30,509608,10,2,6
+917,Illinois,Non-Hodgkin Lymphoma,2018,Male,Hispanic,7.6,41,1126969,10,2,6
